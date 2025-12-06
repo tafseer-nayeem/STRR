@@ -1,0 +1,5002 @@
+[
+    {
+        "number": 1,
+        "french": "comme",
+        "english": "as"
+    },
+    {
+        "number": 2,
+        "french": "je",
+        "english": "I"
+    },
+    {
+        "number": 3,
+        "french": "son",
+        "english": "his"
+    },
+    {
+        "number": 4,
+        "french": "que",
+        "english": "that"
+    },
+    {
+        "number": 5,
+        "french": "il",
+        "english": "he"
+    },
+    {
+        "number": 6,
+        "french": "était",
+        "english": "was"
+    },
+    {
+        "number": 7,
+        "french": "pour",
+        "english": "for"
+    },
+    {
+        "number": 8,
+        "french": "sur",
+        "english": "on"
+    },
+    {
+        "number": 9,
+        "french": "sont",
+        "english": "are"
+    },
+    {
+        "number": 10,
+        "french": "avec",
+        "english": "with"
+    },
+    {
+        "number": 11,
+        "french": "ils",
+        "english": "they"
+    },
+    {
+        "number": 12,
+        "french": "être",
+        "english": "be"
+    },
+    {
+        "number": 13,
+        "french": "à",
+        "english": "at"
+    },
+    {
+        "number": 14,
+        "french": "un",
+        "english": "one"
+    },
+    {
+        "number": 15,
+        "french": "avoir",
+        "english": "have"
+    },
+    {
+        "number": 16,
+        "french": "ce",
+        "english": "this"
+    },
+    {
+        "number": 17,
+        "french": "à partir de",
+        "english": "from"
+    },
+    {
+        "number": 18,
+        "french": "par",
+        "english": "by"
+    },
+    {
+        "number": 19,
+        "french": "chaud",
+        "english": "hot"
+    },
+    {
+        "number": 20,
+        "french": "mot",
+        "english": "word"
+    },
+    {
+        "number": 21,
+        "french": "mais",
+        "english": "but"
+    },
+    {
+        "number": 22,
+        "french": "que",
+        "english": "what"
+    },
+    {
+        "number": 23,
+        "french": "certains",
+        "english": "some"
+    },
+    {
+        "number": 24,
+        "french": "est",
+        "english": "is"
+    },
+    {
+        "number": 25,
+        "french": "il",
+        "english": "it"
+    },
+    {
+        "number": 26,
+        "french": "vous",
+        "english": "you"
+    },
+    {
+        "number": 27,
+        "french": "ou",
+        "english": "or"
+    },
+    {
+        "number": 28,
+        "french": "eu",
+        "english": "had"
+    },
+    {
+        "number": 29,
+        "french": "la",
+        "english": "the"
+    },
+    {
+        "number": 30,
+        "french": "de",
+        "english": "of"
+    },
+    {
+        "number": 31,
+        "french": "à",
+        "english": "to"
+    },
+    {
+        "number": 32,
+        "french": "et",
+        "english": "and"
+    },
+    {
+        "number": 33,
+        "french": "un",
+        "english": "a"
+    },
+    {
+        "number": 34,
+        "french": "dans",
+        "english": "in"
+    },
+    {
+        "number": 35,
+        "french": "nous",
+        "english": "we"
+    },
+    {
+        "number": 36,
+        "french": "boîte",
+        "english": "can"
+    },
+    {
+        "number": 37,
+        "french": "dehors",
+        "english": "out"
+    },
+    {
+        "number": 38,
+        "french": "autre",
+        "english": "other"
+    },
+    {
+        "number": 39,
+        "french": "étaient",
+        "english": "were"
+    },
+    {
+        "number": 40,
+        "french": "qui",
+        "english": "which"
+    },
+    {
+        "number": 41,
+        "french": "faire",
+        "english": "do"
+    },
+    {
+        "number": 42,
+        "french": "leur",
+        "english": "their"
+    },
+    {
+        "number": 43,
+        "french": "temps",
+        "english": "time"
+    },
+    {
+        "number": 44,
+        "french": "si",
+        "english": "if"
+    },
+    {
+        "number": 45,
+        "french": "volonté",
+        "english": "will"
+    },
+    {
+        "number": 46,
+        "french": "comment",
+        "english": "how"
+    },
+    {
+        "number": 47,
+        "french": "dit",
+        "english": "said"
+    },
+    {
+        "number": 48,
+        "french": "un",
+        "english": "an"
+    },
+    {
+        "number": 49,
+        "french": "chaque",
+        "english": "each"
+    },
+    {
+        "number": 50,
+        "french": "dire",
+        "english": "tell"
+    },
+    {
+        "number": 51,
+        "french": "ne",
+        "english": "does"
+    },
+    {
+        "number": 52,
+        "french": "ensemble",
+        "english": "set"
+    },
+    {
+        "number": 53,
+        "french": "trois",
+        "english": "three"
+    },
+    {
+        "number": 54,
+        "french": "vouloir",
+        "english": "want"
+    },
+    {
+        "number": 55,
+        "french": "air",
+        "english": "air"
+    },
+    {
+        "number": 56,
+        "french": "bien",
+        "english": "well"
+    },
+    {
+        "number": 57,
+        "french": "aussi",
+        "english": "also"
+    },
+    {
+        "number": 58,
+        "french": "jouer",
+        "english": "play"
+    },
+    {
+        "number": 59,
+        "french": "petit",
+        "english": "small"
+    },
+    {
+        "number": 60,
+        "french": "fin",
+        "english": "end"
+    },
+    {
+        "number": 61,
+        "french": "mettre",
+        "english": "put"
+    },
+    {
+        "number": 62,
+        "french": "maison",
+        "english": "home"
+    },
+    {
+        "number": 63,
+        "french": "lire",
+        "english": "read"
+    },
+    {
+        "number": 64,
+        "french": "main",
+        "english": "hand"
+    },
+    {
+        "number": 65,
+        "french": "port",
+        "english": "port"
+    },
+    {
+        "number": 66,
+        "french": "grand",
+        "english": "large"
+    },
+    {
+        "number": 67,
+        "french": "épeler",
+        "english": "spell"
+    },
+    {
+        "number": 68,
+        "french": "ajouter",
+        "english": "add"
+    },
+    {
+        "number": 69,
+        "french": "même",
+        "english": "even"
+    },
+    {
+        "number": 70,
+        "french": "terre",
+        "english": "land"
+    },
+    {
+        "number": 71,
+        "french": "ici",
+        "english": "here"
+    },
+    {
+        "number": 72,
+        "french": "il faut",
+        "english": "must"
+    },
+    {
+        "number": 73,
+        "french": "grand",
+        "english": "big"
+    },
+    {
+        "number": 74,
+        "french": "haut",
+        "english": "high"
+    },
+    {
+        "number": 75,
+        "french": "tel",
+        "english": "such"
+    },
+    {
+        "number": 76,
+        "french": "suivre",
+        "english": "follow"
+    },
+    {
+        "number": 77,
+        "french": "acte",
+        "english": "act"
+    },
+    {
+        "number": 78,
+        "french": "pourquoi",
+        "english": "why"
+    },
+    {
+        "number": 79,
+        "french": "interroger",
+        "english": "ask"
+    },
+    {
+        "number": 80,
+        "french": "hommes",
+        "english": "men"
+    },
+    {
+        "number": 81,
+        "french": "changement",
+        "english": "change"
+    },
+    {
+        "number": 82,
+        "french": "est allé",
+        "english": "went"
+    },
+    {
+        "number": 83,
+        "french": "lumière",
+        "english": "light"
+    },
+    {
+        "number": 84,
+        "french": "genre",
+        "english": "kind"
+    },
+    {
+        "number": 85,
+        "french": "de",
+        "english": "off"
+    },
+    {
+        "number": 86,
+        "french": "besoin",
+        "english": "need"
+    },
+    {
+        "number": 87,
+        "french": "maison",
+        "english": "house"
+    },
+    {
+        "number": 88,
+        "french": "image",
+        "english": "picture"
+    },
+    {
+        "number": 89,
+        "french": "essayer",
+        "english": "try"
+    },
+    {
+        "number": 90,
+        "french": "nous",
+        "english": "us"
+    },
+    {
+        "number": 91,
+        "french": "encore",
+        "english": "again"
+    },
+    {
+        "number": 92,
+        "french": "animal",
+        "english": "animal"
+    },
+    {
+        "number": 93,
+        "french": "point",
+        "english": "point"
+    },
+    {
+        "number": 94,
+        "french": "mère",
+        "english": "mother"
+    },
+    {
+        "number": 95,
+        "french": "monde",
+        "english": "world"
+    },
+    {
+        "number": 96,
+        "french": "près de",
+        "english": "near"
+    },
+    {
+        "number": 97,
+        "french": "construire",
+        "english": "build"
+    },
+    {
+        "number": 98,
+        "french": "soi",
+        "english": "self"
+    },
+    {
+        "number": 99,
+        "french": "terre",
+        "english": "earth"
+    },
+    {
+        "number": 100,
+        "french": "père",
+        "english": "father"
+    },
+    {
+        "number": 101,
+        "french": "tout",
+        "english": "any"
+    },
+    {
+        "number": 102,
+        "french": "nouveau",
+        "english": "new"
+    },
+    {
+        "number": 103,
+        "french": "travail",
+        "english": "work"
+    },
+    {
+        "number": 104,
+        "french": "partie",
+        "english": "part"
+    },
+    {
+        "number": 105,
+        "french": "prendre",
+        "english": "take"
+    },
+    {
+        "number": 106,
+        "french": "obtenir",
+        "english": "get"
+    },
+    {
+        "number": 107,
+        "french": "lieu",
+        "english": "place"
+    },
+    {
+        "number": 108,
+        "french": "fabriqué",
+        "english": "made"
+    },
+    {
+        "number": 109,
+        "french": "vivre",
+        "english": "live"
+    },
+    {
+        "number": 110,
+        "french": "où",
+        "english": "where"
+    },
+    {
+        "number": 111,
+        "french": "après",
+        "english": "after"
+    },
+    {
+        "number": 112,
+        "french": "arrière",
+        "english": "back"
+    },
+    {
+        "number": 113,
+        "french": "peu",
+        "english": "little"
+    },
+    {
+        "number": 114,
+        "french": "seulement",
+        "english": "only"
+    },
+    {
+        "number": 115,
+        "french": "tour",
+        "english": "round"
+    },
+    {
+        "number": 116,
+        "french": "homme",
+        "english": "man"
+    },
+    {
+        "number": 117,
+        "french": "année",
+        "english": "year"
+    },
+    {
+        "number": 118,
+        "french": "est venu",
+        "english": "came"
+    },
+    {
+        "number": 119,
+        "french": "montrer",
+        "english": "show"
+    },
+    {
+        "number": 120,
+        "french": "tous",
+        "english": "every"
+    },
+    {
+        "number": 121,
+        "french": "bon",
+        "english": "good"
+    },
+    {
+        "number": 122,
+        "french": "moi",
+        "english": "me"
+    },
+    {
+        "number": 123,
+        "french": "donner",
+        "english": "give"
+    },
+    {
+        "number": 124,
+        "french": "notre",
+        "english": "our"
+    },
+    {
+        "number": 125,
+        "french": "sous",
+        "english": "under"
+    },
+    {
+        "number": 126,
+        "french": "nom",
+        "english": "name"
+    },
+    {
+        "number": 127,
+        "french": "très",
+        "english": "very"
+    },
+    {
+        "number": 128,
+        "french": "par",
+        "english": "through"
+    },
+    {
+        "number": 129,
+        "french": "juste",
+        "english": "just"
+    },
+    {
+        "number": 130,
+        "french": "forme",
+        "english": "form"
+    },
+    {
+        "number": 131,
+        "french": "phrase",
+        "english": "sentence"
+    },
+    {
+        "number": 132,
+        "french": "grand",
+        "english": "great"
+    },
+    {
+        "number": 133,
+        "french": "penser",
+        "english": "think"
+    },
+    {
+        "number": 134,
+        "french": "dire",
+        "english": "say"
+    },
+    {
+        "number": 135,
+        "french": "aider",
+        "english": "help"
+    },
+    {
+        "number": 136,
+        "french": "faible",
+        "english": "low"
+    },
+    {
+        "number": 137,
+        "french": "ligne",
+        "english": "line"
+    },
+    {
+        "number": 138,
+        "french": "différer",
+        "english": "differ"
+    },
+    {
+        "number": 139,
+        "french": "tour",
+        "english": "turn"
+    },
+    {
+        "number": 140,
+        "french": "la cause",
+        "english": "cause"
+    },
+    {
+        "number": 141,
+        "french": "beaucoup",
+        "english": "much"
+    },
+    {
+        "number": 142,
+        "french": "signifier",
+        "english": "mean"
+    },
+    {
+        "number": 143,
+        "french": "avant",
+        "english": "before"
+    },
+    {
+        "number": 144,
+        "french": "déménagement",
+        "english": "move"
+    },
+    {
+        "number": 145,
+        "french": "droit",
+        "english": "right"
+    },
+    {
+        "number": 146,
+        "french": "garçon",
+        "english": "boy"
+    },
+    {
+        "number": 147,
+        "french": "vieux",
+        "english": "old"
+    },
+    {
+        "number": 148,
+        "french": "trop",
+        "english": "too"
+    },
+    {
+        "number": 149,
+        "french": "même",
+        "english": "same"
+    },
+    {
+        "number": 150,
+        "french": "elle",
+        "english": "she"
+    },
+    {
+        "number": 151,
+        "french": "tous",
+        "english": "all"
+    },
+    {
+        "number": 152,
+        "french": "là",
+        "english": "there"
+    },
+    {
+        "number": 153,
+        "french": "quand",
+        "english": "when"
+    },
+    {
+        "number": 154,
+        "french": "jusqu’à",
+        "english": "up"
+    },
+    {
+        "number": 155,
+        "french": "utiliser",
+        "english": "use"
+    },
+    {
+        "number": 156,
+        "french": "votre",
+        "english": "your"
+    },
+    {
+        "number": 157,
+        "french": "manière",
+        "english": "way"
+    },
+    {
+        "number": 158,
+        "french": "sur",
+        "english": "about"
+    },
+    {
+        "number": 159,
+        "french": "beaucoup",
+        "english": "many"
+    },
+    {
+        "number": 160,
+        "french": "puis",
+        "english": "then"
+    },
+    {
+        "number": 161,
+        "french": "les",
+        "english": "them"
+    },
+    {
+        "number": 162,
+        "french": "écrire",
+        "english": "write"
+    },
+    {
+        "number": 163,
+        "french": "voudrais",
+        "english": "would"
+    },
+    {
+        "number": 164,
+        "french": "comme",
+        "english": "like"
+    },
+    {
+        "number": 165,
+        "french": "si",
+        "english": "so"
+    },
+    {
+        "number": 166,
+        "french": "ces",
+        "english": "these"
+    },
+    {
+        "number": 167,
+        "french": "son",
+        "english": "her"
+    },
+    {
+        "number": 168,
+        "french": "long",
+        "english": "long"
+    },
+    {
+        "number": 169,
+        "french": "faire",
+        "english": "make"
+    },
+    {
+        "number": 170,
+        "french": "chose",
+        "english": "thing"
+    },
+    {
+        "number": 171,
+        "french": "voir",
+        "english": "see"
+    },
+    {
+        "number": 172,
+        "french": "lui",
+        "english": "him"
+    },
+    {
+        "number": 173,
+        "french": "deux",
+        "english": "two"
+    },
+    {
+        "number": 174,
+        "french": "a",
+        "english": "has"
+    },
+    {
+        "number": 175,
+        "french": "regarder",
+        "english": "look"
+    },
+    {
+        "number": 176,
+        "french": "plus",
+        "english": "more"
+    },
+    {
+        "number": 177,
+        "french": "jour",
+        "english": "day"
+    },
+    {
+        "number": 178,
+        "french": "pourrait",
+        "english": "could"
+    },
+    {
+        "number": 179,
+        "french": "aller",
+        "english": "go"
+    },
+    {
+        "number": 180,
+        "french": "venir",
+        "english": "come"
+    },
+    {
+        "number": 181,
+        "french": "fait",
+        "english": "did"
+    },
+    {
+        "number": 182,
+        "french": "nombre",
+        "english": "number"
+    },
+    {
+        "number": 183,
+        "french": "son",
+        "english": "sound"
+    },
+    {
+        "number": 184,
+        "french": "aucun",
+        "english": "no"
+    },
+    {
+        "number": 185,
+        "french": "plus",
+        "english": "most"
+    },
+    {
+        "number": 186,
+        "french": "personnes",
+        "english": "people"
+    },
+    {
+        "number": 187,
+        "french": "ma",
+        "english": "my"
+    },
+    {
+        "number": 188,
+        "french": "sur",
+        "english": "over"
+    },
+    {
+        "number": 189,
+        "french": "savoir",
+        "english": "know"
+    },
+    {
+        "number": 190,
+        "french": "eau",
+        "english": "water"
+    },
+    {
+        "number": 191,
+        "french": "que",
+        "english": "than"
+    },
+    {
+        "number": 192,
+        "french": "appel",
+        "english": "call"
+    },
+    {
+        "number": 193,
+        "french": "première",
+        "english": "first"
+    },
+    {
+        "number": 194,
+        "french": "qui",
+        "english": "who"
+    },
+    {
+        "number": 195,
+        "french": "peut",
+        "english": "may"
+    },
+    {
+        "number": 196,
+        "french": "vers le bas",
+        "english": "down"
+    },
+    {
+        "number": 197,
+        "french": "côté",
+        "english": "side"
+    },
+    {
+        "number": 198,
+        "french": "été",
+        "english": "been"
+    },
+    {
+        "number": 199,
+        "french": "maintenant",
+        "english": "now"
+    },
+    {
+        "number": 200,
+        "french": "trouver",
+        "english": "find"
+    },
+    {
+        "number": 201,
+        "french": "tête",
+        "english": "head"
+    },
+    {
+        "number": 202,
+        "french": "supporter",
+        "english": "stand"
+    },
+    {
+        "number": 203,
+        "french": "propre",
+        "english": "own"
+    },
+    {
+        "number": 204,
+        "french": "page",
+        "english": "page"
+    },
+    {
+        "number": 205,
+        "french": "devrait",
+        "english": "should"
+    },
+    {
+        "number": 206,
+        "french": "pays",
+        "english": "country"
+    },
+    {
+        "number": 207,
+        "french": "trouvé",
+        "english": "found"
+    },
+    {
+        "number": 208,
+        "french": "réponse",
+        "english": "answer"
+    },
+    {
+        "number": 209,
+        "french": "école",
+        "english": "school"
+    },
+    {
+        "number": 210,
+        "french": "croître",
+        "english": "grow"
+    },
+    {
+        "number": 211,
+        "french": "étude",
+        "english": "study"
+    },
+    {
+        "number": 212,
+        "french": "encore",
+        "english": "still"
+    },
+    {
+        "number": 213,
+        "french": "apprendre",
+        "english": "learn"
+    },
+    {
+        "number": 214,
+        "french": "usine",
+        "english": "plant"
+    },
+    {
+        "number": 215,
+        "french": "couvercle",
+        "english": "cover"
+    },
+    {
+        "number": 216,
+        "french": "nourriture",
+        "english": "food"
+    },
+    {
+        "number": 217,
+        "french": "soleil",
+        "english": "sun"
+    },
+    {
+        "number": 218,
+        "french": "quatre",
+        "english": "four"
+    },
+    {
+        "number": 219,
+        "french": "entre",
+        "english": "between"
+    },
+    {
+        "number": 220,
+        "french": "état",
+        "english": "state"
+    },
+    {
+        "number": 221,
+        "french": "garder",
+        "english": "keep"
+    },
+    {
+        "number": 222,
+        "french": "œil",
+        "english": "eye"
+    },
+    {
+        "number": 223,
+        "french": "jamais",
+        "english": "never"
+    },
+    {
+        "number": 224,
+        "french": "dernier",
+        "english": "last"
+    },
+    {
+        "number": 225,
+        "french": "laisser",
+        "english": "let"
+    },
+    {
+        "number": 226,
+        "french": "pensée",
+        "english": "thought"
+    },
+    {
+        "number": 227,
+        "french": "ville",
+        "english": "city"
+    },
+    {
+        "number": 228,
+        "french": "arbre",
+        "english": "tree"
+    },
+    {
+        "number": 229,
+        "french": "traverser",
+        "english": "cross"
+    },
+    {
+        "number": 230,
+        "french": "ferme",
+        "english": "farm"
+    },
+    {
+        "number": 231,
+        "french": "dur",
+        "english": "hard"
+    },
+    {
+        "number": 232,
+        "french": "début",
+        "english": "start"
+    },
+    {
+        "number": 233,
+        "french": "puissance",
+        "english": "might"
+    },
+    {
+        "number": 234,
+        "french": "histoire",
+        "english": "story"
+    },
+    {
+        "number": 235,
+        "french": "scie",
+        "english": "saw"
+    },
+    {
+        "number": 236,
+        "french": "loin",
+        "english": "far"
+    },
+    {
+        "number": 237,
+        "french": "mer",
+        "english": "sea"
+    },
+    {
+        "number": 238,
+        "french": "tirer",
+        "english": "draw"
+    },
+    {
+        "number": 239,
+        "french": "gauche",
+        "english": "left"
+    },
+    {
+        "number": 240,
+        "french": "tard",
+        "english": "late"
+    },
+    {
+        "number": 241,
+        "french": "courir",
+        "english": "run"
+    },
+    {
+        "number": 242,
+        "french": "needs a context",
+        "english": "don’t"
+    },
+    {
+        "number": 243,
+        "french": "tandis que",
+        "english": "while"
+    },
+    {
+        "number": 244,
+        "french": "presse",
+        "english": "press"
+    },
+    {
+        "number": 245,
+        "french": "proche",
+        "english": "close"
+    },
+    {
+        "number": 246,
+        "french": "nuit",
+        "english": "night"
+    },
+    {
+        "number": 247,
+        "french": "réel",
+        "english": "real"
+    },
+    {
+        "number": 248,
+        "french": "vie",
+        "english": "life"
+    },
+    {
+        "number": 249,
+        "french": "peu",
+        "english": "few"
+    },
+    {
+        "number": 250,
+        "french": "nord",
+        "english": "north"
+    },
+    {
+        "number": 251,
+        "french": "livre",
+        "english": "book"
+    },
+    {
+        "number": 252,
+        "french": "porter",
+        "english": "carry"
+    },
+    {
+        "number": 253,
+        "french": "a pris",
+        "english": "took"
+    },
+    {
+        "number": 254,
+        "french": "science",
+        "english": "science"
+    },
+    {
+        "number": 255,
+        "french": "manger",
+        "english": "eat"
+    },
+    {
+        "number": 256,
+        "french": "chambre",
+        "english": "room"
+    },
+    {
+        "number": 257,
+        "french": "ami",
+        "english": "friend"
+    },
+    {
+        "number": 258,
+        "french": "a commencé",
+        "english": "began"
+    },
+    {
+        "number": 259,
+        "french": "idée",
+        "english": "idea"
+    },
+    {
+        "number": 260,
+        "french": "poisson",
+        "english": "fish"
+    },
+    {
+        "number": 261,
+        "french": "montagne",
+        "english": "mountain"
+    },
+    {
+        "number": 262,
+        "french": "Arrêtez",
+        "english": "stop"
+    },
+    {
+        "number": 263,
+        "french": "une fois",
+        "english": "once"
+    },
+    {
+        "number": 264,
+        "french": "base",
+        "english": "base"
+    },
+    {
+        "number": 265,
+        "french": "entendre",
+        "english": "hear"
+    },
+    {
+        "number": 266,
+        "french": "cheval",
+        "english": "horse"
+    },
+    {
+        "number": 267,
+        "french": "coupe",
+        "english": "cut"
+    },
+    {
+        "number": 268,
+        "french": "sûr",
+        "english": "sure"
+    },
+    {
+        "number": 269,
+        "french": "regarder",
+        "english": "watch"
+    },
+    {
+        "number": 270,
+        "french": "couleur",
+        "english": "color"
+    },
+    {
+        "number": 271,
+        "french": "face",
+        "english": "face"
+    },
+    {
+        "number": 272,
+        "french": "bois",
+        "english": "wood"
+    },
+    {
+        "number": 273,
+        "french": "principal",
+        "english": "main"
+    },
+    {
+        "number": 274,
+        "french": "ouvert",
+        "english": "open"
+    },
+    {
+        "number": 275,
+        "french": "paraître",
+        "english": "seem"
+    },
+    {
+        "number": 276,
+        "french": "ensemble",
+        "english": "together"
+    },
+    {
+        "number": 277,
+        "french": "suivant",
+        "english": "next"
+    },
+    {
+        "number": 278,
+        "french": "blanc",
+        "english": "white"
+    },
+    {
+        "number": 279,
+        "french": "enfants",
+        "english": "children"
+    },
+    {
+        "number": 280,
+        "french": "commencer",
+        "english": "begin"
+    },
+    {
+        "number": 281,
+        "french": "eu",
+        "english": "got"
+    },
+    {
+        "number": 282,
+        "french": "marcher",
+        "english": "walk"
+    },
+    {
+        "number": 283,
+        "french": "exemple",
+        "english": "example"
+    },
+    {
+        "number": 284,
+        "french": "facilité",
+        "english": "ease"
+    },
+    {
+        "number": 285,
+        "french": "papier",
+        "english": "paper"
+    },
+    {
+        "number": 286,
+        "french": "groupe",
+        "english": "group"
+    },
+    {
+        "number": 287,
+        "french": "toujours",
+        "english": "always"
+    },
+    {
+        "number": 288,
+        "french": "musique",
+        "english": "music"
+    },
+    {
+        "number": 289,
+        "french": "ceux",
+        "english": "those"
+    },
+    {
+        "number": 290,
+        "french": "tous les deux",
+        "english": "both"
+    },
+    {
+        "number": 291,
+        "french": "marque",
+        "english": "mark"
+    },
+    {
+        "number": 292,
+        "french": "souvent",
+        "english": "often"
+    },
+    {
+        "number": 293,
+        "french": "lettre",
+        "english": "letter"
+    },
+    {
+        "number": 294,
+        "french": "jusqu’à ce que",
+        "english": "until"
+    },
+    {
+        "number": 295,
+        "french": "mile",
+        "english": "mile"
+    },
+    {
+        "number": 296,
+        "french": "rivière",
+        "english": "river"
+    },
+    {
+        "number": 297,
+        "french": "voiture",
+        "english": "car"
+    },
+    {
+        "number": 298,
+        "french": "pieds",
+        "english": "feet"
+    },
+    {
+        "number": 299,
+        "french": "soins",
+        "english": "care"
+    },
+    {
+        "number": 300,
+        "french": "deuxième",
+        "english": "second"
+    },
+    {
+        "number": 301,
+        "french": "assez",
+        "english": "enough"
+    },
+    {
+        "number": 302,
+        "french": "plaine",
+        "english": "plain"
+    },
+    {
+        "number": 303,
+        "french": "fille",
+        "english": "girl"
+    },
+    {
+        "number": 304,
+        "french": "habituel",
+        "english": "usual"
+    },
+    {
+        "number": 305,
+        "french": "jeune",
+        "english": "young"
+    },
+    {
+        "number": 306,
+        "french": "prêt",
+        "english": "ready"
+    },
+    {
+        "number": 307,
+        "french": "au-dessus",
+        "english": "above"
+    },
+    {
+        "number": 308,
+        "french": "jamais",
+        "english": "ever"
+    },
+    {
+        "number": 309,
+        "french": "rouge",
+        "english": "red"
+    },
+    {
+        "number": 310,
+        "french": "liste",
+        "english": "list"
+    },
+    {
+        "number": 311,
+        "french": "bien que",
+        "english": "though"
+    },
+    {
+        "number": 312,
+        "french": "sentir",
+        "english": "feel"
+    },
+    {
+        "number": 313,
+        "french": "parler",
+        "english": "talk"
+    },
+    {
+        "number": 314,
+        "french": "oiseau",
+        "english": "bird"
+    },
+    {
+        "number": 315,
+        "french": "bientôt",
+        "english": "soon"
+    },
+    {
+        "number": 316,
+        "french": "corps",
+        "english": "body"
+    },
+    {
+        "number": 317,
+        "french": "chien",
+        "english": "dog"
+    },
+    {
+        "number": 318,
+        "french": "famille",
+        "english": "family"
+    },
+    {
+        "number": 319,
+        "french": "direct",
+        "english": "direct"
+    },
+    {
+        "number": 320,
+        "french": "pose",
+        "english": "pose"
+    },
+    {
+        "number": 321,
+        "french": "laisser",
+        "english": "leave"
+    },
+    {
+        "number": 322,
+        "french": "chanson",
+        "english": "song"
+    },
+    {
+        "number": 323,
+        "french": "mesurer",
+        "english": "measure"
+    },
+    {
+        "number": 324,
+        "french": "porte",
+        "english": "door"
+    },
+    {
+        "number": 325,
+        "french": "produit",
+        "english": "product"
+    },
+    {
+        "number": 326,
+        "french": "noir",
+        "english": "black"
+    },
+    {
+        "number": 327,
+        "french": "court",
+        "english": "short"
+    },
+    {
+        "number": 328,
+        "french": "chiffre",
+        "english": "numeral"
+    },
+    {
+        "number": 329,
+        "french": "classe",
+        "english": "class"
+    },
+    {
+        "number": 330,
+        "french": "vent",
+        "english": "wind"
+    },
+    {
+        "number": 331,
+        "french": "question",
+        "english": "question"
+    },
+    {
+        "number": 332,
+        "french": "arriver",
+        "english": "happen"
+    },
+    {
+        "number": 333,
+        "french": "complète",
+        "english": "complete"
+    },
+    {
+        "number": 334,
+        "french": "navire",
+        "english": "ship"
+    },
+    {
+        "number": 335,
+        "french": "zone",
+        "english": "area"
+    },
+    {
+        "number": 336,
+        "french": "moitié",
+        "english": "half"
+    },
+    {
+        "number": 337,
+        "french": "rock",
+        "english": "rock"
+    },
+    {
+        "number": 338,
+        "french": "ordre",
+        "english": "order"
+    },
+    {
+        "number": 339,
+        "french": "feu",
+        "english": "fire"
+    },
+    {
+        "number": 340,
+        "french": "sud",
+        "english": "south"
+    },
+    {
+        "number": 341,
+        "french": "problème",
+        "english": "problem"
+    },
+    {
+        "number": 342,
+        "french": "pièce",
+        "english": "piece"
+    },
+    {
+        "number": 343,
+        "french": "dit",
+        "english": "told"
+    },
+    {
+        "number": 344,
+        "french": "savait",
+        "english": "knew"
+    },
+    {
+        "number": 345,
+        "french": "passer",
+        "english": "pass"
+    },
+    {
+        "number": 346,
+        "french": "depuis",
+        "english": "since"
+    },
+    {
+        "number": 347,
+        "french": "haut",
+        "english": "top"
+    },
+    {
+        "number": 348,
+        "french": "ensemble",
+        "english": "whole"
+    },
+    {
+        "number": 349,
+        "french": "roi",
+        "english": "king"
+    },
+    {
+        "number": 350,
+        "french": "rue",
+        "english": "street"
+    },
+    {
+        "number": 351,
+        "french": "pouce",
+        "english": "inch"
+    },
+    {
+        "number": 352,
+        "french": "multiplier",
+        "english": "multiply"
+    },
+    {
+        "number": 353,
+        "french": "rien",
+        "english": "nothing"
+    },
+    {
+        "number": 354,
+        "french": "cours",
+        "english": "course"
+    },
+    {
+        "number": 355,
+        "french": "rester",
+        "english": "stay"
+    },
+    {
+        "number": 356,
+        "french": "roue",
+        "english": "wheel"
+    },
+    {
+        "number": 357,
+        "french": "plein",
+        "english": "full"
+    },
+    {
+        "number": 358,
+        "french": "force",
+        "english": "force"
+    },
+    {
+        "number": 359,
+        "french": "bleu",
+        "english": "blue"
+    },
+    {
+        "number": 360,
+        "french": "objet",
+        "english": "object"
+    },
+    {
+        "number": 361,
+        "french": "décider",
+        "english": "decide"
+    },
+    {
+        "number": 362,
+        "french": "surface",
+        "english": "surface"
+    },
+    {
+        "number": 363,
+        "french": "profond",
+        "english": "deep"
+    },
+    {
+        "number": 364,
+        "french": "lune",
+        "english": "moon"
+    },
+    {
+        "number": 365,
+        "french": "île",
+        "english": "island"
+    },
+    {
+        "number": 366,
+        "french": "pied",
+        "english": "foot"
+    },
+    {
+        "number": 367,
+        "french": "système",
+        "english": "system"
+    },
+    {
+        "number": 368,
+        "french": "occupé",
+        "english": "busy"
+    },
+    {
+        "number": 369,
+        "french": "test",
+        "english": "test"
+    },
+    {
+        "number": 370,
+        "french": "record",
+        "english": "record"
+    },
+    {
+        "number": 371,
+        "french": "bateau",
+        "english": "boat"
+    },
+    {
+        "number": 372,
+        "french": "commun",
+        "english": "common"
+    },
+    {
+        "number": 373,
+        "french": "or",
+        "english": "gold"
+    },
+    {
+        "number": 374,
+        "french": "possible",
+        "english": "possible"
+    },
+    {
+        "number": 375,
+        "french": "plan",
+        "english": "plane"
+    },
+    {
+        "number": 376,
+        "french": "place",
+        "english": "stead"
+    },
+    {
+        "number": 377,
+        "french": "sec",
+        "english": "dry"
+    },
+    {
+        "number": 378,
+        "french": "se demander",
+        "english": "wonder"
+    },
+    {
+        "number": 379,
+        "french": "rire",
+        "english": "laugh"
+    },
+    {
+        "number": 380,
+        "french": "mille",
+        "english": "thousand"
+    },
+    {
+        "number": 381,
+        "french": "il ya",
+        "english": "ago"
+    },
+    {
+        "number": 382,
+        "french": "ran",
+        "english": "ran"
+    },
+    {
+        "number": 383,
+        "french": "vérifier",
+        "english": "check"
+    },
+    {
+        "number": 384,
+        "french": "jeu",
+        "english": "game"
+    },
+    {
+        "number": 385,
+        "french": "forme",
+        "english": "shape"
+    },
+    {
+        "number": 386,
+        "french": "assimiler",
+        "english": "equate"
+    },
+    {
+        "number": 387,
+        "french": "chaud",
+        "english": "hot"
+    },
+    {
+        "number": 388,
+        "french": "manquer",
+        "english": "miss"
+    },
+    {
+        "number": 389,
+        "french": "apporté",
+        "english": "brought"
+    },
+    {
+        "number": 390,
+        "french": "chaleur",
+        "english": "heat"
+    },
+    {
+        "number": 391,
+        "french": "neige",
+        "english": "snow"
+    },
+    {
+        "number": 392,
+        "french": "pneu",
+        "english": "tire"
+    },
+    {
+        "number": 393,
+        "french": "apporter",
+        "english": "bring"
+    },
+    {
+        "number": 394,
+        "french": "oui",
+        "english": "yes"
+    },
+    {
+        "number": 395,
+        "french": "lointain",
+        "english": "distant"
+    },
+    {
+        "number": 396,
+        "french": "remplir",
+        "english": "fill"
+    },
+    {
+        "number": 397,
+        "french": "est",
+        "english": "east"
+    },
+    {
+        "number": 398,
+        "french": "peindre",
+        "english": "paint"
+    },
+    {
+        "number": 399,
+        "french": "langue",
+        "english": "language"
+    },
+    {
+        "number": 400,
+        "french": "entre",
+        "english": "among"
+    },
+    {
+        "number": 401,
+        "french": "unité",
+        "english": "unit"
+    },
+    {
+        "number": 402,
+        "french": "puissance",
+        "english": "power"
+    },
+    {
+        "number": 403,
+        "french": "ville",
+        "english": "town"
+    },
+    {
+        "number": 404,
+        "french": "fin",
+        "english": "fine"
+    },
+    {
+        "number": 405,
+        "french": "certain",
+        "english": "certain"
+    },
+    {
+        "number": 406,
+        "french": "voler",
+        "english": "fly"
+    },
+    {
+        "number": 407,
+        "french": "tomber",
+        "english": "fall"
+    },
+    {
+        "number": 408,
+        "french": "conduire",
+        "english": "lead"
+    },
+    {
+        "number": 409,
+        "french": "cri",
+        "english": "cry"
+    },
+    {
+        "number": 410,
+        "french": "sombre",
+        "english": "dark"
+    },
+    {
+        "number": 411,
+        "french": "machine",
+        "english": "machine"
+    },
+    {
+        "number": 412,
+        "french": "Note",
+        "english": "note"
+    },
+    {
+        "number": 413,
+        "french": "patienter",
+        "english": "wait"
+    },
+    {
+        "number": 414,
+        "french": "plan",
+        "english": "plan"
+    },
+    {
+        "number": 415,
+        "french": "figure",
+        "english": "figure"
+    },
+    {
+        "number": 416,
+        "french": "étoile",
+        "english": "star"
+    },
+    {
+        "number": 417,
+        "french": "boîte",
+        "english": "box"
+    },
+    {
+        "number": 418,
+        "french": "nom",
+        "english": "noun"
+    },
+    {
+        "number": 419,
+        "french": "domaine",
+        "english": "field"
+    },
+    {
+        "number": 420,
+        "french": "reste",
+        "english": "rest"
+    },
+    {
+        "number": 421,
+        "french": "correct",
+        "english": "correct"
+    },
+    {
+        "number": 422,
+        "french": "capable",
+        "english": "able"
+    },
+    {
+        "number": 423,
+        "french": "livre",
+        "english": "pound"
+    },
+    {
+        "number": 424,
+        "french": "Terminé",
+        "english": "done"
+    },
+    {
+        "number": 425,
+        "french": "beauté",
+        "english": "beauty"
+    },
+    {
+        "number": 426,
+        "french": "entraînement",
+        "english": "drive"
+    },
+    {
+        "number": 427,
+        "french": "résisté",
+        "english": "stood"
+    },
+    {
+        "number": 428,
+        "french": "contenir",
+        "english": "contain"
+    },
+    {
+        "number": 429,
+        "french": "avant",
+        "english": "front"
+    },
+    {
+        "number": 430,
+        "french": "enseigner",
+        "english": "teach"
+    },
+    {
+        "number": 431,
+        "french": "semaine",
+        "english": "week"
+    },
+    {
+        "number": 432,
+        "french": "finale",
+        "english": "final"
+    },
+    {
+        "number": 433,
+        "french": "donné",
+        "english": "gave"
+    },
+    {
+        "number": 434,
+        "french": "vert",
+        "english": "green"
+    },
+    {
+        "number": 435,
+        "french": "oh",
+        "english": "oh"
+    },
+    {
+        "number": 436,
+        "french": "rapide",
+        "english": "quick"
+    },
+    {
+        "number": 437,
+        "french": "développer",
+        "english": "develop"
+    },
+    {
+        "number": 438,
+        "french": "océan",
+        "english": "ocean"
+    },
+    {
+        "number": 439,
+        "french": "chaud",
+        "english": "warm"
+    },
+    {
+        "number": 440,
+        "french": "gratuit",
+        "english": "free"
+    },
+    {
+        "number": 441,
+        "french": "minute",
+        "english": "minute"
+    },
+    {
+        "number": 442,
+        "french": "fort",
+        "english": "strong"
+    },
+    {
+        "number": 443,
+        "french": "spécial",
+        "english": "special"
+    },
+    {
+        "number": 444,
+        "french": "esprit",
+        "english": "mind"
+    },
+    {
+        "number": 445,
+        "french": "derrière",
+        "english": "behind"
+    },
+    {
+        "number": 446,
+        "french": "clair",
+        "english": "clear"
+    },
+    {
+        "number": 447,
+        "french": "queue",
+        "english": "tail"
+    },
+    {
+        "number": 448,
+        "french": "produire",
+        "english": "produce"
+    },
+    {
+        "number": 449,
+        "french": "fait",
+        "english": "fact"
+    },
+    {
+        "number": 450,
+        "french": "espace",
+        "english": "space"
+    },
+    {
+        "number": 451,
+        "french": "entendu",
+        "english": "heard"
+    },
+    {
+        "number": 452,
+        "french": "meilleur",
+        "english": "best"
+    },
+    {
+        "number": 453,
+        "french": "heure",
+        "english": "hour"
+    },
+    {
+        "number": 454,
+        "french": "mieux",
+        "english": "better"
+    },
+    {
+        "number": 455,
+        "french": "vrai",
+        "english": "true"
+    },
+    {
+        "number": 456,
+        "french": "pendant",
+        "english": "during"
+    },
+    {
+        "number": 457,
+        "french": "cent",
+        "english": "hundred"
+    },
+    {
+        "number": 458,
+        "french": "cinq",
+        "english": "five"
+    },
+    {
+        "number": 459,
+        "french": "rappeler",
+        "english": "remember"
+    },
+    {
+        "number": 460,
+        "french": "étape",
+        "english": "step"
+    },
+    {
+        "number": 461,
+        "french": "tôt",
+        "english": "early"
+    },
+    {
+        "number": 462,
+        "french": "tenir",
+        "english": "hold"
+    },
+    {
+        "number": 463,
+        "french": "ouest",
+        "english": "west"
+    },
+    {
+        "number": 464,
+        "french": "sol",
+        "english": "ground"
+    },
+    {
+        "number": 465,
+        "french": "intérêt",
+        "english": "interest"
+    },
+    {
+        "number": 466,
+        "french": "atteindre",
+        "english": "reach"
+    },
+    {
+        "number": 467,
+        "french": "rapide",
+        "english": "fast"
+    },
+    {
+        "number": 468,
+        "french": "verbe",
+        "english": "verb"
+    },
+    {
+        "number": 469,
+        "french": "chanter",
+        "english": "sing"
+    },
+    {
+        "number": 470,
+        "french": "écouter",
+        "english": "listen"
+    },
+    {
+        "number": 471,
+        "french": "six",
+        "english": "six"
+    },
+    {
+        "number": 472,
+        "french": "table",
+        "english": "table"
+    },
+    {
+        "number": 473,
+        "french": "Voyage",
+        "english": "travel"
+    },
+    {
+        "number": 474,
+        "french": "moins",
+        "english": "less"
+    },
+    {
+        "number": 475,
+        "french": "matin",
+        "english": "morning"
+    },
+    {
+        "number": 476,
+        "french": "dix",
+        "english": "ten"
+    },
+    {
+        "number": 477,
+        "french": "simple",
+        "english": "simple"
+    },
+    {
+        "number": 478,
+        "french": "plusieurs",
+        "english": "several"
+    },
+    {
+        "number": 479,
+        "french": "voyelle",
+        "english": "vowel"
+    },
+    {
+        "number": 480,
+        "french": "vers",
+        "english": "toward"
+    },
+    {
+        "number": 481,
+        "french": "guerre",
+        "english": "war"
+    },
+    {
+        "number": 482,
+        "french": "poser",
+        "english": "lay"
+    },
+    {
+        "number": 483,
+        "french": "contre",
+        "english": "against"
+    },
+    {
+        "number": 484,
+        "french": "modèle",
+        "english": "pattern"
+    },
+    {
+        "number": 485,
+        "french": "lent",
+        "english": "slow"
+    },
+    {
+        "number": 486,
+        "french": "centre",
+        "english": "center"
+    },
+    {
+        "number": 487,
+        "french": "amour",
+        "english": "love"
+    },
+    {
+        "number": 488,
+        "french": "personne",
+        "english": "person"
+    },
+    {
+        "number": 489,
+        "french": "argent",
+        "english": "money"
+    },
+    {
+        "number": 490,
+        "french": "servir",
+        "english": "serve"
+    },
+    {
+        "number": 491,
+        "french": "apparaître",
+        "english": "appear"
+    },
+    {
+        "number": 492,
+        "french": "route",
+        "english": "road"
+    },
+    {
+        "number": 493,
+        "french": "carte",
+        "english": "map"
+    },
+    {
+        "number": 494,
+        "french": "pluie",
+        "english": "rain"
+    },
+    {
+        "number": 495,
+        "french": "règle",
+        "english": "rule"
+    },
+    {
+        "number": 496,
+        "french": "gouverner",
+        "english": "govern"
+    },
+    {
+        "number": 497,
+        "french": "tirer",
+        "english": "pull"
+    },
+    {
+        "number": 498,
+        "french": "froid",
+        "english": "cold"
+    },
+    {
+        "number": 499,
+        "french": "avis",
+        "english": "notice"
+    },
+    {
+        "number": 500,
+        "french": "voix",
+        "english": "voice"
+    },
+    {
+        "number": 501,
+        "french": "énergie",
+        "english": "energy"
+    },
+    {
+        "number": 502,
+        "french": "chasse",
+        "english": "hunt"
+    },
+    {
+        "number": 503,
+        "french": "probable",
+        "english": "probable"
+    },
+    {
+        "number": 504,
+        "french": "lit",
+        "english": "bed"
+    },
+    {
+        "number": 505,
+        "french": "frère",
+        "english": "brother"
+    },
+    {
+        "number": 506,
+        "french": "œuf",
+        "english": "egg"
+    },
+    {
+        "number": 507,
+        "french": "tour",
+        "english": "ride"
+    },
+    {
+        "number": 508,
+        "french": "cellule",
+        "english": "cell"
+    },
+    {
+        "number": 509,
+        "french": "croire",
+        "english": "believe"
+    },
+    {
+        "number": 510,
+        "french": "peut-être",
+        "english": "perhaps"
+    },
+    {
+        "number": 511,
+        "french": "choisir",
+        "english": "pick"
+    },
+    {
+        "number": 512,
+        "french": "soudain",
+        "english": "sudden"
+    },
+    {
+        "number": 513,
+        "french": "compter",
+        "english": "count"
+    },
+    {
+        "number": 514,
+        "french": "carré",
+        "english": "square"
+    },
+    {
+        "number": 515,
+        "french": "raison",
+        "english": "reason"
+    },
+    {
+        "number": 516,
+        "french": "longueur",
+        "english": "length"
+    },
+    {
+        "number": 517,
+        "french": "représenter",
+        "english": "represent"
+    },
+    {
+        "number": 518,
+        "french": "art",
+        "english": "art"
+    },
+    {
+        "number": 519,
+        "french": "sujet",
+        "english": "subject"
+    },
+    {
+        "number": 520,
+        "french": "région",
+        "english": "region"
+    },
+    {
+        "number": 521,
+        "french": "taille",
+        "english": "size"
+    },
+    {
+        "number": 522,
+        "french": "varier",
+        "english": "vary"
+    },
+    {
+        "number": 523,
+        "french": "régler",
+        "english": "settle"
+    },
+    {
+        "number": 524,
+        "french": "parler",
+        "english": "speak"
+    },
+    {
+        "number": 525,
+        "french": "poids",
+        "english": "weight"
+    },
+    {
+        "number": 526,
+        "french": "général",
+        "english": "general"
+    },
+    {
+        "number": 527,
+        "french": "glace",
+        "english": "ice"
+    },
+    {
+        "number": 528,
+        "french": "question",
+        "english": "matter"
+    },
+    {
+        "number": 529,
+        "french": "cercle",
+        "english": "circle"
+    },
+    {
+        "number": 530,
+        "french": "paire",
+        "english": "pair"
+    },
+    {
+        "number": 531,
+        "french": "inclure",
+        "english": "include"
+    },
+    {
+        "number": 532,
+        "french": "fracture",
+        "english": "divide"
+    },
+    {
+        "number": 533,
+        "french": "syllabe",
+        "english": "syllable"
+    },
+    {
+        "number": 534,
+        "french": "feutre",
+        "english": "felt"
+    },
+    {
+        "number": 535,
+        "french": "grandiose",
+        "english": "grand"
+    },
+    {
+        "number": 536,
+        "french": "balle",
+        "english": "ball"
+    },
+    {
+        "number": 537,
+        "french": "encore",
+        "english": "yet"
+    },
+    {
+        "number": 538,
+        "french": "vague",
+        "english": "wave"
+    },
+    {
+        "number": 539,
+        "french": "tomber",
+        "english": "drop"
+    },
+    {
+        "number": 540,
+        "french": "cœur",
+        "english": "heart"
+    },
+    {
+        "number": 541,
+        "french": "h",
+        "english": "am"
+    },
+    {
+        "number": 542,
+        "french": "présent",
+        "english": "present"
+    },
+    {
+        "number": 543,
+        "french": "lourd",
+        "english": "heavy"
+    },
+    {
+        "number": 544,
+        "french": "danse",
+        "english": "dance"
+    },
+    {
+        "number": 545,
+        "french": "moteur",
+        "english": "engine"
+    },
+    {
+        "number": 546,
+        "french": "position",
+        "english": "position"
+    },
+    {
+        "number": 547,
+        "french": "bras",
+        "english": "arm"
+    },
+    {
+        "number": 548,
+        "french": "large",
+        "english": "wide"
+    },
+    {
+        "number": 549,
+        "french": "voile",
+        "english": "sail"
+    },
+    {
+        "number": 550,
+        "french": "matériel",
+        "english": "material"
+    },
+    {
+        "number": 551,
+        "french": "fraction",
+        "english": "fraction"
+    },
+    {
+        "number": 552,
+        "french": "forêt",
+        "english": "forest"
+    },
+    {
+        "number": 553,
+        "french": "s’asseoir",
+        "english": "sit"
+    },
+    {
+        "number": 554,
+        "french": "course",
+        "english": "race"
+    },
+    {
+        "number": 555,
+        "french": "fenêtre",
+        "english": "window"
+    },
+    {
+        "number": 556,
+        "french": "magasin",
+        "english": "store"
+    },
+    {
+        "number": 557,
+        "french": "été",
+        "english": "summer"
+    },
+    {
+        "number": 558,
+        "french": "train",
+        "english": "train"
+    },
+    {
+        "number": 559,
+        "french": "sommeil",
+        "english": "sleep"
+    },
+    {
+        "number": 560,
+        "french": "prouver",
+        "english": "prove"
+    },
+    {
+        "number": 561,
+        "french": "seul",
+        "english": "lone"
+    },
+    {
+        "number": 562,
+        "french": "jambe",
+        "english": "leg"
+    },
+    {
+        "number": 563,
+        "french": "exercice",
+        "english": "exercise"
+    },
+    {
+        "number": 564,
+        "french": "mur",
+        "english": "wall"
+    },
+    {
+        "number": 565,
+        "french": "capture",
+        "english": "catch"
+    },
+    {
+        "number": 566,
+        "french": "monture",
+        "english": "mount"
+    },
+    {
+        "number": 567,
+        "french": "souhaiter",
+        "english": "wish"
+    },
+    {
+        "number": 568,
+        "french": "ciel",
+        "english": "sky"
+    },
+    {
+        "number": 569,
+        "french": "conseil",
+        "english": "board"
+    },
+    {
+        "number": 570,
+        "french": "joie",
+        "english": "joy"
+    },
+    {
+        "number": 571,
+        "french": "hiver",
+        "english": "winter"
+    },
+    {
+        "number": 572,
+        "french": "sat",
+        "english": "sat"
+    },
+    {
+        "number": 573,
+        "french": "écrit",
+        "english": "written"
+    },
+    {
+        "number": 574,
+        "french": "sauvage",
+        "english": "wild"
+    },
+    {
+        "number": 575,
+        "french": "instrument",
+        "english": "instrument"
+    },
+    {
+        "number": 576,
+        "french": "conservé",
+        "english": "kept"
+    },
+    {
+        "number": 577,
+        "french": "verre",
+        "english": "glass"
+    },
+    {
+        "number": 578,
+        "french": "herbe",
+        "english": "grass"
+    },
+    {
+        "number": 579,
+        "french": "vache",
+        "english": "cow"
+    },
+    {
+        "number": 580,
+        "french": "emploi",
+        "english": "job"
+    },
+    {
+        "number": 581,
+        "french": "bord",
+        "english": "edge"
+    },
+    {
+        "number": 582,
+        "french": "signe",
+        "english": "sign"
+    },
+    {
+        "number": 583,
+        "french": "visite",
+        "english": "visit"
+    },
+    {
+        "number": 584,
+        "french": "passé",
+        "english": "past"
+    },
+    {
+        "number": 585,
+        "french": "doux",
+        "english": "soft"
+    },
+    {
+        "number": 586,
+        "french": "amusement",
+        "english": "fun"
+    },
+    {
+        "number": 587,
+        "french": "clair",
+        "english": "bright"
+    },
+    {
+        "number": 588,
+        "french": "gaz",
+        "english": "gas"
+    },
+    {
+        "number": 589,
+        "french": "temps",
+        "english": "weather"
+    },
+    {
+        "number": 590,
+        "french": "mois",
+        "english": "month"
+    },
+    {
+        "number": 591,
+        "french": "million",
+        "english": "million"
+    },
+    {
+        "number": 592,
+        "french": "porter",
+        "english": "bear"
+    },
+    {
+        "number": 593,
+        "french": "finition",
+        "english": "finish"
+    },
+    {
+        "number": 594,
+        "french": "heureux",
+        "english": "happy"
+    },
+    {
+        "number": 595,
+        "french": "espoir",
+        "english": "hope"
+    },
+    {
+        "number": 596,
+        "french": "fleur",
+        "english": "flower"
+    },
+    {
+        "number": 597,
+        "french": "vêtir",
+        "english": "clothe"
+    },
+    {
+        "number": 598,
+        "french": "étrange",
+        "english": "strange"
+    },
+    {
+        "number": 599,
+        "french": "disparu",
+        "english": "gone"
+    },
+    {
+        "number": 600,
+        "french": "commerce",
+        "english": "trade"
+    },
+    {
+        "number": 601,
+        "french": "mélodie",
+        "english": "melody"
+    },
+    {
+        "number": 602,
+        "french": "voyage",
+        "english": "trip"
+    },
+    {
+        "number": 603,
+        "french": "bureau",
+        "english": "office"
+    },
+    {
+        "number": 604,
+        "french": "recevoir",
+        "english": "receive"
+    },
+    {
+        "number": 605,
+        "french": "rangée",
+        "english": "row"
+    },
+    {
+        "number": 606,
+        "french": "bouche",
+        "english": "mouth"
+    },
+    {
+        "number": 607,
+        "french": "exact",
+        "english": "exact"
+    },
+    {
+        "number": 608,
+        "french": "symbole",
+        "english": "symbol"
+    },
+    {
+        "number": 609,
+        "french": "mourir",
+        "english": "die"
+    },
+    {
+        "number": 610,
+        "french": "moins",
+        "english": "least"
+    },
+    {
+        "number": 611,
+        "french": "difficulté",
+        "english": "trouble"
+    },
+    {
+        "number": 612,
+        "french": "cri",
+        "english": "shout"
+    },
+    {
+        "number": 613,
+        "french": "sauf",
+        "english": "except"
+    },
+    {
+        "number": 614,
+        "french": "écrit",
+        "english": "wrote"
+    },
+    {
+        "number": 615,
+        "french": "semence",
+        "english": "seed"
+    },
+    {
+        "number": 616,
+        "french": "ton",
+        "english": "tone"
+    },
+    {
+        "number": 617,
+        "french": "joindre",
+        "english": "join"
+    },
+    {
+        "number": 618,
+        "french": "suggérer",
+        "english": "suggest"
+    },
+    {
+        "number": 619,
+        "french": "propre",
+        "english": "clean"
+    },
+    {
+        "number": 620,
+        "french": "pause",
+        "english": "break"
+    },
+    {
+        "number": 621,
+        "french": "dame",
+        "english": "lady"
+    },
+    {
+        "number": 622,
+        "french": "cour",
+        "english": "yard"
+    },
+    {
+        "number": 623,
+        "french": "augmenter",
+        "english": "rise"
+    },
+    {
+        "number": 624,
+        "french": "mauvais",
+        "english": "bad"
+    },
+    {
+        "number": 625,
+        "french": "coup",
+        "english": "blow"
+    },
+    {
+        "number": 626,
+        "french": "huile",
+        "english": "oil"
+    },
+    {
+        "number": 627,
+        "french": "sang",
+        "english": "blood"
+    },
+    {
+        "number": 628,
+        "french": "toucher",
+        "english": "touch"
+    },
+    {
+        "number": 629,
+        "french": "a augmenté",
+        "english": "grew"
+    },
+    {
+        "number": 630,
+        "french": "cent",
+        "english": "cent"
+    },
+    {
+        "number": 631,
+        "french": "mélanger",
+        "english": "mix"
+    },
+    {
+        "number": 632,
+        "french": "équipe",
+        "english": "team"
+    },
+    {
+        "number": 633,
+        "french": "fil",
+        "english": "wire"
+    },
+    {
+        "number": 634,
+        "french": "coût",
+        "english": "cost"
+    },
+    {
+        "number": 635,
+        "french": "perdu",
+        "english": "lost"
+    },
+    {
+        "number": 636,
+        "french": "brun",
+        "english": "brown"
+    },
+    {
+        "number": 637,
+        "french": "porter",
+        "english": "wear"
+    },
+    {
+        "number": 638,
+        "french": "jardin",
+        "english": "garden"
+    },
+    {
+        "number": 639,
+        "french": "égal",
+        "english": "equal"
+    },
+    {
+        "number": 640,
+        "french": "expédié",
+        "english": "sent"
+    },
+    {
+        "number": 641,
+        "french": "choisir",
+        "english": "choose"
+    },
+    {
+        "number": 642,
+        "french": "est tombé",
+        "english": "fell"
+    },
+    {
+        "number": 643,
+        "french": "s’adapter",
+        "english": "fit"
+    },
+    {
+        "number": 644,
+        "french": "débit",
+        "english": "flow"
+    },
+    {
+        "number": 645,
+        "french": "juste",
+        "english": "fair"
+    },
+    {
+        "number": 646,
+        "french": "banque",
+        "english": "bank"
+    },
+    {
+        "number": 647,
+        "french": "recueillir",
+        "english": "collect"
+    },
+    {
+        "number": 648,
+        "french": "sauver",
+        "english": "save"
+    },
+    {
+        "number": 649,
+        "french": "contrôle",
+        "english": "control"
+    },
+    {
+        "number": 650,
+        "french": "décimal",
+        "english": "decimal"
+    },
+    {
+        "number": 651,
+        "french": "oreille",
+        "english": "ear"
+    },
+    {
+        "number": 652,
+        "french": "autre",
+        "english": "else"
+    },
+    {
+        "number": 653,
+        "french": "tout à fait",
+        "english": "quite"
+    },
+    {
+        "number": 654,
+        "french": "cassé",
+        "english": "broke"
+    },
+    {
+        "number": 655,
+        "french": "cas",
+        "english": "case"
+    },
+    {
+        "number": 656,
+        "french": "milieu",
+        "english": "middle"
+    },
+    {
+        "number": 657,
+        "french": "tuer",
+        "english": "kill"
+    },
+    {
+        "number": 658,
+        "french": "fils",
+        "english": "son"
+    },
+    {
+        "number": 659,
+        "french": "lac",
+        "english": "lake"
+    },
+    {
+        "number": 660,
+        "french": "moment",
+        "english": "moment"
+    },
+    {
+        "number": 661,
+        "french": "échelle",
+        "english": "scale"
+    },
+    {
+        "number": 662,
+        "french": "fort",
+        "english": "loud"
+    },
+    {
+        "number": 663,
+        "french": "printemps",
+        "english": "spring"
+    },
+    {
+        "number": 664,
+        "french": "observer",
+        "english": "observe"
+    },
+    {
+        "number": 665,
+        "french": "enfant",
+        "english": "child"
+    },
+    {
+        "number": 666,
+        "french": "droit",
+        "english": "straight"
+    },
+    {
+        "number": 667,
+        "french": "consonne",
+        "english": "consonant"
+    },
+    {
+        "number": 668,
+        "french": "nation",
+        "english": "nation"
+    },
+    {
+        "number": 669,
+        "french": "dictionnaire",
+        "english": "dictionary"
+    },
+    {
+        "number": 670,
+        "french": "lait",
+        "english": "milk"
+    },
+    {
+        "number": 671,
+        "french": "vitesse",
+        "english": "speed"
+    },
+    {
+        "number": 672,
+        "french": "méthode",
+        "english": "method"
+    },
+    {
+        "number": 673,
+        "french": "organe",
+        "english": "organ"
+    },
+    {
+        "number": 674,
+        "french": "payer",
+        "english": "pay"
+    },
+    {
+        "number": 675,
+        "french": "âge",
+        "english": "age"
+    },
+    {
+        "number": 676,
+        "french": "section",
+        "english": "section"
+    },
+    {
+        "number": 677,
+        "french": "robe",
+        "english": "dress"
+    },
+    {
+        "number": 678,
+        "french": "nuage",
+        "english": "cloud"
+    },
+    {
+        "number": 679,
+        "french": "surprise",
+        "english": "surprise"
+    },
+    {
+        "number": 680,
+        "french": "calme",
+        "english": "quiet"
+    },
+    {
+        "number": 681,
+        "french": "pierre",
+        "english": "stone"
+    },
+    {
+        "number": 682,
+        "french": "minuscule",
+        "english": "tiny"
+    },
+    {
+        "number": 683,
+        "french": "montée",
+        "english": "climb"
+    },
+    {
+        "number": 684,
+        "french": "frais",
+        "english": "cool"
+    },
+    {
+        "number": 685,
+        "french": "conception",
+        "english": "design"
+    },
+    {
+        "number": 686,
+        "french": "pauvres",
+        "english": "poor"
+    },
+    {
+        "number": 687,
+        "french": "lot",
+        "english": "lot"
+    },
+    {
+        "number": 688,
+        "french": "expérience",
+        "english": "experiment"
+    },
+    {
+        "number": 689,
+        "french": "bas",
+        "english": "bottom"
+    },
+    {
+        "number": 690,
+        "french": "clé",
+        "english": "key"
+    },
+    {
+        "number": 691,
+        "french": "fer",
+        "english": "iron"
+    },
+    {
+        "number": 692,
+        "french": "unique",
+        "english": "single"
+    },
+    {
+        "number": 693,
+        "french": "bâton",
+        "english": "stick"
+    },
+    {
+        "number": 694,
+        "french": "plat",
+        "english": "flat"
+    },
+    {
+        "number": 695,
+        "french": "vingt",
+        "english": "twenty"
+    },
+    {
+        "number": 696,
+        "french": "peau",
+        "english": "skin"
+    },
+    {
+        "number": 697,
+        "french": "sourire",
+        "english": "smile"
+    },
+    {
+        "number": 698,
+        "french": "pli",
+        "english": "crease"
+    },
+    {
+        "number": 699,
+        "french": "trou",
+        "english": "hole"
+    },
+    {
+        "number": 700,
+        "french": "sauter",
+        "english": "jump"
+    },
+    {
+        "number": 701,
+        "french": "bébé",
+        "english": "baby"
+    },
+    {
+        "number": 702,
+        "french": "huit",
+        "english": "eight"
+    },
+    {
+        "number": 703,
+        "french": "village",
+        "english": "village"
+    },
+    {
+        "number": 704,
+        "french": "se rencontrent",
+        "english": "meet"
+    },
+    {
+        "number": 705,
+        "french": "racine",
+        "english": "root"
+    },
+    {
+        "number": 706,
+        "french": "acheter",
+        "english": "buy"
+    },
+    {
+        "number": 707,
+        "french": "augmenter",
+        "english": "raise"
+    },
+    {
+        "number": 708,
+        "french": "résoudre",
+        "english": "solve"
+    },
+    {
+        "number": 709,
+        "french": "métal",
+        "english": "metal"
+    },
+    {
+        "number": 710,
+        "french": "si",
+        "english": "whether"
+    },
+    {
+        "number": 711,
+        "french": "pousser",
+        "english": "push"
+    },
+    {
+        "number": 712,
+        "french": "sept",
+        "english": "seven"
+    },
+    {
+        "number": 713,
+        "french": "paragraphe",
+        "english": "paragraph"
+    },
+    {
+        "number": 714,
+        "french": "troisième",
+        "english": "third"
+    },
+    {
+        "number": 715,
+        "french": "doit",
+        "english": "shall"
+    },
+    {
+        "number": 716,
+        "french": "en attente",
+        "english": "held"
+    },
+    {
+        "number": 717,
+        "french": "cheveux",
+        "english": "hair"
+    },
+    {
+        "number": 718,
+        "french": "décrire",
+        "english": "describe"
+    },
+    {
+        "number": 719,
+        "french": "cuisinier",
+        "english": "cook"
+    },
+    {
+        "number": 720,
+        "french": "étage",
+        "english": "floor"
+    },
+    {
+        "number": 721,
+        "french": "chaque",
+        "english": "either"
+    },
+    {
+        "number": 722,
+        "french": "résultat",
+        "english": "result"
+    },
+    {
+        "number": 723,
+        "french": "brûler",
+        "english": "burn"
+    },
+    {
+        "number": 724,
+        "french": "colline",
+        "english": "hill"
+    },
+    {
+        "number": 725,
+        "french": "coffre-fort",
+        "english": "safe"
+    },
+    {
+        "number": 726,
+        "french": "chat",
+        "english": "cat"
+    },
+    {
+        "number": 727,
+        "french": "siècle",
+        "english": "century"
+    },
+    {
+        "number": 728,
+        "french": "envisager",
+        "english": "consider"
+    },
+    {
+        "number": 729,
+        "french": "type",
+        "english": "type"
+    },
+    {
+        "number": 730,
+        "french": "droit",
+        "english": "law"
+    },
+    {
+        "number": 731,
+        "french": "peu",
+        "english": "bit"
+    },
+    {
+        "number": 732,
+        "french": "côte",
+        "english": "coast"
+    },
+    {
+        "number": 733,
+        "french": "copie",
+        "english": "copy"
+    },
+    {
+        "number": 734,
+        "french": "phrase",
+        "english": "phrase"
+    },
+    {
+        "number": 735,
+        "french": "silencieux",
+        "english": "silent"
+    },
+    {
+        "number": 736,
+        "french": "haut",
+        "english": "tall"
+    },
+    {
+        "number": 737,
+        "french": "sable",
+        "english": "sand"
+    },
+    {
+        "number": 738,
+        "french": "sol",
+        "english": "soil"
+    },
+    {
+        "number": 739,
+        "french": "rouleau",
+        "english": "roll"
+    },
+    {
+        "number": 740,
+        "french": "température",
+        "english": "temperature"
+    },
+    {
+        "number": 741,
+        "french": "doigt",
+        "english": "finger"
+    },
+    {
+        "number": 742,
+        "french": "industrie",
+        "english": "industry"
+    },
+    {
+        "number": 743,
+        "french": "valeur",
+        "english": "value"
+    },
+    {
+        "number": 744,
+        "french": "lutte",
+        "english": "fight"
+    },
+    {
+        "number": 745,
+        "french": "mensonge",
+        "english": "lie"
+    },
+    {
+        "number": 746,
+        "french": "battre",
+        "english": "beat"
+    },
+    {
+        "number": 747,
+        "french": "exciter",
+        "english": "excite"
+    },
+    {
+        "number": 748,
+        "french": "naturel",
+        "english": "natural"
+    },
+    {
+        "number": 749,
+        "french": "vue",
+        "english": "view"
+    },
+    {
+        "number": 750,
+        "french": "sens",
+        "english": "sense"
+    },
+    {
+        "number": 751,
+        "french": "capital",
+        "english": "capital"
+    },
+    {
+        "number": 752,
+        "french": "ne sera pas",
+        "english": "won’t"
+    },
+    {
+        "number": 753,
+        "french": "chaise",
+        "english": "chair"
+    },
+    {
+        "number": 754,
+        "french": "danger",
+        "english": "danger"
+    },
+    {
+        "number": 755,
+        "french": "fruit",
+        "english": "fruit"
+    },
+    {
+        "number": 756,
+        "french": "riche",
+        "english": "rich"
+    },
+    {
+        "number": 757,
+        "french": "épais",
+        "english": "thick"
+    },
+    {
+        "number": 758,
+        "french": "soldat",
+        "english": "soldier"
+    },
+    {
+        "number": 759,
+        "french": "processus",
+        "english": "process"
+    },
+    {
+        "number": 760,
+        "french": "fonctionner",
+        "english": "operate"
+    },
+    {
+        "number": 761,
+        "french": "pratique",
+        "english": "practice"
+    },
+    {
+        "number": 762,
+        "french": "séparé",
+        "english": "separate"
+    },
+    {
+        "number": 763,
+        "french": "difficile",
+        "english": "difficult"
+    },
+    {
+        "number": 764,
+        "french": "médecin",
+        "english": "doctor"
+    },
+    {
+        "number": 765,
+        "french": "s’il vous plaît",
+        "english": "please"
+    },
+    {
+        "number": 766,
+        "french": "protéger",
+        "english": "protect"
+    },
+    {
+        "number": 767,
+        "french": "midi",
+        "english": "noon"
+    },
+    {
+        "number": 768,
+        "french": "récolte",
+        "english": "crop"
+    },
+    {
+        "number": 769,
+        "french": "moderne",
+        "english": "modern"
+    },
+    {
+        "number": 770,
+        "french": "élément",
+        "english": "element"
+    },
+    {
+        "number": 771,
+        "french": "frapper",
+        "english": "hit"
+    },
+    {
+        "number": 772,
+        "french": "étudiant",
+        "english": "student"
+    },
+    {
+        "number": 773,
+        "french": "coin",
+        "english": "corner"
+    },
+    {
+        "number": 774,
+        "french": "partie",
+        "english": "party"
+    },
+    {
+        "number": 775,
+        "french": "alimentation",
+        "english": "supply"
+    },
+    {
+        "number": 776,
+        "french": "dont",
+        "english": "whose"
+    },
+    {
+        "number": 777,
+        "french": "localiser",
+        "english": "locate"
+    },
+    {
+        "number": 778,
+        "french": "anneau",
+        "english": "ring"
+    },
+    {
+        "number": 779,
+        "french": "caractère",
+        "english": "character"
+    },
+    {
+        "number": 780,
+        "french": "insecte",
+        "english": "insect"
+    },
+    {
+        "number": 781,
+        "french": "pris",
+        "english": "caught"
+    },
+    {
+        "number": 782,
+        "french": "période",
+        "english": "period"
+    },
+    {
+        "number": 783,
+        "french": "indiquer",
+        "english": "indicate"
+    },
+    {
+        "number": 784,
+        "french": "radio",
+        "english": "radio"
+    },
+    {
+        "number": 785,
+        "french": "rayon",
+        "english": "spoke"
+    },
+    {
+        "number": 786,
+        "french": "atome",
+        "english": "atom"
+    },
+    {
+        "number": 787,
+        "french": "humain",
+        "english": "human"
+    },
+    {
+        "number": 788,
+        "french": "histoire",
+        "english": "history"
+    },
+    {
+        "number": 789,
+        "french": "effet",
+        "english": "effect"
+    },
+    {
+        "number": 790,
+        "french": "électrique",
+        "english": "electric"
+    },
+    {
+        "number": 791,
+        "french": "attendre",
+        "english": "expect"
+    },
+    {
+        "number": 792,
+        "french": "os",
+        "english": "bone"
+    },
+    {
+        "number": 793,
+        "french": "rail",
+        "english": "rail"
+    },
+    {
+        "number": 794,
+        "french": "imaginer",
+        "english": "imagine"
+    },
+    {
+        "number": 795,
+        "french": "fournir",
+        "english": "provide"
+    },
+    {
+        "number": 796,
+        "french": "se mettre d’accord",
+        "english": "agree"
+    },
+    {
+        "number": 797,
+        "french": "ainsi",
+        "english": "thus"
+    },
+    {
+        "number": 798,
+        "french": "doux",
+        "english": "gentle"
+    },
+    {
+        "number": 799,
+        "french": "femme",
+        "english": "woman"
+    },
+    {
+        "number": 800,
+        "french": "capitaine",
+        "english": "captain"
+    },
+    {
+        "number": 801,
+        "french": "deviner",
+        "english": "guess"
+    },
+    {
+        "number": 802,
+        "french": "nécessaire",
+        "english": "necessary"
+    },
+    {
+        "number": 803,
+        "french": "net",
+        "english": "sharp"
+    },
+    {
+        "number": 804,
+        "french": "aile",
+        "english": "wing"
+    },
+    {
+        "number": 805,
+        "french": "créer",
+        "english": "create"
+    },
+    {
+        "number": 806,
+        "french": "voisin",
+        "english": "neighbor"
+    },
+    {
+        "number": 807,
+        "french": "lavage",
+        "english": "wash"
+    },
+    {
+        "number": 808,
+        "french": "chauve-souris",
+        "english": "bat"
+    },
+    {
+        "number": 809,
+        "french": "plutôt",
+        "english": "rather"
+    },
+    {
+        "number": 810,
+        "french": "foule",
+        "english": "crowd"
+    },
+    {
+        "number": 811,
+        "french": "blé",
+        "english": "corn"
+    },
+    {
+        "number": 812,
+        "french": "comparer",
+        "english": "compare"
+    },
+    {
+        "number": 813,
+        "french": "poème",
+        "english": "poem"
+    },
+    {
+        "number": 814,
+        "french": "chaîne",
+        "english": "string"
+    },
+    {
+        "number": 815,
+        "french": "cloche",
+        "english": "bell"
+    },
+    {
+        "number": 816,
+        "french": "dépendre",
+        "english": "depend"
+    },
+    {
+        "number": 817,
+        "french": "viande",
+        "english": "meat"
+    },
+    {
+        "number": 818,
+        "french": "rub",
+        "english": "rub"
+    },
+    {
+        "number": 819,
+        "french": "tube",
+        "english": "tube"
+    },
+    {
+        "number": 820,
+        "french": "célèbre",
+        "english": "famous"
+    },
+    {
+        "number": 921,
+        "french": "dollar",
+        "english": "dollar"
+    },
+    {
+        "number": 822,
+        "french": "courant",
+        "english": "stream"
+    },
+    {
+        "number": 823,
+        "french": "peur",
+        "english": "fear"
+    },
+    {
+        "number": 284,
+        "french": "vue",
+        "english": "sight"
+    },
+    {
+        "number": 825,
+        "french": "mince",
+        "english": "thin"
+    },
+    {
+        "number": 826,
+        "french": "triangle",
+        "english": "triangle"
+    },
+    {
+        "number": 827,
+        "french": "planète",
+        "english": "planet"
+    },
+    {
+        "number": 828,
+        "french": "se dépêcher",
+        "english": "hurry"
+    },
+    {
+        "number": 829,
+        "french": "chef",
+        "english": "chief"
+    },
+    {
+        "number": 830,
+        "french": "colonie",
+        "english": "colony"
+    },
+    {
+        "number": 831,
+        "french": "horloge",
+        "english": "clock"
+    },
+    {
+        "number": 832,
+        "french": "mine",
+        "english": "mine"
+    },
+    {
+        "number": 833,
+        "french": "lien",
+        "english": "tie"
+    },
+    {
+        "number": 834,
+        "french": "entrer",
+        "english": "enter"
+    },
+    {
+        "number": 835,
+        "french": "majeur",
+        "english": "major"
+    },
+    {
+        "number": 836,
+        "french": "frais",
+        "english": "fresh"
+    },
+    {
+        "number": 837,
+        "french": "recherche",
+        "english": "search"
+    },
+    {
+        "number": 838,
+        "french": "envoyer",
+        "english": "send"
+    },
+    {
+        "number": 839,
+        "french": "jaune",
+        "english": "yellow"
+    },
+    {
+        "number": 840,
+        "french": "pistolet",
+        "english": "gun"
+    },
+    {
+        "number": 841,
+        "french": "permettre",
+        "english": "allow"
+    },
+    {
+        "number": 842,
+        "french": "impression",
+        "english": "print"
+    },
+    {
+        "number": 843,
+        "french": "mort",
+        "english": "dead"
+    },
+    {
+        "number": 844,
+        "french": "place",
+        "english": "spot"
+    },
+    {
+        "number": 845,
+        "french": "désert",
+        "english": "desert"
+    },
+    {
+        "number": 846,
+        "french": "costume",
+        "english": "suit"
+    },
+    {
+        "number": 847,
+        "french": "courant",
+        "english": "current"
+    },
+    {
+        "number": 848,
+        "french": "ascenseur",
+        "english": "lift"
+    },
+    {
+        "number": 840,
+        "french": "rose",
+        "english": "rose"
+    },
+    {
+        "number": 850,
+        "french": "arriver",
+        "english": "arrive"
+    },
+    {
+        "number": 851,
+        "french": "maître",
+        "english": "master"
+    },
+    {
+        "number": 852,
+        "french": "piste",
+        "english": "track"
+    },
+    {
+        "number": 853,
+        "french": "mère",
+        "english": "parent"
+    },
+    {
+        "number": 854,
+        "french": "rivage",
+        "english": "shore"
+    },
+    {
+        "number": 855,
+        "french": "division",
+        "english": "division"
+    },
+    {
+        "number": 856,
+        "french": "feuille",
+        "english": "sheet"
+    },
+    {
+        "number": 857,
+        "french": "substance",
+        "english": "substance"
+    },
+    {
+        "number": 858,
+        "french": "favoriser",
+        "english": "favor"
+    },
+    {
+        "number": 859,
+        "french": "relier",
+        "english": "connect"
+    },
+    {
+        "number": 860,
+        "french": "poste",
+        "english": "post"
+    },
+    {
+        "number": 861,
+        "french": "passer",
+        "english": "spend"
+    },
+    {
+        "number": 862,
+        "french": "corde",
+        "english": "chord"
+    },
+    {
+        "number": 863,
+        "french": "graisse",
+        "english": "fat"
+    },
+    {
+        "number": 864,
+        "french": "heureux",
+        "english": "glad"
+    },
+    {
+        "number": 865,
+        "french": "original",
+        "english": "original"
+    },
+    {
+        "number": 866,
+        "french": "part",
+        "english": "share"
+    },
+    {
+        "number": 867,
+        "french": "station",
+        "english": "station"
+    },
+    {
+        "number": 868,
+        "french": "papa",
+        "english": "dad"
+    },
+    {
+        "number": 869,
+        "french": "pain",
+        "english": "bread"
+    },
+    {
+        "number": 870,
+        "french": "charger",
+        "english": "charge"
+    },
+    {
+        "number": 871,
+        "french": "propre",
+        "english": "proper"
+    },
+    {
+        "number": 872,
+        "french": "bar",
+        "english": "bar"
+    },
+    {
+        "number": 873,
+        "french": "proposition",
+        "english": "offer"
+    },
+    {
+        "number": 874,
+        "french": "segment",
+        "english": "segment"
+    },
+    {
+        "number": 875,
+        "french": "esclave",
+        "english": "slave"
+    },
+    {
+        "number": 876,
+        "french": "canard",
+        "english": "duck"
+    },
+    {
+        "number": 877,
+        "french": "instant",
+        "english": "instant"
+    },
+    {
+        "number": 878,
+        "french": "marché",
+        "english": "market"
+    },
+    {
+        "number": 879,
+        "french": "degré",
+        "english": "degree"
+    },
+    {
+        "number": 880,
+        "french": "peupler",
+        "english": "populate"
+    },
+    {
+        "number": 881,
+        "french": "poussin",
+        "english": "chick"
+    },
+    {
+        "number": 882,
+        "french": "cher",
+        "english": "dear"
+    },
+    {
+        "number": 883,
+        "french": "ennemi",
+        "english": "enemy"
+    },
+    {
+        "number": 884,
+        "french": "répondre",
+        "english": "reply"
+    },
+    {
+        "number": 885,
+        "french": "boisson",
+        "english": "drink"
+    },
+    {
+        "number": 886,
+        "french": "se produire",
+        "english": "occur"
+    },
+    {
+        "number": 887,
+        "french": "support",
+        "english": "support"
+    },
+    {
+        "number": 888,
+        "french": "discours",
+        "english": "speech"
+    },
+    {
+        "number": 889,
+        "french": "nature",
+        "english": "nature"
+    },
+    {
+        "number": 890,
+        "french": "gamme",
+        "english": "range"
+    },
+    {
+        "number": 891,
+        "french": "vapeur",
+        "english": "steam"
+    },
+    {
+        "number": 892,
+        "french": "mouvement",
+        "english": "motion"
+    },
+    {
+        "number": 893,
+        "french": "chemin",
+        "english": "path"
+    },
+    {
+        "number": 894,
+        "french": "liquide",
+        "english": "liquid"
+    },
+    {
+        "number": 895,
+        "french": "enregistrer",
+        "english": "log"
+    },
+    {
+        "number": 896,
+        "french": "signifiait",
+        "english": "meant"
+    },
+    {
+        "number": 897,
+        "french": "quotient",
+        "english": "quotient"
+    },
+    {
+        "number": 898,
+        "french": "dents",
+        "english": "teeth"
+    },
+    {
+        "number": 899,
+        "french": "coquille",
+        "english": "shell"
+    },
+    {
+        "number": 900,
+        "french": "cou",
+        "english": "neck"
+    },
+    {
+        "number": 901,
+        "french": "oxygène",
+        "english": "oxygen"
+    },
+    {
+        "number": 902,
+        "french": "sucre",
+        "english": "sugar"
+    },
+    {
+        "number": 903,
+        "french": "décès",
+        "english": "death"
+    },
+    {
+        "number": 904,
+        "french": "assez",
+        "english": "pretty"
+    },
+    {
+        "number": 905,
+        "french": "compétence",
+        "english": "skill"
+    },
+    {
+        "number": 906,
+        "french": "femmes",
+        "english": "women"
+    },
+    {
+        "number": 907,
+        "french": "saison",
+        "english": "season"
+    },
+    {
+        "number": 908,
+        "french": "solution",
+        "english": "solution"
+    },
+    {
+        "number": 909,
+        "french": "aimant",
+        "english": "magnet"
+    },
+    {
+        "number": 910,
+        "french": "argent",
+        "english": "silver"
+    },
+    {
+        "number": 911,
+        "french": "merci",
+        "english": "thank"
+    },
+    {
+        "number": 912,
+        "french": "branche",
+        "english": "branch"
+    },
+    {
+        "number": 913,
+        "french": "rencontre",
+        "english": "match"
+    },
+    {
+        "number": 914,
+        "french": "suffixe",
+        "english": "suffix"
+    },
+    {
+        "number": 915,
+        "french": "particulièrement",
+        "english": "especially"
+    },
+    {
+        "number": 916,
+        "french": "figue",
+        "english": "fig"
+    },
+    {
+        "number": 917,
+        "french": "peur",
+        "english": "afraid"
+    },
+    {
+        "number": 918,
+        "french": "énorme",
+        "english": "huge"
+    },
+    {
+        "number": 919,
+        "french": "sœur",
+        "english": "sister"
+    },
+    {
+        "number": 920,
+        "french": "acier",
+        "english": "steel"
+    },
+    {
+        "number": 921,
+        "french": "discuter",
+        "english": "discuss"
+    },
+    {
+        "number": 922,
+        "french": "avant",
+        "english": "forward"
+    },
+    {
+        "number": 923,
+        "french": "similaire",
+        "english": "similar"
+    },
+    {
+        "number": 924,
+        "french": "guider",
+        "english": "guide"
+    },
+    {
+        "number": 925,
+        "french": "expérience",
+        "english": "experience"
+    },
+    {
+        "number": 926,
+        "french": "score",
+        "english": "score"
+    },
+    {
+        "number": 927,
+        "french": "pomme",
+        "english": "apple"
+    },
+    {
+        "number": 928,
+        "french": "acheté",
+        "english": "bought"
+    },
+    {
+        "number": 929,
+        "french": "LED",
+        "english": "led"
+    },
+    {
+        "number": 930,
+        "french": "pas",
+        "english": "pitch"
+    },
+    {
+        "number": 931,
+        "french": "manteau",
+        "english": "coat"
+    },
+    {
+        "number": 932,
+        "french": "masse",
+        "english": "mass"
+    },
+    {
+        "number": 933,
+        "french": "carte",
+        "english": "card"
+    },
+    {
+        "number": 934,
+        "french": "bande",
+        "english": "band"
+    },
+    {
+        "number": 935,
+        "french": "corde",
+        "english": "rope"
+    },
+    {
+        "number": 936,
+        "french": "glissement",
+        "english": "slip"
+    },
+    {
+        "number": 937,
+        "french": "gagner",
+        "english": "win"
+    },
+    {
+        "number": 938,
+        "french": "rêver",
+        "english": "dream"
+    },
+    {
+        "number": 939,
+        "french": "soirée",
+        "english": "evening"
+    },
+    {
+        "number": 940,
+        "french": "condition",
+        "english": "condition"
+    },
+    {
+        "number": 941,
+        "french": "alimentation",
+        "english": "feed"
+    },
+    {
+        "number": 942,
+        "french": "outil",
+        "english": "tool"
+    },
+    {
+        "number": 943,
+        "french": "total",
+        "english": "total"
+    },
+    {
+        "number": 944,
+        "french": "de base",
+        "english": "basic"
+    },
+    {
+        "number": 945,
+        "french": "odeur",
+        "english": "smell"
+    },
+    {
+        "number": 946,
+        "french": "vallée",
+        "english": "valley"
+    },
+    {
+        "number": 947,
+        "french": "ni",
+        "english": "nor"
+    },
+    {
+        "number": 948,
+        "french": "double",
+        "english": "double"
+    },
+    {
+        "number": 949,
+        "french": "siège",
+        "english": "seat"
+    },
+    {
+        "number": 950,
+        "french": "continuer",
+        "english": "continue"
+    },
+    {
+        "number": 951,
+        "french": "bloc",
+        "english": "block"
+    },
+    {
+        "number": 952,
+        "french": "graphique",
+        "english": "chart"
+    },
+    {
+        "number": 953,
+        "french": "chapeau",
+        "english": "hat"
+    },
+    {
+        "number": 954,
+        "french": "vendre",
+        "english": "sell"
+    },
+    {
+        "number": 955,
+        "french": "succès",
+        "english": "success"
+    },
+    {
+        "number": 956,
+        "french": "entreprise",
+        "english": "company"
+    },
+    {
+        "number": 957,
+        "french": "soustraire",
+        "english": "subtract"
+    },
+    {
+        "number": 958,
+        "french": "événement",
+        "english": "event"
+    },
+    {
+        "number": 959,
+        "french": "particulier",
+        "english": "particular"
+    },
+    {
+        "number": 960,
+        "french": "accord",
+        "english": "deal"
+    },
+    {
+        "number": 961,
+        "french": "baignade",
+        "english": "swim"
+    },
+    {
+        "number": 962,
+        "french": "terme",
+        "english": "term"
+    },
+    {
+        "number": 963,
+        "french": "opposé",
+        "english": "opposite"
+    },
+    {
+        "number": 964,
+        "french": "femme",
+        "english": "wife"
+    },
+    {
+        "number": 965,
+        "french": "chaussure",
+        "english": "shoe"
+    },
+    {
+        "number": 966,
+        "french": "épaule",
+        "english": "shoulder"
+    },
+    {
+        "number": 967,
+        "french": "propagation",
+        "english": "spread"
+    },
+    {
+        "number": 968,
+        "french": "organiser",
+        "english": "arrange"
+    },
+    {
+        "number": 969,
+        "french": "camp",
+        "english": "camp"
+    },
+    {
+        "number": 970,
+        "french": "inventer",
+        "english": "invent"
+    },
+    {
+        "number": 971,
+        "french": "coton",
+        "english": "cotton"
+    },
+    {
+        "number": 972,
+        "french": "né",
+        "english": "born"
+    },
+    {
+        "number": 973,
+        "french": "déterminer",
+        "english": "determine"
+    },
+    {
+        "number": 974,
+        "french": "litre",
+        "english": "quart"
+    },
+    {
+        "number": 975,
+        "french": "neuf",
+        "english": "nine"
+    },
+    {
+        "number": 976,
+        "french": "camion",
+        "english": "truck"
+    },
+    {
+        "number": 977,
+        "french": "bruit",
+        "english": "noise"
+    },
+    {
+        "number": 978,
+        "french": "niveau",
+        "english": "level"
+    },
+    {
+        "number": 979,
+        "french": "chance",
+        "english": "chance"
+    },
+    {
+        "number": 980,
+        "french": "recueillir",
+        "english": "gather"
+    },
+    {
+        "number": 981,
+        "french": "boutique",
+        "english": "shop"
+    },
+    {
+        "number": 982,
+        "french": "tronçon",
+        "english": "stretch"
+    },
+    {
+        "number": 983,
+        "french": "jeter",
+        "english": "throw"
+    },
+    {
+        "number": 984,
+        "french": "éclat",
+        "english": "shine"
+    },
+    {
+        "number": 985,
+        "french": "propriété",
+        "english": "property"
+    },
+    {
+        "number": 986,
+        "french": "colonne",
+        "english": "column"
+    },
+    {
+        "number": 987,
+        "french": "molécule",
+        "english": "molecule"
+    },
+    {
+        "number": 988,
+        "french": "sélectionner",
+        "english": "select"
+    },
+    {
+        "number": 989,
+        "french": "mal",
+        "english": "wrong"
+    },
+    {
+        "number": 990,
+        "french": "gris",
+        "english": "gray"
+    },
+    {
+        "number": 991,
+        "french": "répétition",
+        "english": "repeat"
+    },
+    {
+        "number": 992,
+        "french": "exiger",
+        "english": "require"
+    },
+    {
+        "number": 993,
+        "french": "large",
+        "english": "broad"
+    },
+    {
+        "number": 994,
+        "french": "préparer",
+        "english": "prepare"
+    },
+    {
+        "number": 995,
+        "french": "sel",
+        "english": "salt"
+    },
+    {
+        "number": 996,
+        "french": "nez",
+        "english": "nose"
+    },
+    {
+        "number": 997,
+        "french": "pluriel",
+        "english": "plural"
+    },
+    {
+        "number": 998,
+        "french": "colère",
+        "english": "anger"
+    },
+    {
+        "number": 999,
+        "french": "revendication",
+        "english": "claim"
+    },
+    {
+        "number": 1000,
+        "french": "continent",
+        "english": "continent"
+    }
+]

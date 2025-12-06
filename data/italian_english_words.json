@@ -1,0 +1,5002 @@
+[
+    {
+        "number": 1,
+        "italian": "come",
+        "english": "as"
+    },
+    {
+        "number": 2,
+        "italian": "io",
+        "english": "I"
+    },
+    {
+        "number": 3,
+        "italian": "il suo",
+        "english": "his"
+    },
+    {
+        "number": 4,
+        "italian": "che",
+        "english": "that"
+    },
+    {
+        "number": 5,
+        "italian": "lui",
+        "english": "he"
+    },
+    {
+        "number": 6,
+        "italian": "era",
+        "english": "was"
+    },
+    {
+        "number": 7,
+        "italian": "per",
+        "english": "for"
+    },
+    {
+        "number": 8,
+        "italian": "su",
+        "english": "on"
+    },
+    {
+        "number": 9,
+        "italian": "sono",
+        "english": "are"
+    },
+    {
+        "number": 10,
+        "italian": "con",
+        "english": "with"
+    },
+    {
+        "number": 11,
+        "italian": "essi",
+        "english": "they"
+    },
+    {
+        "number": 12,
+        "italian": "essere",
+        "english": "be"
+    },
+    {
+        "number": 13,
+        "italian": "a",
+        "english": "at"
+    },
+    {
+        "number": 14,
+        "italian": "uno",
+        "english": "one"
+    },
+    {
+        "number": 15,
+        "italian": "avere",
+        "english": "have"
+    },
+    {
+        "number": 16,
+        "italian": "questo",
+        "english": "this"
+    },
+    {
+        "number": 17,
+        "italian": "da",
+        "english": "from"
+    },
+    {
+        "number": 18,
+        "italian": "da",
+        "english": "by"
+    },
+    {
+        "number": 19,
+        "italian": "caldo",
+        "english": "hot"
+    },
+    {
+        "number": 20,
+        "italian": "parola",
+        "english": "word"
+    },
+    {
+        "number": 21,
+        "italian": "ma",
+        "english": "but"
+    },
+    {
+        "number": 22,
+        "italian": "cosa",
+        "english": "what"
+    },
+    {
+        "number": 23,
+        "italian": "alcuni",
+        "english": "some"
+    },
+    {
+        "number": 24,
+        "italian": "è",
+        "english": "is"
+    },
+    {
+        "number": 25,
+        "italian": "esso",
+        "english": "it"
+    },
+    {
+        "number": 26,
+        "italian": "voi",
+        "english": "you"
+    },
+    {
+        "number": 27,
+        "italian": "o",
+        "english": "or"
+    },
+    {
+        "number": 28,
+        "italian": "aveva",
+        "english": "had"
+    },
+    {
+        "number": 29,
+        "italian": "il",
+        "english": "the"
+    },
+    {
+        "number": 30,
+        "italian": "di",
+        "english": "of"
+    },
+    {
+        "number": 31,
+        "italian": "a",
+        "english": "to"
+    },
+    {
+        "number": 32,
+        "italian": "e",
+        "english": "and"
+    },
+    {
+        "number": 33,
+        "italian": "un",
+        "english": "a"
+    },
+    {
+        "number": 34,
+        "italian": "in",
+        "english": "in"
+    },
+    {
+        "number": 35,
+        "italian": "noi",
+        "english": "we"
+    },
+    {
+        "number": 36,
+        "italian": "lattina",
+        "english": "can"
+    },
+    {
+        "number": 37,
+        "italian": "fuori",
+        "english": "out"
+    },
+    {
+        "number": 38,
+        "italian": "altro",
+        "english": "other"
+    },
+    {
+        "number": 39,
+        "italian": "erano",
+        "english": "were"
+    },
+    {
+        "number": 40,
+        "italian": "che",
+        "english": "which"
+    },
+    {
+        "number": 41,
+        "italian": "fare",
+        "english": "do"
+    },
+    {
+        "number": 42,
+        "italian": "loro",
+        "english": "their"
+    },
+    {
+        "number": 43,
+        "italian": "tempo",
+        "english": "time"
+    },
+    {
+        "number": 44,
+        "italian": "se",
+        "english": "if"
+    },
+    {
+        "number": 45,
+        "italian": "volontà",
+        "english": "will"
+    },
+    {
+        "number": 46,
+        "italian": "come",
+        "english": "how"
+    },
+    {
+        "number": 47,
+        "italian": "suddetto",
+        "english": "said"
+    },
+    {
+        "number": 48,
+        "italian": "un",
+        "english": "an"
+    },
+    {
+        "number": 49,
+        "italian": "ogni",
+        "english": "each"
+    },
+    {
+        "number": 50,
+        "italian": "dire",
+        "english": "tell"
+    },
+    {
+        "number": 51,
+        "italian": "fa",
+        "english": "does"
+    },
+    {
+        "number": 52,
+        "italian": "set",
+        "english": "set"
+    },
+    {
+        "number": 53,
+        "italian": "tre",
+        "english": "three"
+    },
+    {
+        "number": 54,
+        "italian": "desiderare",
+        "english": "want"
+    },
+    {
+        "number": 55,
+        "italian": "aria",
+        "english": "air"
+    },
+    {
+        "number": 56,
+        "italian": "bene",
+        "english": "well"
+    },
+    {
+        "number": 57,
+        "italian": "anche",
+        "english": "also"
+    },
+    {
+        "number": 58,
+        "italian": "giocare",
+        "english": "play"
+    },
+    {
+        "number": 59,
+        "italian": "piccolo",
+        "english": "small"
+    },
+    {
+        "number": 60,
+        "italian": "fine",
+        "english": "end"
+    },
+    {
+        "number": 61,
+        "italian": "mettere",
+        "english": "put"
+    },
+    {
+        "number": 62,
+        "italian": "casa",
+        "english": "home"
+    },
+    {
+        "number": 63,
+        "italian": "leggere",
+        "english": "read"
+    },
+    {
+        "number": 64,
+        "italian": "mano",
+        "english": "hand"
+    },
+    {
+        "number": 65,
+        "italian": "porto",
+        "english": "port"
+    },
+    {
+        "number": 66,
+        "italian": "grande",
+        "english": "large"
+    },
+    {
+        "number": 67,
+        "italian": "compitare",
+        "english": "spell"
+    },
+    {
+        "number": 68,
+        "italian": "aggiungere",
+        "english": "add"
+    },
+    {
+        "number": 69,
+        "italian": "anche",
+        "english": "even"
+    },
+    {
+        "number": 70,
+        "italian": "terra",
+        "english": "land"
+    },
+    {
+        "number": 71,
+        "italian": "qui",
+        "english": "here"
+    },
+    {
+        "number": 72,
+        "italian": "mosto",
+        "english": "must"
+    },
+    {
+        "number": 73,
+        "italian": "grande",
+        "english": "big"
+    },
+    {
+        "number": 74,
+        "italian": "alto",
+        "english": "high"
+    },
+    {
+        "number": 75,
+        "italian": "tale",
+        "english": "such"
+    },
+    {
+        "number": 76,
+        "italian": "seguire",
+        "english": "follow"
+    },
+    {
+        "number": 77,
+        "italian": "atto",
+        "english": "act"
+    },
+    {
+        "number": 78,
+        "italian": "perché",
+        "english": "why"
+    },
+    {
+        "number": 79,
+        "italian": "chiedere",
+        "english": "ask"
+    },
+    {
+        "number": 80,
+        "italian": "maschi",
+        "english": "men"
+    },
+    {
+        "number": 81,
+        "italian": "cambiamento",
+        "english": "change"
+    },
+    {
+        "number": 82,
+        "italian": "è andato",
+        "english": "went"
+    },
+    {
+        "number": 83,
+        "italian": "luce",
+        "english": "light"
+    },
+    {
+        "number": 84,
+        "italian": "tipo",
+        "english": "kind"
+    },
+    {
+        "number": 85,
+        "italian": "spento",
+        "english": "off"
+    },
+    {
+        "number": 86,
+        "italian": "bisogno",
+        "english": "need"
+    },
+    {
+        "number": 87,
+        "italian": "casa",
+        "english": "house"
+    },
+    {
+        "number": 88,
+        "italian": "immagine",
+        "english": "picture"
+    },
+    {
+        "number": 89,
+        "italian": "provare",
+        "english": "try"
+    },
+    {
+        "number": 90,
+        "italian": "noi",
+        "english": "us"
+    },
+    {
+        "number": 91,
+        "italian": "di nuovo",
+        "english": "again"
+    },
+    {
+        "number": 92,
+        "italian": "animale",
+        "english": "animal"
+    },
+    {
+        "number": 93,
+        "italian": "punto",
+        "english": "point"
+    },
+    {
+        "number": 94,
+        "italian": "madre",
+        "english": "mother"
+    },
+    {
+        "number": 95,
+        "italian": "mondo",
+        "english": "world"
+    },
+    {
+        "number": 96,
+        "italian": "vicino",
+        "english": "near"
+    },
+    {
+        "number": 97,
+        "italian": "costruire",
+        "english": "build"
+    },
+    {
+        "number": 98,
+        "italian": "se stesso",
+        "english": "self"
+    },
+    {
+        "number": 99,
+        "italian": "terra",
+        "english": "earth"
+    },
+    {
+        "number": 100,
+        "italian": "padre",
+        "english": "father"
+    },
+    {
+        "number": 101,
+        "italian": "qualsiasi",
+        "english": "any"
+    },
+    {
+        "number": 102,
+        "italian": "nuovo",
+        "english": "new"
+    },
+    {
+        "number": 103,
+        "italian": "lavoro",
+        "english": "work"
+    },
+    {
+        "number": 104,
+        "italian": "parte",
+        "english": "part"
+    },
+    {
+        "number": 105,
+        "italian": "prendere",
+        "english": "take"
+    },
+    {
+        "number": 106,
+        "italian": "ottenere",
+        "english": "get"
+    },
+    {
+        "number": 107,
+        "italian": "posto",
+        "english": "place"
+    },
+    {
+        "number": 108,
+        "italian": "fatto",
+        "english": "made"
+    },
+    {
+        "number": 109,
+        "italian": "vivere",
+        "english": "live"
+    },
+    {
+        "number": 110,
+        "italian": "dove",
+        "english": "where"
+    },
+    {
+        "number": 111,
+        "italian": "dopo",
+        "english": "after"
+    },
+    {
+        "number": 112,
+        "italian": "indietro",
+        "english": "back"
+    },
+    {
+        "number": 113,
+        "italian": "poco",
+        "english": "little"
+    },
+    {
+        "number": 114,
+        "italian": "solo",
+        "english": "only"
+    },
+    {
+        "number": 115,
+        "italian": "turno",
+        "english": "round"
+    },
+    {
+        "number": 116,
+        "italian": "uomo",
+        "english": "man"
+    },
+    {
+        "number": 117,
+        "italian": "anno",
+        "english": "year"
+    },
+    {
+        "number": 118,
+        "italian": "è venuto",
+        "english": "came"
+    },
+    {
+        "number": 119,
+        "italian": "spettacolo",
+        "english": "show"
+    },
+    {
+        "number": 120,
+        "italian": "ogni",
+        "english": "every"
+    },
+    {
+        "number": 121,
+        "italian": "buono",
+        "english": "good"
+    },
+    {
+        "number": 122,
+        "italian": "me",
+        "english": "me"
+    },
+    {
+        "number": 123,
+        "italian": "dare",
+        "english": "give"
+    },
+    {
+        "number": 124,
+        "italian": "il nostro",
+        "english": "our"
+    },
+    {
+        "number": 125,
+        "italian": "sotto",
+        "english": "under"
+    },
+    {
+        "number": 126,
+        "italian": "nome",
+        "english": "name"
+    },
+    {
+        "number": 127,
+        "italian": "molto",
+        "english": "very"
+    },
+    {
+        "number": 128,
+        "italian": "attraverso",
+        "english": "through"
+    },
+    {
+        "number": 129,
+        "italian": "solo",
+        "english": "just"
+    },
+    {
+        "number": 130,
+        "italian": "forma",
+        "english": "form"
+    },
+    {
+        "number": 131,
+        "italian": "frase",
+        "english": "sentence"
+    },
+    {
+        "number": 132,
+        "italian": "grande",
+        "english": "great"
+    },
+    {
+        "number": 133,
+        "italian": "pensare",
+        "english": "think"
+    },
+    {
+        "number": 134,
+        "italian": "dire",
+        "english": "say"
+    },
+    {
+        "number": 135,
+        "italian": "aiutare",
+        "english": "help"
+    },
+    {
+        "number": 136,
+        "italian": "basso",
+        "english": "low"
+    },
+    {
+        "number": 137,
+        "italian": "linea",
+        "english": "line"
+    },
+    {
+        "number": 138,
+        "italian": "differire",
+        "english": "differ"
+    },
+    {
+        "number": 139,
+        "italian": "turno",
+        "english": "turn"
+    },
+    {
+        "number": 140,
+        "italian": "causa",
+        "english": "cause"
+    },
+    {
+        "number": 141,
+        "italian": "molto",
+        "english": "much"
+    },
+    {
+        "number": 142,
+        "italian": "dire",
+        "english": "mean"
+    },
+    {
+        "number": 143,
+        "italian": "prima",
+        "english": "before"
+    },
+    {
+        "number": 144,
+        "italian": "spostare",
+        "english": "move"
+    },
+    {
+        "number": 145,
+        "italian": "diritto",
+        "english": "right"
+    },
+    {
+        "number": 146,
+        "italian": "ragazzo",
+        "english": "boy"
+    },
+    {
+        "number": 147,
+        "italian": "vecchio",
+        "english": "old"
+    },
+    {
+        "number": 148,
+        "italian": "troppo",
+        "english": "too"
+    },
+    {
+        "number": 149,
+        "italian": "stesso",
+        "english": "same"
+    },
+    {
+        "number": 150,
+        "italian": "lei",
+        "english": "she"
+    },
+    {
+        "number": 151,
+        "italian": "tutto",
+        "english": "all"
+    },
+    {
+        "number": 152,
+        "italian": "ci",
+        "english": "there"
+    },
+    {
+        "number": 153,
+        "italian": "quando",
+        "english": "when"
+    },
+    {
+        "number": 154,
+        "italian": "su",
+        "english": "up"
+    },
+    {
+        "number": 155,
+        "italian": "uso",
+        "english": "use"
+    },
+    {
+        "number": 156,
+        "italian": "il tuo",
+        "english": "your"
+    },
+    {
+        "number": 157,
+        "italian": "modo",
+        "english": "way"
+    },
+    {
+        "number": 158,
+        "italian": "circa",
+        "english": "about"
+    },
+    {
+        "number": 159,
+        "italian": "molti",
+        "english": "many"
+    },
+    {
+        "number": 160,
+        "italian": "allora",
+        "english": "then"
+    },
+    {
+        "number": 161,
+        "italian": "loro",
+        "english": "them"
+    },
+    {
+        "number": 162,
+        "italian": "scrivere",
+        "english": "write"
+    },
+    {
+        "number": 163,
+        "italian": "sarebbe",
+        "english": "would"
+    },
+    {
+        "number": 164,
+        "italian": "come",
+        "english": "like"
+    },
+    {
+        "number": 165,
+        "italian": "così",
+        "english": "so"
+    },
+    {
+        "number": 166,
+        "italian": "queste",
+        "english": "these"
+    },
+    {
+        "number": 167,
+        "italian": "lei",
+        "english": "her"
+    },
+    {
+        "number": 168,
+        "italian": "lungo",
+        "english": "long"
+    },
+    {
+        "number": 169,
+        "italian": "rendere",
+        "english": "make"
+    },
+    {
+        "number": 170,
+        "italian": "cosa",
+        "english": "thing"
+    },
+    {
+        "number": 171,
+        "italian": "vedere",
+        "english": "see"
+    },
+    {
+        "number": 172,
+        "italian": "lui",
+        "english": "him"
+    },
+    {
+        "number": 173,
+        "italian": "due",
+        "english": "two"
+    },
+    {
+        "number": 174,
+        "italian": "ha",
+        "english": "has"
+    },
+    {
+        "number": 175,
+        "italian": "guardare",
+        "english": "look"
+    },
+    {
+        "number": 176,
+        "italian": "di più",
+        "english": "more"
+    },
+    {
+        "number": 177,
+        "italian": "giorno",
+        "english": "day"
+    },
+    {
+        "number": 178,
+        "italian": "potuto",
+        "english": "could"
+    },
+    {
+        "number": 179,
+        "italian": "andare",
+        "english": "go"
+    },
+    {
+        "number": 180,
+        "italian": "venire",
+        "english": "come"
+    },
+    {
+        "number": 181,
+        "italian": "ha fatto",
+        "english": "did"
+    },
+    {
+        "number": 182,
+        "italian": "numero",
+        "english": "number"
+    },
+    {
+        "number": 183,
+        "italian": "suono",
+        "english": "sound"
+    },
+    {
+        "number": 184,
+        "italian": "no",
+        "english": "no"
+    },
+    {
+        "number": 185,
+        "italian": "più",
+        "english": "most"
+    },
+    {
+        "number": 186,
+        "italian": "persone",
+        "english": "people"
+    },
+    {
+        "number": 187,
+        "italian": "il mio",
+        "english": "my"
+    },
+    {
+        "number": 188,
+        "italian": "oltre",
+        "english": "over"
+    },
+    {
+        "number": 189,
+        "italian": "sapere",
+        "english": "know"
+    },
+    {
+        "number": 190,
+        "italian": "acqua",
+        "english": "water"
+    },
+    {
+        "number": 191,
+        "italian": "di",
+        "english": "than"
+    },
+    {
+        "number": 192,
+        "italian": "chiamata",
+        "english": "call"
+    },
+    {
+        "number": 193,
+        "italian": "primo",
+        "english": "first"
+    },
+    {
+        "number": 194,
+        "italian": "che",
+        "english": "who"
+    },
+    {
+        "number": 195,
+        "italian": "può",
+        "english": "may"
+    },
+    {
+        "number": 196,
+        "italian": "giù",
+        "english": "down"
+    },
+    {
+        "number": 197,
+        "italian": "lato",
+        "english": "side"
+    },
+    {
+        "number": 198,
+        "italian": "stato",
+        "english": "been"
+    },
+    {
+        "number": 199,
+        "italian": "ora",
+        "english": "now"
+    },
+    {
+        "number": 200,
+        "italian": "trovare",
+        "english": "find"
+    },
+    {
+        "number": 201,
+        "italian": "testa",
+        "english": "head"
+    },
+    {
+        "number": 202,
+        "italian": "stare in piedi",
+        "english": "stand"
+    },
+    {
+        "number": 203,
+        "italian": "proprio",
+        "english": "own"
+    },
+    {
+        "number": 204,
+        "italian": "pagina",
+        "english": "page"
+    },
+    {
+        "number": 205,
+        "italian": "dovrebbe",
+        "english": "should"
+    },
+    {
+        "number": 206,
+        "italian": "paese",
+        "english": "country"
+    },
+    {
+        "number": 207,
+        "italian": "fondare",
+        "english": "found"
+    },
+    {
+        "number": 208,
+        "italian": "risposta",
+        "english": "answer"
+    },
+    {
+        "number": 209,
+        "italian": "scuola",
+        "english": "school"
+    },
+    {
+        "number": 210,
+        "italian": "crescere",
+        "english": "grow"
+    },
+    {
+        "number": 211,
+        "italian": "studio",
+        "english": "study"
+    },
+    {
+        "number": 212,
+        "italian": "ancora",
+        "english": "still"
+    },
+    {
+        "number": 213,
+        "italian": "imparare",
+        "english": "learn"
+    },
+    {
+        "number": 214,
+        "italian": "impianto",
+        "english": "plant"
+    },
+    {
+        "number": 215,
+        "italian": "copertura",
+        "english": "cover"
+    },
+    {
+        "number": 216,
+        "italian": "cibo",
+        "english": "food"
+    },
+    {
+        "number": 217,
+        "italian": "sole",
+        "english": "sun"
+    },
+    {
+        "number": 218,
+        "italian": "quattro",
+        "english": "four"
+    },
+    {
+        "number": 219,
+        "italian": "fra",
+        "english": "between"
+    },
+    {
+        "number": 220,
+        "italian": "stato",
+        "english": "state"
+    },
+    {
+        "number": 221,
+        "italian": "mantenere",
+        "english": "keep"
+    },
+    {
+        "number": 222,
+        "italian": "occhio",
+        "english": "eye"
+    },
+    {
+        "number": 223,
+        "italian": "mai",
+        "english": "never"
+    },
+    {
+        "number": 224,
+        "italian": "ultimo",
+        "english": "last"
+    },
+    {
+        "number": 225,
+        "italian": "lasciare",
+        "english": "let"
+    },
+    {
+        "number": 226,
+        "italian": "pensiero",
+        "english": "thought"
+    },
+    {
+        "number": 227,
+        "italian": "città",
+        "english": "city"
+    },
+    {
+        "number": 228,
+        "italian": "albero",
+        "english": "tree"
+    },
+    {
+        "number": 229,
+        "italian": "attraversare",
+        "english": "cross"
+    },
+    {
+        "number": 230,
+        "italian": "fattoria",
+        "english": "farm"
+    },
+    {
+        "number": 231,
+        "italian": "difficile",
+        "english": "hard"
+    },
+    {
+        "number": 232,
+        "italian": "inizio",
+        "english": "start"
+    },
+    {
+        "number": 233,
+        "italian": "forza",
+        "english": "might"
+    },
+    {
+        "number": 234,
+        "italian": "storia",
+        "english": "story"
+    },
+    {
+        "number": 235,
+        "italian": "sega",
+        "english": "saw"
+    },
+    {
+        "number": 236,
+        "italian": "lontano",
+        "english": "far"
+    },
+    {
+        "number": 237,
+        "italian": "mare",
+        "english": "sea"
+    },
+    {
+        "number": 238,
+        "italian": "disegnare",
+        "english": "draw"
+    },
+    {
+        "number": 239,
+        "italian": "sinistra",
+        "english": "left"
+    },
+    {
+        "number": 240,
+        "italian": "tardi",
+        "english": "late"
+    },
+    {
+        "number": 241,
+        "italian": "run",
+        "english": "run"
+    },
+    {
+        "number": 242,
+        "italian": "non",
+        "english": "don’t"
+    },
+    {
+        "number": 243,
+        "italian": "mentre",
+        "english": "while"
+    },
+    {
+        "number": 244,
+        "italian": "stampa",
+        "english": "press"
+    },
+    {
+        "number": 245,
+        "italian": "close",
+        "english": "close"
+    },
+    {
+        "number": 246,
+        "italian": "notte",
+        "english": "night"
+    },
+    {
+        "number": 247,
+        "italian": "reale",
+        "english": "real"
+    },
+    {
+        "number": 248,
+        "italian": "vita",
+        "english": "life"
+    },
+    {
+        "number": 249,
+        "italian": "pochi",
+        "english": "few"
+    },
+    {
+        "number": 250,
+        "italian": "nord",
+        "english": "north"
+    },
+    {
+        "number": 251,
+        "italian": "libro",
+        "english": "book"
+    },
+    {
+        "number": 252,
+        "italian": "portare",
+        "english": "carry"
+    },
+    {
+        "number": 253,
+        "italian": "ha preso",
+        "english": "took"
+    },
+    {
+        "number": 254,
+        "italian": "scienza",
+        "english": "science"
+    },
+    {
+        "number": 255,
+        "italian": "mangiare",
+        "english": "eat"
+    },
+    {
+        "number": 256,
+        "italian": "camera",
+        "english": "room"
+    },
+    {
+        "number": 257,
+        "italian": "amico",
+        "english": "friend"
+    },
+    {
+        "number": 258,
+        "italian": "ha iniziato",
+        "english": "began"
+    },
+    {
+        "number": 259,
+        "italian": "idea",
+        "english": "idea"
+    },
+    {
+        "number": 260,
+        "italian": "pesce",
+        "english": "fish"
+    },
+    {
+        "number": 261,
+        "italian": "montagna",
+        "english": "mountain"
+    },
+    {
+        "number": 262,
+        "italian": "stop",
+        "english": "stop"
+    },
+    {
+        "number": 263,
+        "italian": "una volta",
+        "english": "once"
+    },
+    {
+        "number": 264,
+        "italian": "base",
+        "english": "base"
+    },
+    {
+        "number": 265,
+        "italian": "sentire",
+        "english": "hear"
+    },
+    {
+        "number": 266,
+        "italian": "cavallo",
+        "english": "horse"
+    },
+    {
+        "number": 267,
+        "italian": "taglio",
+        "english": "cut"
+    },
+    {
+        "number": 268,
+        "italian": "sicuro",
+        "english": "sure"
+    },
+    {
+        "number": 269,
+        "italian": "orologio",
+        "english": "watch"
+    },
+    {
+        "number": 270,
+        "italian": "colore",
+        "english": "color"
+    },
+    {
+        "number": 271,
+        "italian": "volto",
+        "english": "face"
+    },
+    {
+        "number": 272,
+        "italian": "legno",
+        "english": "wood"
+    },
+    {
+        "number": 273,
+        "italian": "principale",
+        "english": "main"
+    },
+    {
+        "number": 274,
+        "italian": "aperto",
+        "english": "open"
+    },
+    {
+        "number": 275,
+        "italian": "sembrare",
+        "english": "seem"
+    },
+    {
+        "number": 276,
+        "italian": "insieme",
+        "english": "together"
+    },
+    {
+        "number": 277,
+        "italian": "prossimo",
+        "english": "next"
+    },
+    {
+        "number": 278,
+        "italian": "bianco",
+        "english": "white"
+    },
+    {
+        "number": 279,
+        "italian": "bambini",
+        "english": "children"
+    },
+    {
+        "number": 280,
+        "italian": "inizio",
+        "english": "begin"
+    },
+    {
+        "number": 281,
+        "italian": "ottenuto",
+        "english": "got"
+    },
+    {
+        "number": 282,
+        "italian": "camminare",
+        "english": "walk"
+    },
+    {
+        "number": 283,
+        "italian": "esempio",
+        "english": "example"
+    },
+    {
+        "number": 284,
+        "italian": "alleviare",
+        "english": "ease"
+    },
+    {
+        "number": 285,
+        "italian": "carta",
+        "english": "paper"
+    },
+    {
+        "number": 286,
+        "italian": "gruppo",
+        "english": "group"
+    },
+    {
+        "number": 287,
+        "italian": "sempre",
+        "english": "always"
+    },
+    {
+        "number": 288,
+        "italian": "musica",
+        "english": "music"
+    },
+    {
+        "number": 289,
+        "italian": "quelli",
+        "english": "those"
+    },
+    {
+        "number": 290,
+        "italian": "entrambi",
+        "english": "both"
+    },
+    {
+        "number": 291,
+        "italian": "marchio",
+        "english": "mark"
+    },
+    {
+        "number": 292,
+        "italian": "spesso",
+        "english": "often"
+    },
+    {
+        "number": 293,
+        "italian": "lettera",
+        "english": "letter"
+    },
+    {
+        "number": 294,
+        "italian": "fino a quando",
+        "english": "until"
+    },
+    {
+        "number": 295,
+        "italian": "miglio",
+        "english": "mile"
+    },
+    {
+        "number": 296,
+        "italian": "fiume",
+        "english": "river"
+    },
+    {
+        "number": 297,
+        "italian": "auto",
+        "english": "car"
+    },
+    {
+        "number": 298,
+        "italian": "piedi",
+        "english": "feet"
+    },
+    {
+        "number": 299,
+        "italian": "cura",
+        "english": "care"
+    },
+    {
+        "number": 300,
+        "italian": "secondo",
+        "english": "second"
+    },
+    {
+        "number": 301,
+        "italian": "abbastanza",
+        "english": "enough"
+    },
+    {
+        "number": 302,
+        "italian": "pianura",
+        "english": "plain"
+    },
+    {
+        "number": 303,
+        "italian": "ragazza",
+        "english": "girl"
+    },
+    {
+        "number": 304,
+        "italian": "solito",
+        "english": "usual"
+    },
+    {
+        "number": 305,
+        "italian": "giovane",
+        "english": "young"
+    },
+    {
+        "number": 306,
+        "italian": "pronto",
+        "english": "ready"
+    },
+    {
+        "number": 307,
+        "italian": "sopra",
+        "english": "above"
+    },
+    {
+        "number": 308,
+        "italian": "mai",
+        "english": "ever"
+    },
+    {
+        "number": 309,
+        "italian": "rosso",
+        "english": "red"
+    },
+    {
+        "number": 310,
+        "italian": "elenco",
+        "english": "list"
+    },
+    {
+        "number": 311,
+        "italian": "anche se",
+        "english": "though"
+    },
+    {
+        "number": 312,
+        "italian": "sentire",
+        "english": "feel"
+    },
+    {
+        "number": 313,
+        "italian": "Discussioni",
+        "english": "talk"
+    },
+    {
+        "number": 314,
+        "italian": "uccello",
+        "english": "bird"
+    },
+    {
+        "number": 315,
+        "italian": "presto",
+        "english": "soon"
+    },
+    {
+        "number": 316,
+        "italian": "corpo",
+        "english": "body"
+    },
+    {
+        "number": 317,
+        "italian": "cane",
+        "english": "dog"
+    },
+    {
+        "number": 318,
+        "italian": "famiglia",
+        "english": "family"
+    },
+    {
+        "number": 319,
+        "italian": "diretto",
+        "english": "direct"
+    },
+    {
+        "number": 320,
+        "italian": "posa",
+        "english": "pose"
+    },
+    {
+        "number": 321,
+        "italian": "lasciare",
+        "english": "leave"
+    },
+    {
+        "number": 322,
+        "italian": "canzone",
+        "english": "song"
+    },
+    {
+        "number": 323,
+        "italian": "misurare",
+        "english": "measure"
+    },
+    {
+        "number": 324,
+        "italian": "porta",
+        "english": "door"
+    },
+    {
+        "number": 325,
+        "italian": "prodotto",
+        "english": "product"
+    },
+    {
+        "number": 326,
+        "italian": "nero",
+        "english": "black"
+    },
+    {
+        "number": 327,
+        "italian": "breve",
+        "english": "short"
+    },
+    {
+        "number": 328,
+        "italian": "numerale",
+        "english": "numeral"
+    },
+    {
+        "number": 329,
+        "italian": "classe",
+        "english": "class"
+    },
+    {
+        "number": 330,
+        "italian": "vento",
+        "english": "wind"
+    },
+    {
+        "number": 331,
+        "italian": "domanda",
+        "english": "question"
+    },
+    {
+        "number": 332,
+        "italian": "accadere",
+        "english": "happen"
+    },
+    {
+        "number": 333,
+        "italian": "integrale",
+        "english": "complete"
+    },
+    {
+        "number": 334,
+        "italian": "nave",
+        "english": "ship"
+    },
+    {
+        "number": 335,
+        "italian": "area",
+        "english": "area"
+    },
+    {
+        "number": 336,
+        "italian": "metà",
+        "english": "half"
+    },
+    {
+        "number": 337,
+        "italian": "rock",
+        "english": "rock"
+    },
+    {
+        "number": 338,
+        "italian": "ordine",
+        "english": "order"
+    },
+    {
+        "number": 339,
+        "italian": "fuoco",
+        "english": "fire"
+    },
+    {
+        "number": 340,
+        "italian": "sud",
+        "english": "south"
+    },
+    {
+        "number": 341,
+        "italian": "problema",
+        "english": "problem"
+    },
+    {
+        "number": 342,
+        "italian": "pezzo",
+        "english": "piece"
+    },
+    {
+        "number": 343,
+        "italian": "ha detto",
+        "english": "told"
+    },
+    {
+        "number": 344,
+        "italian": "sapeva",
+        "english": "knew"
+    },
+    {
+        "number": 345,
+        "italian": "passare",
+        "english": "pass"
+    },
+    {
+        "number": 346,
+        "italian": "da",
+        "english": "since"
+    },
+    {
+        "number": 347,
+        "italian": "top",
+        "english": "top"
+    },
+    {
+        "number": 348,
+        "italian": "tutto",
+        "english": "whole"
+    },
+    {
+        "number": 349,
+        "italian": "re",
+        "english": "king"
+    },
+    {
+        "number": 350,
+        "italian": "strada",
+        "english": "street"
+    },
+    {
+        "number": 351,
+        "italian": "pollice",
+        "english": "inch"
+    },
+    {
+        "number": 352,
+        "italian": "moltiplicare",
+        "english": "multiply"
+    },
+    {
+        "number": 353,
+        "italian": "niente",
+        "english": "nothing"
+    },
+    {
+        "number": 354,
+        "italian": "corso",
+        "english": "course"
+    },
+    {
+        "number": 355,
+        "italian": "soggiornare",
+        "english": "stay"
+    },
+    {
+        "number": 356,
+        "italian": "ruota",
+        "english": "wheel"
+    },
+    {
+        "number": 357,
+        "italian": "completo",
+        "english": "full"
+    },
+    {
+        "number": 358,
+        "italian": "vigore",
+        "english": "force"
+    },
+    {
+        "number": 359,
+        "italian": "blu",
+        "english": "blue"
+    },
+    {
+        "number": 360,
+        "italian": "oggetto",
+        "english": "object"
+    },
+    {
+        "number": 361,
+        "italian": "decidere",
+        "english": "decide"
+    },
+    {
+        "number": 362,
+        "italian": "superficie",
+        "english": "surface"
+    },
+    {
+        "number": 363,
+        "italian": "profondità",
+        "english": "deep"
+    },
+    {
+        "number": 364,
+        "italian": "luna",
+        "english": "moon"
+    },
+    {
+        "number": 365,
+        "italian": "isola",
+        "english": "island"
+    },
+    {
+        "number": 366,
+        "italian": "piede",
+        "english": "foot"
+    },
+    {
+        "number": 367,
+        "italian": "sistema",
+        "english": "system"
+    },
+    {
+        "number": 368,
+        "italian": "occupato",
+        "english": "busy"
+    },
+    {
+        "number": 369,
+        "italian": "test",
+        "english": "test"
+    },
+    {
+        "number": 370,
+        "italian": "record",
+        "english": "record"
+    },
+    {
+        "number": 371,
+        "italian": "barca",
+        "english": "boat"
+    },
+    {
+        "number": 372,
+        "italian": "comune",
+        "english": "common"
+    },
+    {
+        "number": 373,
+        "italian": "oro",
+        "english": "gold"
+    },
+    {
+        "number": 374,
+        "italian": "possibile",
+        "english": "possible"
+    },
+    {
+        "number": 375,
+        "italian": "piano",
+        "english": "plane"
+    },
+    {
+        "number": 376,
+        "italian": "vece",
+        "english": "stead"
+    },
+    {
+        "number": 377,
+        "italian": "asciutto",
+        "english": "dry"
+    },
+    {
+        "number": 378,
+        "italian": "meraviglia",
+        "english": "wonder"
+    },
+    {
+        "number": 379,
+        "italian": "ridere",
+        "english": "laugh"
+    },
+    {
+        "number": 380,
+        "italian": "migliaia",
+        "english": "thousand"
+    },
+    {
+        "number": 381,
+        "italian": "fa",
+        "english": "ago"
+    },
+    {
+        "number": 382,
+        "italian": "corse",
+        "english": "ran"
+    },
+    {
+        "number": 383,
+        "italian": "controllare",
+        "english": "check"
+    },
+    {
+        "number": 384,
+        "italian": "gioco",
+        "english": "game"
+    },
+    {
+        "number": 385,
+        "italian": "forma",
+        "english": "shape"
+    },
+    {
+        "number": 386,
+        "italian": "uguagliare",
+        "english": "equate"
+    },
+    {
+        "number": 387,
+        "italian": "caldo",
+        "english": "hot"
+    },
+    {
+        "number": 388,
+        "italian": "perdere",
+        "english": "miss"
+    },
+    {
+        "number": 389,
+        "italian": "portato",
+        "english": "brought"
+    },
+    {
+        "number": 390,
+        "italian": "calore",
+        "english": "heat"
+    },
+    {
+        "number": 391,
+        "italian": "neve",
+        "english": "snow"
+    },
+    {
+        "number": 392,
+        "italian": "pneumatico",
+        "english": "tire"
+    },
+    {
+        "number": 393,
+        "italian": "portare",
+        "english": "bring"
+    },
+    {
+        "number": 394,
+        "italian": "sì",
+        "english": "yes"
+    },
+    {
+        "number": 395,
+        "italian": "lontano",
+        "english": "distant"
+    },
+    {
+        "number": 396,
+        "italian": "riempire",
+        "english": "fill"
+    },
+    {
+        "number": 397,
+        "italian": "est",
+        "english": "east"
+    },
+    {
+        "number": 398,
+        "italian": "dipingere",
+        "english": "paint"
+    },
+    {
+        "number": 399,
+        "italian": "lingua",
+        "english": "language"
+    },
+    {
+        "number": 400,
+        "italian": "tra",
+        "english": "among"
+    },
+    {
+        "number": 401,
+        "italian": "unità",
+        "english": "unit"
+    },
+    {
+        "number": 402,
+        "italian": "potenza",
+        "english": "power"
+    },
+    {
+        "number": 403,
+        "italian": "città",
+        "english": "town"
+    },
+    {
+        "number": 404,
+        "italian": "fine",
+        "english": "fine"
+    },
+    {
+        "number": 405,
+        "italian": "certo",
+        "english": "certain"
+    },
+    {
+        "number": 406,
+        "italian": "volare",
+        "english": "fly"
+    },
+    {
+        "number": 407,
+        "italian": "cadere",
+        "english": "fall"
+    },
+    {
+        "number": 408,
+        "italian": "portare",
+        "english": "lead"
+    },
+    {
+        "number": 409,
+        "italian": "grido",
+        "english": "cry"
+    },
+    {
+        "number": 410,
+        "italian": "scuro",
+        "english": "dark"
+    },
+    {
+        "number": 411,
+        "italian": "macchina",
+        "english": "machine"
+    },
+    {
+        "number": 412,
+        "italian": "nota",
+        "english": "note"
+    },
+    {
+        "number": 413,
+        "italian": "aspettare",
+        "english": "wait"
+    },
+    {
+        "number": 414,
+        "italian": "piano",
+        "english": "plan"
+    },
+    {
+        "number": 415,
+        "italian": "figura",
+        "english": "figure"
+    },
+    {
+        "number": 416,
+        "italian": "stella",
+        "english": "star"
+    },
+    {
+        "number": 417,
+        "italian": "scatola",
+        "english": "box"
+    },
+    {
+        "number": 418,
+        "italian": "sostantivo",
+        "english": "noun"
+    },
+    {
+        "number": 419,
+        "italian": "campo",
+        "english": "field"
+    },
+    {
+        "number": 420,
+        "italian": "resto",
+        "english": "rest"
+    },
+    {
+        "number": 421,
+        "italian": "corretto",
+        "english": "correct"
+    },
+    {
+        "number": 422,
+        "italian": "in grado di",
+        "english": "able"
+    },
+    {
+        "number": 423,
+        "italian": "libbra",
+        "english": "pound"
+    },
+    {
+        "number": 424,
+        "italian": "done",
+        "english": "done"
+    },
+    {
+        "number": 425,
+        "italian": "bellezza",
+        "english": "beauty"
+    },
+    {
+        "number": 426,
+        "italian": "unità",
+        "english": "drive"
+    },
+    {
+        "number": 427,
+        "italian": "sorgeva",
+        "english": "stood"
+    },
+    {
+        "number": 428,
+        "italian": "contenere",
+        "english": "contain"
+    },
+    {
+        "number": 429,
+        "italian": "frontale",
+        "english": "front"
+    },
+    {
+        "number": 430,
+        "italian": "insegnare",
+        "english": "teach"
+    },
+    {
+        "number": 431,
+        "italian": "settimana",
+        "english": "week"
+    },
+    {
+        "number": 432,
+        "italian": "finale",
+        "english": "final"
+    },
+    {
+        "number": 433,
+        "italian": "ha dato",
+        "english": "gave"
+    },
+    {
+        "number": 434,
+        "italian": "verde",
+        "english": "green"
+    },
+    {
+        "number": 435,
+        "italian": "oh",
+        "english": "oh"
+    },
+    {
+        "number": 436,
+        "italian": "veloce",
+        "english": "quick"
+    },
+    {
+        "number": 437,
+        "italian": "sviluppare",
+        "english": "develop"
+    },
+    {
+        "number": 438,
+        "italian": "oceano",
+        "english": "ocean"
+    },
+    {
+        "number": 439,
+        "italian": "caldo",
+        "english": "warm"
+    },
+    {
+        "number": 440,
+        "italian": "gratuito",
+        "english": "free"
+    },
+    {
+        "number": 441,
+        "italian": "minuto",
+        "english": "minute"
+    },
+    {
+        "number": 442,
+        "italian": "forte",
+        "english": "strong"
+    },
+    {
+        "number": 443,
+        "italian": "speciale",
+        "english": "special"
+    },
+    {
+        "number": 444,
+        "italian": "mente",
+        "english": "mind"
+    },
+    {
+        "number": 445,
+        "italian": "dietro",
+        "english": "behind"
+    },
+    {
+        "number": 446,
+        "italian": "chiaro",
+        "english": "clear"
+    },
+    {
+        "number": 447,
+        "italian": "coda",
+        "english": "tail"
+    },
+    {
+        "number": 448,
+        "italian": "produrre",
+        "english": "produce"
+    },
+    {
+        "number": 449,
+        "italian": "fatto",
+        "english": "fact"
+    },
+    {
+        "number": 450,
+        "italian": "spazio",
+        "english": "space"
+    },
+    {
+        "number": 451,
+        "italian": "sentito",
+        "english": "heard"
+    },
+    {
+        "number": 452,
+        "italian": "migliore",
+        "english": "best"
+    },
+    {
+        "number": 453,
+        "italian": "ora",
+        "english": "hour"
+    },
+    {
+        "number": 454,
+        "italian": "meglio",
+        "english": "better"
+    },
+    {
+        "number": 455,
+        "italian": "vero",
+        "english": "true"
+    },
+    {
+        "number": 456,
+        "italian": "durante",
+        "english": "during"
+    },
+    {
+        "number": 457,
+        "italian": "cento",
+        "english": "hundred"
+    },
+    {
+        "number": 458,
+        "italian": "cinque",
+        "english": "five"
+    },
+    {
+        "number": 459,
+        "italian": "ricordare",
+        "english": "remember"
+    },
+    {
+        "number": 460,
+        "italian": "passo",
+        "english": "step"
+    },
+    {
+        "number": 461,
+        "italian": "presto",
+        "english": "early"
+    },
+    {
+        "number": 462,
+        "italian": "tenere",
+        "english": "hold"
+    },
+    {
+        "number": 463,
+        "italian": "ovest",
+        "english": "west"
+    },
+    {
+        "number": 464,
+        "italian": "terra",
+        "english": "ground"
+    },
+    {
+        "number": 465,
+        "italian": "interesse",
+        "english": "interest"
+    },
+    {
+        "number": 466,
+        "italian": "raggiungere",
+        "english": "reach"
+    },
+    {
+        "number": 467,
+        "italian": "veloce",
+        "english": "fast"
+    },
+    {
+        "number": 468,
+        "italian": "verbo",
+        "english": "verb"
+    },
+    {
+        "number": 469,
+        "italian": "cantare",
+        "english": "sing"
+    },
+    {
+        "number": 470,
+        "italian": "ascoltare",
+        "english": "listen"
+    },
+    {
+        "number": 471,
+        "italian": "sei",
+        "english": "six"
+    },
+    {
+        "number": 472,
+        "italian": "tavolo",
+        "english": "table"
+    },
+    {
+        "number": 473,
+        "italian": "viaggi",
+        "english": "travel"
+    },
+    {
+        "number": 474,
+        "italian": "meno",
+        "english": "less"
+    },
+    {
+        "number": 475,
+        "italian": "mattina",
+        "english": "morning"
+    },
+    {
+        "number": 476,
+        "italian": "dieci",
+        "english": "ten"
+    },
+    {
+        "number": 477,
+        "italian": "semplice",
+        "english": "simple"
+    },
+    {
+        "number": 478,
+        "italian": "alcuni",
+        "english": "several"
+    },
+    {
+        "number": 479,
+        "italian": "vocale",
+        "english": "vowel"
+    },
+    {
+        "number": 480,
+        "italian": "verso",
+        "english": "toward"
+    },
+    {
+        "number": 481,
+        "italian": "guerra",
+        "english": "war"
+    },
+    {
+        "number": 482,
+        "italian": "porre",
+        "english": "lay"
+    },
+    {
+        "number": 483,
+        "italian": "contro",
+        "english": "against"
+    },
+    {
+        "number": 484,
+        "italian": "modello",
+        "english": "pattern"
+    },
+    {
+        "number": 485,
+        "italian": "lento",
+        "english": "slow"
+    },
+    {
+        "number": 486,
+        "italian": "centro",
+        "english": "center"
+    },
+    {
+        "number": 487,
+        "italian": "amore",
+        "english": "love"
+    },
+    {
+        "number": 488,
+        "italian": "persona",
+        "english": "person"
+    },
+    {
+        "number": 489,
+        "italian": "soldi",
+        "english": "money"
+    },
+    {
+        "number": 490,
+        "italian": "servire",
+        "english": "serve"
+    },
+    {
+        "number": 491,
+        "italian": "apparire",
+        "english": "appear"
+    },
+    {
+        "number": 492,
+        "italian": "strada",
+        "english": "road"
+    },
+    {
+        "number": 493,
+        "italian": "mappa",
+        "english": "map"
+    },
+    {
+        "number": 494,
+        "italian": "pioggia",
+        "english": "rain"
+    },
+    {
+        "number": 495,
+        "italian": "regola",
+        "english": "rule"
+    },
+    {
+        "number": 496,
+        "italian": "governare",
+        "english": "govern"
+    },
+    {
+        "number": 497,
+        "italian": "tirare",
+        "english": "pull"
+    },
+    {
+        "number": 498,
+        "italian": "freddo",
+        "english": "cold"
+    },
+    {
+        "number": 499,
+        "italian": "avviso",
+        "english": "notice"
+    },
+    {
+        "number": 500,
+        "italian": "voce",
+        "english": "voice"
+    },
+    {
+        "number": 501,
+        "italian": "energia",
+        "english": "energy"
+    },
+    {
+        "number": 502,
+        "italian": "caccia",
+        "english": "hunt"
+    },
+    {
+        "number": 503,
+        "italian": "probabile",
+        "english": "probable"
+    },
+    {
+        "number": 504,
+        "italian": "letto",
+        "english": "bed"
+    },
+    {
+        "number": 505,
+        "italian": "fratello",
+        "english": "brother"
+    },
+    {
+        "number": 506,
+        "italian": "uovo",
+        "english": "egg"
+    },
+    {
+        "number": 507,
+        "italian": "giro",
+        "english": "ride"
+    },
+    {
+        "number": 508,
+        "italian": "cella",
+        "english": "cell"
+    },
+    {
+        "number": 509,
+        "italian": "credere",
+        "english": "believe"
+    },
+    {
+        "number": 510,
+        "italian": "forse",
+        "english": "perhaps"
+    },
+    {
+        "number": 511,
+        "italian": "scegliere",
+        "english": "pick"
+    },
+    {
+        "number": 512,
+        "italian": "improvviso",
+        "english": "sudden"
+    },
+    {
+        "number": 513,
+        "italian": "contare",
+        "english": "count"
+    },
+    {
+        "number": 514,
+        "italian": "piazza",
+        "english": "square"
+    },
+    {
+        "number": 515,
+        "italian": "motivo",
+        "english": "reason"
+    },
+    {
+        "number": 516,
+        "italian": "lunghezza",
+        "english": "length"
+    },
+    {
+        "number": 517,
+        "italian": "rappresentare",
+        "english": "represent"
+    },
+    {
+        "number": 518,
+        "italian": "arte",
+        "english": "art"
+    },
+    {
+        "number": 519,
+        "italian": "soggetto",
+        "english": "subject"
+    },
+    {
+        "number": 520,
+        "italian": "regione",
+        "english": "region"
+    },
+    {
+        "number": 521,
+        "italian": "dimensione",
+        "english": "size"
+    },
+    {
+        "number": 522,
+        "italian": "variare",
+        "english": "vary"
+    },
+    {
+        "number": 523,
+        "italian": "risolvere",
+        "english": "settle"
+    },
+    {
+        "number": 524,
+        "italian": "parlare",
+        "english": "speak"
+    },
+    {
+        "number": 525,
+        "italian": "peso",
+        "english": "weight"
+    },
+    {
+        "number": 526,
+        "italian": "generale",
+        "english": "general"
+    },
+    {
+        "number": 527,
+        "italian": "ghiaccio",
+        "english": "ice"
+    },
+    {
+        "number": 528,
+        "italian": "materia",
+        "english": "matter"
+    },
+    {
+        "number": 529,
+        "italian": "cerchio",
+        "english": "circle"
+    },
+    {
+        "number": 530,
+        "italian": "coppia",
+        "english": "pair"
+    },
+    {
+        "number": 531,
+        "italian": "includere",
+        "english": "include"
+    },
+    {
+        "number": 532,
+        "italian": "divide",
+        "english": "divide"
+    },
+    {
+        "number": 533,
+        "italian": "sillaba",
+        "english": "syllable"
+    },
+    {
+        "number": 534,
+        "italian": "feltro",
+        "english": "felt"
+    },
+    {
+        "number": 535,
+        "italian": "grande",
+        "english": "grand"
+    },
+    {
+        "number": 536,
+        "italian": "palla",
+        "english": "ball"
+    },
+    {
+        "number": 537,
+        "italian": "ancora",
+        "english": "yet"
+    },
+    {
+        "number": 538,
+        "italian": "onda",
+        "english": "wave"
+    },
+    {
+        "number": 539,
+        "italian": "cadere",
+        "english": "drop"
+    },
+    {
+        "number": 540,
+        "italian": "cuore",
+        "english": "heart"
+    },
+    {
+        "number": 541,
+        "italian": "am",
+        "english": "am"
+    },
+    {
+        "number": 542,
+        "italian": "presente",
+        "english": "present"
+    },
+    {
+        "number": 543,
+        "italian": "pesante",
+        "english": "heavy"
+    },
+    {
+        "number": 544,
+        "italian": "danza",
+        "english": "dance"
+    },
+    {
+        "number": 545,
+        "italian": "motore",
+        "english": "engine"
+    },
+    {
+        "number": 546,
+        "italian": "posizione",
+        "english": "position"
+    },
+    {
+        "number": 547,
+        "italian": "braccio",
+        "english": "arm"
+    },
+    {
+        "number": 548,
+        "italian": "ampio",
+        "english": "wide"
+    },
+    {
+        "number": 549,
+        "italian": "vela",
+        "english": "sail"
+    },
+    {
+        "number": 550,
+        "italian": "materiale",
+        "english": "material"
+    },
+    {
+        "number": 551,
+        "italian": "frazione",
+        "english": "fraction"
+    },
+    {
+        "number": 552,
+        "italian": "foresta",
+        "english": "forest"
+    },
+    {
+        "number": 553,
+        "italian": "sedersi",
+        "english": "sit"
+    },
+    {
+        "number": 554,
+        "italian": "gara",
+        "english": "race"
+    },
+    {
+        "number": 555,
+        "italian": "finestra",
+        "english": "window"
+    },
+    {
+        "number": 556,
+        "italian": "negozio",
+        "english": "store"
+    },
+    {
+        "number": 557,
+        "italian": "estate",
+        "english": "summer"
+    },
+    {
+        "number": 558,
+        "italian": "treno",
+        "english": "train"
+    },
+    {
+        "number": 559,
+        "italian": "sonno",
+        "english": "sleep"
+    },
+    {
+        "number": 560,
+        "italian": "dimostrare",
+        "english": "prove"
+    },
+    {
+        "number": 561,
+        "italian": "solitario",
+        "english": "lone"
+    },
+    {
+        "number": 562,
+        "italian": "gamba",
+        "english": "leg"
+    },
+    {
+        "number": 563,
+        "italian": "esercizio",
+        "english": "exercise"
+    },
+    {
+        "number": 564,
+        "italian": "muro",
+        "english": "wall"
+    },
+    {
+        "number": 565,
+        "italian": "prendere",
+        "english": "catch"
+    },
+    {
+        "number": 566,
+        "italian": "monte",
+        "english": "mount"
+    },
+    {
+        "number": 567,
+        "italian": "desiderio",
+        "english": "wish"
+    },
+    {
+        "number": 568,
+        "italian": "cielo",
+        "english": "sky"
+    },
+    {
+        "number": 569,
+        "italian": "pensione",
+        "english": "board"
+    },
+    {
+        "number": 570,
+        "italian": "gioia",
+        "english": "joy"
+    },
+    {
+        "number": 571,
+        "italian": "inverno",
+        "english": "winter"
+    },
+    {
+        "number": 572,
+        "italian": "sat",
+        "english": "sat"
+    },
+    {
+        "number": 573,
+        "italian": "scritto",
+        "english": "written"
+    },
+    {
+        "number": 574,
+        "italian": "selvaggio",
+        "english": "wild"
+    },
+    {
+        "number": 575,
+        "italian": "strumento",
+        "english": "instrument"
+    },
+    {
+        "number": 576,
+        "italian": "tenere",
+        "english": "kept"
+    },
+    {
+        "number": 577,
+        "italian": "vetro",
+        "english": "glass"
+    },
+    {
+        "number": 578,
+        "italian": "erba",
+        "english": "grass"
+    },
+    {
+        "number": 579,
+        "italian": "mucca",
+        "english": "cow"
+    },
+    {
+        "number": 580,
+        "italian": "lavoro",
+        "english": "job"
+    },
+    {
+        "number": 581,
+        "italian": "bordo",
+        "english": "edge"
+    },
+    {
+        "number": 582,
+        "italian": "segno",
+        "english": "sign"
+    },
+    {
+        "number": 583,
+        "italian": "visita",
+        "english": "visit"
+    },
+    {
+        "number": 584,
+        "italian": "passato",
+        "english": "past"
+    },
+    {
+        "number": 585,
+        "italian": "morbido",
+        "english": "soft"
+    },
+    {
+        "number": 586,
+        "italian": "divertimento",
+        "english": "fun"
+    },
+    {
+        "number": 587,
+        "italian": "luminoso",
+        "english": "bright"
+    },
+    {
+        "number": 588,
+        "italian": "gas",
+        "english": "gas"
+    },
+    {
+        "number": 589,
+        "italian": "tempo",
+        "english": "weather"
+    },
+    {
+        "number": 590,
+        "italian": "mese",
+        "english": "month"
+    },
+    {
+        "number": 591,
+        "italian": "milione",
+        "english": "million"
+    },
+    {
+        "number": 592,
+        "italian": "sopportare",
+        "english": "bear"
+    },
+    {
+        "number": 593,
+        "italian": "finitura",
+        "english": "finish"
+    },
+    {
+        "number": 594,
+        "italian": "felice",
+        "english": "happy"
+    },
+    {
+        "number": 595,
+        "italian": "speranza",
+        "english": "hope"
+    },
+    {
+        "number": 596,
+        "italian": "fiore",
+        "english": "flower"
+    },
+    {
+        "number": 597,
+        "italian": "vestire",
+        "english": "clothe"
+    },
+    {
+        "number": 598,
+        "italian": "strano",
+        "english": "strange"
+    },
+    {
+        "number": 599,
+        "italian": "gone",
+        "english": "gone"
+    },
+    {
+        "number": 600,
+        "italian": "commercio",
+        "english": "trade"
+    },
+    {
+        "number": 601,
+        "italian": "melodia",
+        "english": "melody"
+    },
+    {
+        "number": 602,
+        "italian": "viaggio",
+        "english": "trip"
+    },
+    {
+        "number": 603,
+        "italian": "ufficio",
+        "english": "office"
+    },
+    {
+        "number": 604,
+        "italian": "ricevere",
+        "english": "receive"
+    },
+    {
+        "number": 605,
+        "italian": "fila",
+        "english": "row"
+    },
+    {
+        "number": 606,
+        "italian": "bocca",
+        "english": "mouth"
+    },
+    {
+        "number": 607,
+        "italian": "esatto",
+        "english": "exact"
+    },
+    {
+        "number": 608,
+        "italian": "simbolo",
+        "english": "symbol"
+    },
+    {
+        "number": 609,
+        "italian": "morire",
+        "english": "die"
+    },
+    {
+        "number": 610,
+        "italian": "meno",
+        "english": "least"
+    },
+    {
+        "number": 611,
+        "italian": "difficoltà",
+        "english": "trouble"
+    },
+    {
+        "number": 612,
+        "italian": "shout",
+        "english": "shout"
+    },
+    {
+        "number": 613,
+        "italian": "tranne",
+        "english": "except"
+    },
+    {
+        "number": 614,
+        "italian": "ha scritto",
+        "english": "wrote"
+    },
+    {
+        "number": 615,
+        "italian": "seme",
+        "english": "seed"
+    },
+    {
+        "number": 616,
+        "italian": "tono",
+        "english": "tone"
+    },
+    {
+        "number": 617,
+        "italian": "aderire",
+        "english": "join"
+    },
+    {
+        "number": 618,
+        "italian": "suggerire",
+        "english": "suggest"
+    },
+    {
+        "number": 619,
+        "italian": "pulito",
+        "english": "clean"
+    },
+    {
+        "number": 620,
+        "italian": "pausa",
+        "english": "break"
+    },
+    {
+        "number": 621,
+        "italian": "signora",
+        "english": "lady"
+    },
+    {
+        "number": 622,
+        "italian": "cantiere",
+        "english": "yard"
+    },
+    {
+        "number": 623,
+        "italian": "salire",
+        "english": "rise"
+    },
+    {
+        "number": 624,
+        "italian": "male",
+        "english": "bad"
+    },
+    {
+        "number": 625,
+        "italian": "colpo",
+        "english": "blow"
+    },
+    {
+        "number": 626,
+        "italian": "olio",
+        "english": "oil"
+    },
+    {
+        "number": 627,
+        "italian": "sangue",
+        "english": "blood"
+    },
+    {
+        "number": 628,
+        "italian": "toccare",
+        "english": "touch"
+    },
+    {
+        "number": 629,
+        "italian": "è cresciuto",
+        "english": "grew"
+    },
+    {
+        "number": 630,
+        "italian": "cent",
+        "english": "cent"
+    },
+    {
+        "number": 631,
+        "italian": "mescolare",
+        "english": "mix"
+    },
+    {
+        "number": 632,
+        "italian": "team",
+        "english": "team"
+    },
+    {
+        "number": 633,
+        "italian": "filo",
+        "english": "wire"
+    },
+    {
+        "number": 634,
+        "italian": "costo",
+        "english": "cost"
+    },
+    {
+        "number": 635,
+        "italian": "perso",
+        "english": "lost"
+    },
+    {
+        "number": 636,
+        "italian": "marrone",
+        "english": "brown"
+    },
+    {
+        "number": 637,
+        "italian": "indossare",
+        "english": "wear"
+    },
+    {
+        "number": 638,
+        "italian": "giardino",
+        "english": "garden"
+    },
+    {
+        "number": 639,
+        "italian": "pari",
+        "english": "equal"
+    },
+    {
+        "number": 640,
+        "italian": "inviato",
+        "english": "sent"
+    },
+    {
+        "number": 641,
+        "italian": "scegliere",
+        "english": "choose"
+    },
+    {
+        "number": 642,
+        "italian": "caduto",
+        "english": "fell"
+    },
+    {
+        "number": 643,
+        "italian": "adattarsi",
+        "english": "fit"
+    },
+    {
+        "number": 644,
+        "italian": "flusso",
+        "english": "flow"
+    },
+    {
+        "number": 645,
+        "italian": "fiera",
+        "english": "fair"
+    },
+    {
+        "number": 646,
+        "italian": "banca",
+        "english": "bank"
+    },
+    {
+        "number": 647,
+        "italian": "raccogliere",
+        "english": "collect"
+    },
+    {
+        "number": 648,
+        "italian": "salvare",
+        "english": "save"
+    },
+    {
+        "number": 649,
+        "italian": "controllo",
+        "english": "control"
+    },
+    {
+        "number": 650,
+        "italian": "decimale",
+        "english": "decimal"
+    },
+    {
+        "number": 651,
+        "italian": "orecchio",
+        "english": "ear"
+    },
+    {
+        "number": 652,
+        "italian": "altro",
+        "english": "else"
+    },
+    {
+        "number": 653,
+        "italian": "abbastanza",
+        "english": "quite"
+    },
+    {
+        "number": 654,
+        "italian": "rotto",
+        "english": "broke"
+    },
+    {
+        "number": 655,
+        "italian": "caso",
+        "english": "case"
+    },
+    {
+        "number": 656,
+        "italian": "mezzo",
+        "english": "middle"
+    },
+    {
+        "number": 657,
+        "italian": "uccidere",
+        "english": "kill"
+    },
+    {
+        "number": 658,
+        "italian": "figlio",
+        "english": "son"
+    },
+    {
+        "number": 659,
+        "italian": "lago",
+        "english": "lake"
+    },
+    {
+        "number": 660,
+        "italian": "momento",
+        "english": "moment"
+    },
+    {
+        "number": 661,
+        "italian": "scala",
+        "english": "scale"
+    },
+    {
+        "number": 662,
+        "italian": "forte",
+        "english": "loud"
+    },
+    {
+        "number": 663,
+        "italian": "primavera",
+        "english": "spring"
+    },
+    {
+        "number": 664,
+        "italian": "osservare",
+        "english": "observe"
+    },
+    {
+        "number": 665,
+        "italian": "bambino",
+        "english": "child"
+    },
+    {
+        "number": 666,
+        "italian": "dritto",
+        "english": "straight"
+    },
+    {
+        "number": 667,
+        "italian": "consonante",
+        "english": "consonant"
+    },
+    {
+        "number": 668,
+        "italian": "nazione",
+        "english": "nation"
+    },
+    {
+        "number": 669,
+        "italian": "dizionario",
+        "english": "dictionary"
+    },
+    {
+        "number": 670,
+        "italian": "latte",
+        "english": "milk"
+    },
+    {
+        "number": 671,
+        "italian": "velocità",
+        "english": "speed"
+    },
+    {
+        "number": 672,
+        "italian": "metodo",
+        "english": "method"
+    },
+    {
+        "number": 673,
+        "italian": "organo",
+        "english": "organ"
+    },
+    {
+        "number": 674,
+        "italian": "pagare",
+        "english": "pay"
+    },
+    {
+        "number": 675,
+        "italian": "età",
+        "english": "age"
+    },
+    {
+        "number": 676,
+        "italian": "sezione",
+        "english": "section"
+    },
+    {
+        "number": 677,
+        "italian": "vestito",
+        "english": "dress"
+    },
+    {
+        "number": 678,
+        "italian": "nube",
+        "english": "cloud"
+    },
+    {
+        "number": 679,
+        "italian": "sorpresa",
+        "english": "surprise"
+    },
+    {
+        "number": 680,
+        "italian": "tranquillo",
+        "english": "quiet"
+    },
+    {
+        "number": 681,
+        "italian": "pietra",
+        "english": "stone"
+    },
+    {
+        "number": 682,
+        "italian": "piccolo",
+        "english": "tiny"
+    },
+    {
+        "number": 683,
+        "italian": "salita",
+        "english": "climb"
+    },
+    {
+        "number": 684,
+        "italian": "fresco",
+        "english": "cool"
+    },
+    {
+        "number": 685,
+        "italian": "design",
+        "english": "design"
+    },
+    {
+        "number": 686,
+        "italian": "povero",
+        "english": "poor"
+    },
+    {
+        "number": 687,
+        "italian": "lotto",
+        "english": "lot"
+    },
+    {
+        "number": 688,
+        "italian": "esperimento",
+        "english": "experiment"
+    },
+    {
+        "number": 689,
+        "italian": "fondo",
+        "english": "bottom"
+    },
+    {
+        "number": 690,
+        "italian": "chiave",
+        "english": "key"
+    },
+    {
+        "number": 691,
+        "italian": "ferro",
+        "english": "iron"
+    },
+    {
+        "number": 692,
+        "italian": "singolo",
+        "english": "single"
+    },
+    {
+        "number": 693,
+        "italian": "bastone",
+        "english": "stick"
+    },
+    {
+        "number": 694,
+        "italian": "appartamento",
+        "english": "flat"
+    },
+    {
+        "number": 695,
+        "italian": "venti",
+        "english": "twenty"
+    },
+    {
+        "number": 696,
+        "italian": "pelle",
+        "english": "skin"
+    },
+    {
+        "number": 697,
+        "italian": "sorriso",
+        "english": "smile"
+    },
+    {
+        "number": 698,
+        "italian": "piega",
+        "english": "crease"
+    },
+    {
+        "number": 699,
+        "italian": "foro",
+        "english": "hole"
+    },
+    {
+        "number": 700,
+        "italian": "salto",
+        "english": "jump"
+    },
+    {
+        "number": 701,
+        "italian": "bambino",
+        "english": "baby"
+    },
+    {
+        "number": 702,
+        "italian": "otto",
+        "english": "eight"
+    },
+    {
+        "number": 703,
+        "italian": "villaggio",
+        "english": "village"
+    },
+    {
+        "number": 704,
+        "italian": "si incontrano",
+        "english": "meet"
+    },
+    {
+        "number": 705,
+        "italian": "radice",
+        "english": "root"
+    },
+    {
+        "number": 706,
+        "italian": "acquistare",
+        "english": "buy"
+    },
+    {
+        "number": 707,
+        "italian": "aumentare",
+        "english": "raise"
+    },
+    {
+        "number": 708,
+        "italian": "risolvere",
+        "english": "solve"
+    },
+    {
+        "number": 709,
+        "italian": "metallo",
+        "english": "metal"
+    },
+    {
+        "number": 710,
+        "italian": "se",
+        "english": "whether"
+    },
+    {
+        "number": 711,
+        "italian": "spingere",
+        "english": "push"
+    },
+    {
+        "number": 712,
+        "italian": "sette",
+        "english": "seven"
+    },
+    {
+        "number": 713,
+        "italian": "paragrafo",
+        "english": "paragraph"
+    },
+    {
+        "number": 714,
+        "italian": "terzo",
+        "english": "third"
+    },
+    {
+        "number": 715,
+        "italian": "deve",
+        "english": "shall"
+    },
+    {
+        "number": 716,
+        "italian": "tenuto",
+        "english": "held"
+    },
+    {
+        "number": 717,
+        "italian": "capelli",
+        "english": "hair"
+    },
+    {
+        "number": 718,
+        "italian": "descrivere",
+        "english": "describe"
+    },
+    {
+        "number": 719,
+        "italian": "cuoco",
+        "english": "cook"
+    },
+    {
+        "number": 720,
+        "italian": "piano",
+        "english": "floor"
+    },
+    {
+        "number": 721,
+        "italian": "o",
+        "english": "either"
+    },
+    {
+        "number": 722,
+        "italian": "risultato",
+        "english": "result"
+    },
+    {
+        "number": 723,
+        "italian": "bruciare",
+        "english": "burn"
+    },
+    {
+        "number": 724,
+        "italian": "collina",
+        "english": "hill"
+    },
+    {
+        "number": 725,
+        "italian": "sicuro",
+        "english": "safe"
+    },
+    {
+        "number": 726,
+        "italian": "gatto",
+        "english": "cat"
+    },
+    {
+        "number": 727,
+        "italian": "secolo",
+        "english": "century"
+    },
+    {
+        "number": 728,
+        "italian": "considerare",
+        "english": "consider"
+    },
+    {
+        "number": 729,
+        "italian": "tipo",
+        "english": "type"
+    },
+    {
+        "number": 730,
+        "italian": "legge",
+        "english": "law"
+    },
+    {
+        "number": 731,
+        "italian": "bit",
+        "english": "bit"
+    },
+    {
+        "number": 732,
+        "italian": "costa",
+        "english": "coast"
+    },
+    {
+        "number": 733,
+        "italian": "copia",
+        "english": "copy"
+    },
+    {
+        "number": 734,
+        "italian": "frase",
+        "english": "phrase"
+    },
+    {
+        "number": 735,
+        "italian": "silenzioso",
+        "english": "silent"
+    },
+    {
+        "number": 736,
+        "italian": "alto",
+        "english": "tall"
+    },
+    {
+        "number": 737,
+        "italian": "sabbia",
+        "english": "sand"
+    },
+    {
+        "number": 738,
+        "italian": "suolo",
+        "english": "soil"
+    },
+    {
+        "number": 739,
+        "italian": "rotolo",
+        "english": "roll"
+    },
+    {
+        "number": 740,
+        "italian": "temperatura",
+        "english": "temperature"
+    },
+    {
+        "number": 741,
+        "italian": "dito",
+        "english": "finger"
+    },
+    {
+        "number": 742,
+        "italian": "industria",
+        "english": "industry"
+    },
+    {
+        "number": 743,
+        "italian": "valore",
+        "english": "value"
+    },
+    {
+        "number": 744,
+        "italian": "lotta",
+        "english": "fight"
+    },
+    {
+        "number": 745,
+        "italian": "bugia",
+        "english": "lie"
+    },
+    {
+        "number": 746,
+        "italian": "battere",
+        "english": "beat"
+    },
+    {
+        "number": 747,
+        "italian": "eccitare",
+        "english": "excite"
+    },
+    {
+        "number": 748,
+        "italian": "naturale",
+        "english": "natural"
+    },
+    {
+        "number": 749,
+        "italian": "vista",
+        "english": "view"
+    },
+    {
+        "number": 750,
+        "italian": "senso",
+        "english": "sense"
+    },
+    {
+        "number": 751,
+        "italian": "capitale",
+        "english": "capital"
+    },
+    {
+        "number": 752,
+        "italian": "non sarà",
+        "english": "won’t"
+    },
+    {
+        "number": 753,
+        "italian": "sedia",
+        "english": "chair"
+    },
+    {
+        "number": 754,
+        "italian": "pericolo",
+        "english": "danger"
+    },
+    {
+        "number": 755,
+        "italian": "frutta",
+        "english": "fruit"
+    },
+    {
+        "number": 756,
+        "italian": "ricco",
+        "english": "rich"
+    },
+    {
+        "number": 757,
+        "italian": "spesso",
+        "english": "thick"
+    },
+    {
+        "number": 758,
+        "italian": "soldato",
+        "english": "soldier"
+    },
+    {
+        "number": 759,
+        "italian": "processo",
+        "english": "process"
+    },
+    {
+        "number": 760,
+        "italian": "operare",
+        "english": "operate"
+    },
+    {
+        "number": 761,
+        "italian": "pratica",
+        "english": "practice"
+    },
+    {
+        "number": 762,
+        "italian": "separato",
+        "english": "separate"
+    },
+    {
+        "number": 763,
+        "italian": "difficile",
+        "english": "difficult"
+    },
+    {
+        "number": 764,
+        "italian": "medico",
+        "english": "doctor"
+    },
+    {
+        "number": 765,
+        "italian": "per favore",
+        "english": "please"
+    },
+    {
+        "number": 766,
+        "italian": "proteggere",
+        "english": "protect"
+    },
+    {
+        "number": 767,
+        "italian": "mezzogiorno",
+        "english": "noon"
+    },
+    {
+        "number": 768,
+        "italian": "raccolto",
+        "english": "crop"
+    },
+    {
+        "number": 769,
+        "italian": "moderno",
+        "english": "modern"
+    },
+    {
+        "number": 770,
+        "italian": "elemento",
+        "english": "element"
+    },
+    {
+        "number": 771,
+        "italian": "colpire",
+        "english": "hit"
+    },
+    {
+        "number": 772,
+        "italian": "studente",
+        "english": "student"
+    },
+    {
+        "number": 773,
+        "italian": "angolo",
+        "english": "corner"
+    },
+    {
+        "number": 774,
+        "italian": "partito",
+        "english": "party"
+    },
+    {
+        "number": 775,
+        "italian": "fornitura",
+        "english": "supply"
+    },
+    {
+        "number": 776,
+        "italian": "la cui",
+        "english": "whose"
+    },
+    {
+        "number": 777,
+        "italian": "individuare",
+        "english": "locate"
+    },
+    {
+        "number": 778,
+        "italian": "anello",
+        "english": "ring"
+    },
+    {
+        "number": 779,
+        "italian": "carattere",
+        "english": "character"
+    },
+    {
+        "number": 780,
+        "italian": "insetto",
+        "english": "insect"
+    },
+    {
+        "number": 781,
+        "italian": "catturato",
+        "english": "caught"
+    },
+    {
+        "number": 782,
+        "italian": "periodo",
+        "english": "period"
+    },
+    {
+        "number": 783,
+        "italian": "indicare",
+        "english": "indicate"
+    },
+    {
+        "number": 784,
+        "italian": "radio",
+        "english": "radio"
+    },
+    {
+        "number": 785,
+        "italian": "raggio",
+        "english": "spoke"
+    },
+    {
+        "number": 786,
+        "italian": "atomo",
+        "english": "atom"
+    },
+    {
+        "number": 787,
+        "italian": "umano",
+        "english": "human"
+    },
+    {
+        "number": 788,
+        "italian": "storia",
+        "english": "history"
+    },
+    {
+        "number": 789,
+        "italian": "effetto",
+        "english": "effect"
+    },
+    {
+        "number": 790,
+        "italian": "elettrico",
+        "english": "electric"
+    },
+    {
+        "number": 791,
+        "italian": "aspettare",
+        "english": "expect"
+    },
+    {
+        "number": 792,
+        "italian": "osso",
+        "english": "bone"
+    },
+    {
+        "number": 793,
+        "italian": "ferrovia",
+        "english": "rail"
+    },
+    {
+        "number": 794,
+        "italian": "immaginare",
+        "english": "imagine"
+    },
+    {
+        "number": 795,
+        "italian": "fornire",
+        "english": "provide"
+    },
+    {
+        "number": 796,
+        "italian": "concordare",
+        "english": "agree"
+    },
+    {
+        "number": 797,
+        "italian": "così",
+        "english": "thus"
+    },
+    {
+        "number": 798,
+        "italian": "dolce",
+        "english": "gentle"
+    },
+    {
+        "number": 799,
+        "italian": "donna",
+        "english": "woman"
+    },
+    {
+        "number": 800,
+        "italian": "capitano",
+        "english": "captain"
+    },
+    {
+        "number": 801,
+        "italian": "indovinare",
+        "english": "guess"
+    },
+    {
+        "number": 802,
+        "italian": "necessario",
+        "english": "necessary"
+    },
+    {
+        "number": 803,
+        "italian": "tagliente",
+        "english": "sharp"
+    },
+    {
+        "number": 804,
+        "italian": "ala",
+        "english": "wing"
+    },
+    {
+        "number": 805,
+        "italian": "creare",
+        "english": "create"
+    },
+    {
+        "number": 806,
+        "italian": "prossimo",
+        "english": "neighbor"
+    },
+    {
+        "number": 807,
+        "italian": "lavaggio",
+        "english": "wash"
+    },
+    {
+        "number": 808,
+        "italian": "pipistrello",
+        "english": "bat"
+    },
+    {
+        "number": 809,
+        "italian": "piuttosto",
+        "english": "rather"
+    },
+    {
+        "number": 810,
+        "italian": "folla",
+        "english": "crowd"
+    },
+    {
+        "number": 811,
+        "italian": "mais",
+        "english": "corn"
+    },
+    {
+        "number": 812,
+        "italian": "confrontare",
+        "english": "compare"
+    },
+    {
+        "number": 813,
+        "italian": "poesia",
+        "english": "poem"
+    },
+    {
+        "number": 814,
+        "italian": "stringa",
+        "english": "string"
+    },
+    {
+        "number": 815,
+        "italian": "campana",
+        "english": "bell"
+    },
+    {
+        "number": 816,
+        "italian": "dipendere",
+        "english": "depend"
+    },
+    {
+        "number": 817,
+        "italian": "carne",
+        "english": "meat"
+    },
+    {
+        "number": 818,
+        "italian": "strofinare",
+        "english": "rub"
+    },
+    {
+        "number": 819,
+        "italian": "tubo",
+        "english": "tube"
+    },
+    {
+        "number": 820,
+        "italian": "famoso",
+        "english": "famous"
+    },
+    {
+        "number": 921,
+        "italian": "dollaro",
+        "english": "dollar"
+    },
+    {
+        "number": 822,
+        "italian": "ruscello",
+        "english": "stream"
+    },
+    {
+        "number": 823,
+        "italian": "paura",
+        "english": "fear"
+    },
+    {
+        "number": 284,
+        "italian": "vista",
+        "english": "sight"
+    },
+    {
+        "number": 825,
+        "italian": "sottile",
+        "english": "thin"
+    },
+    {
+        "number": 826,
+        "italian": "triangolo",
+        "english": "triangle"
+    },
+    {
+        "number": 827,
+        "italian": "pianeta",
+        "english": "planet"
+    },
+    {
+        "number": 828,
+        "italian": "fretta",
+        "english": "hurry"
+    },
+    {
+        "number": 829,
+        "italian": "capo",
+        "english": "chief"
+    },
+    {
+        "number": 830,
+        "italian": "colonia",
+        "english": "colony"
+    },
+    {
+        "number": 831,
+        "italian": "orologio",
+        "english": "clock"
+    },
+    {
+        "number": 832,
+        "italian": "miniera",
+        "english": "mine"
+    },
+    {
+        "number": 833,
+        "italian": "cravatta",
+        "english": "tie"
+    },
+    {
+        "number": 834,
+        "italian": "inserire",
+        "english": "enter"
+    },
+    {
+        "number": 835,
+        "italian": "maggiore",
+        "english": "major"
+    },
+    {
+        "number": 836,
+        "italian": "fresco",
+        "english": "fresh"
+    },
+    {
+        "number": 837,
+        "italian": "ricerca",
+        "english": "search"
+    },
+    {
+        "number": 838,
+        "italian": "inviare",
+        "english": "send"
+    },
+    {
+        "number": 839,
+        "italian": "giallo",
+        "english": "yellow"
+    },
+    {
+        "number": 840,
+        "italian": "pistola",
+        "english": "gun"
+    },
+    {
+        "number": 841,
+        "italian": "consentire",
+        "english": "allow"
+    },
+    {
+        "number": 842,
+        "italian": "stampa",
+        "english": "print"
+    },
+    {
+        "number": 843,
+        "italian": "morto",
+        "english": "dead"
+    },
+    {
+        "number": 844,
+        "italian": "spot",
+        "english": "spot"
+    },
+    {
+        "number": 845,
+        "italian": "deserto",
+        "english": "desert"
+    },
+    {
+        "number": 846,
+        "italian": "tuta",
+        "english": "suit"
+    },
+    {
+        "number": 847,
+        "italian": "corrente",
+        "english": "current"
+    },
+    {
+        "number": 848,
+        "italian": "ascensore",
+        "english": "lift"
+    },
+    {
+        "number": 840,
+        "italian": "rosa",
+        "english": "rose"
+    },
+    {
+        "number": 850,
+        "italian": "arrivare",
+        "english": "arrive"
+    },
+    {
+        "number": 851,
+        "italian": "master",
+        "english": "master"
+    },
+    {
+        "number": 852,
+        "italian": "pista",
+        "english": "track"
+    },
+    {
+        "number": 853,
+        "italian": "genitore",
+        "english": "parent"
+    },
+    {
+        "number": 854,
+        "italian": "riva",
+        "english": "shore"
+    },
+    {
+        "number": 855,
+        "italian": "divisione",
+        "english": "division"
+    },
+    {
+        "number": 856,
+        "italian": "foglio",
+        "english": "sheet"
+    },
+    {
+        "number": 857,
+        "italian": "sostanza",
+        "english": "substance"
+    },
+    {
+        "number": 858,
+        "italian": "favorire",
+        "english": "favor"
+    },
+    {
+        "number": 859,
+        "italian": "collegare",
+        "english": "connect"
+    },
+    {
+        "number": 860,
+        "italian": "Messaggio",
+        "english": "post"
+    },
+    {
+        "number": 861,
+        "italian": "spendere",
+        "english": "spend"
+    },
+    {
+        "number": 862,
+        "italian": "accordo",
+        "english": "chord"
+    },
+    {
+        "number": 863,
+        "italian": "grasso",
+        "english": "fat"
+    },
+    {
+        "number": 864,
+        "italian": "felice",
+        "english": "glad"
+    },
+    {
+        "number": 865,
+        "italian": "originale",
+        "english": "original"
+    },
+    {
+        "number": 866,
+        "italian": "quota",
+        "english": "share"
+    },
+    {
+        "number": 867,
+        "italian": "stazione",
+        "english": "station"
+    },
+    {
+        "number": 868,
+        "italian": "papà",
+        "english": "dad"
+    },
+    {
+        "number": 869,
+        "italian": "pane",
+        "english": "bread"
+    },
+    {
+        "number": 870,
+        "italian": "carica",
+        "english": "charge"
+    },
+    {
+        "number": 871,
+        "italian": "corretto",
+        "english": "proper"
+    },
+    {
+        "number": 872,
+        "italian": "bar",
+        "english": "bar"
+    },
+    {
+        "number": 873,
+        "italian": "offerta",
+        "english": "offer"
+    },
+    {
+        "number": 874,
+        "italian": "segmento",
+        "english": "segment"
+    },
+    {
+        "number": 875,
+        "italian": "schiavo",
+        "english": "slave"
+    },
+    {
+        "number": 876,
+        "italian": "anatra",
+        "english": "duck"
+    },
+    {
+        "number": 877,
+        "italian": "immediato",
+        "english": "instant"
+    },
+    {
+        "number": 878,
+        "italian": "mercato",
+        "english": "market"
+    },
+    {
+        "number": 879,
+        "italian": "grado",
+        "english": "degree"
+    },
+    {
+        "number": 880,
+        "italian": "popolare",
+        "english": "populate"
+    },
+    {
+        "number": 881,
+        "italian": "pulcino",
+        "english": "chick"
+    },
+    {
+        "number": 882,
+        "italian": "caro",
+        "english": "dear"
+    },
+    {
+        "number": 883,
+        "italian": "nemico",
+        "english": "enemy"
+    },
+    {
+        "number": 884,
+        "italian": "rispondere",
+        "english": "reply"
+    },
+    {
+        "number": 885,
+        "italian": "bevanda",
+        "english": "drink"
+    },
+    {
+        "number": 886,
+        "italian": "verificarsi",
+        "english": "occur"
+    },
+    {
+        "number": 887,
+        "italian": "supporto",
+        "english": "support"
+    },
+    {
+        "number": 888,
+        "italian": "discorso",
+        "english": "speech"
+    },
+    {
+        "number": 889,
+        "italian": "natura",
+        "english": "nature"
+    },
+    {
+        "number": 890,
+        "italian": "gamma",
+        "english": "range"
+    },
+    {
+        "number": 891,
+        "italian": "vapore",
+        "english": "steam"
+    },
+    {
+        "number": 892,
+        "italian": "moto",
+        "english": "motion"
+    },
+    {
+        "number": 893,
+        "italian": "sentiero",
+        "english": "path"
+    },
+    {
+        "number": 894,
+        "italian": "liquido",
+        "english": "liquid"
+    },
+    {
+        "number": 895,
+        "italian": "log",
+        "english": "log"
+    },
+    {
+        "number": 896,
+        "italian": "significava",
+        "english": "meant"
+    },
+    {
+        "number": 897,
+        "italian": "quoziente",
+        "english": "quotient"
+    },
+    {
+        "number": 898,
+        "italian": "denti",
+        "english": "teeth"
+    },
+    {
+        "number": 899,
+        "italian": "guscio",
+        "english": "shell"
+    },
+    {
+        "number": 900,
+        "italian": "collo",
+        "english": "neck"
+    },
+    {
+        "number": 901,
+        "italian": "ossigeno",
+        "english": "oxygen"
+    },
+    {
+        "number": 902,
+        "italian": "zucchero",
+        "english": "sugar"
+    },
+    {
+        "number": 903,
+        "italian": "morte",
+        "english": "death"
+    },
+    {
+        "number": 904,
+        "italian": "piuttosto",
+        "english": "pretty"
+    },
+    {
+        "number": 905,
+        "italian": "abilità",
+        "english": "skill"
+    },
+    {
+        "number": 906,
+        "italian": "donne",
+        "english": "women"
+    },
+    {
+        "number": 907,
+        "italian": "stagione",
+        "english": "season"
+    },
+    {
+        "number": 908,
+        "italian": "soluzione",
+        "english": "solution"
+    },
+    {
+        "number": 909,
+        "italian": "magnete",
+        "english": "magnet"
+    },
+    {
+        "number": 910,
+        "italian": "argento",
+        "english": "silver"
+    },
+    {
+        "number": 911,
+        "italian": "grazie",
+        "english": "thank"
+    },
+    {
+        "number": 912,
+        "italian": "ramo",
+        "english": "branch"
+    },
+    {
+        "number": 913,
+        "italian": "partita",
+        "english": "match"
+    },
+    {
+        "number": 914,
+        "italian": "suffisso",
+        "english": "suffix"
+    },
+    {
+        "number": 915,
+        "italian": "particolarmente",
+        "english": "especially"
+    },
+    {
+        "number": 916,
+        "italian": "fico",
+        "english": "fig"
+    },
+    {
+        "number": 917,
+        "italian": "impaurito",
+        "english": "afraid"
+    },
+    {
+        "number": 918,
+        "italian": "enorme",
+        "english": "huge"
+    },
+    {
+        "number": 919,
+        "italian": "sorella",
+        "english": "sister"
+    },
+    {
+        "number": 920,
+        "italian": "acciaio",
+        "english": "steel"
+    },
+    {
+        "number": 921,
+        "italian": "discutere",
+        "english": "discuss"
+    },
+    {
+        "number": 922,
+        "italian": "avanti",
+        "english": "forward"
+    },
+    {
+        "number": 923,
+        "italian": "simile",
+        "english": "similar"
+    },
+    {
+        "number": 924,
+        "italian": "guidare",
+        "english": "guide"
+    },
+    {
+        "number": 925,
+        "italian": "esperienza",
+        "english": "experience"
+    },
+    {
+        "number": 926,
+        "italian": "punteggio",
+        "english": "score"
+    },
+    {
+        "number": 927,
+        "italian": "mela",
+        "english": "apple"
+    },
+    {
+        "number": 928,
+        "italian": "comprato",
+        "english": "bought"
+    },
+    {
+        "number": 929,
+        "italian": "portato",
+        "english": "led"
+    },
+    {
+        "number": 930,
+        "italian": "pece",
+        "english": "pitch"
+    },
+    {
+        "number": 931,
+        "italian": "cappotto",
+        "english": "coat"
+    },
+    {
+        "number": 932,
+        "italian": "massa",
+        "english": "mass"
+    },
+    {
+        "number": 933,
+        "italian": "scheda",
+        "english": "card"
+    },
+    {
+        "number": 934,
+        "italian": "banda",
+        "english": "band"
+    },
+    {
+        "number": 935,
+        "italian": "corda",
+        "english": "rope"
+    },
+    {
+        "number": 936,
+        "italian": "slittamento",
+        "english": "slip"
+    },
+    {
+        "number": 937,
+        "italian": "vittoria",
+        "english": "win"
+    },
+    {
+        "number": 938,
+        "italian": "sognare",
+        "english": "dream"
+    },
+    {
+        "number": 939,
+        "italian": "sera",
+        "english": "evening"
+    },
+    {
+        "number": 940,
+        "italian": "condizione",
+        "english": "condition"
+    },
+    {
+        "number": 941,
+        "italian": "alimentazione",
+        "english": "feed"
+    },
+    {
+        "number": 942,
+        "italian": "strumento",
+        "english": "tool"
+    },
+    {
+        "number": 943,
+        "italian": "totale",
+        "english": "total"
+    },
+    {
+        "number": 944,
+        "italian": "di base",
+        "english": "basic"
+    },
+    {
+        "number": 945,
+        "italian": "odore",
+        "english": "smell"
+    },
+    {
+        "number": 946,
+        "italian": "valle",
+        "english": "valley"
+    },
+    {
+        "number": 947,
+        "italian": "né",
+        "english": "nor"
+    },
+    {
+        "number": 948,
+        "italian": "doppio",
+        "english": "double"
+    },
+    {
+        "number": 949,
+        "italian": "sedile",
+        "english": "seat"
+    },
+    {
+        "number": 950,
+        "italian": "continuare",
+        "english": "continue"
+    },
+    {
+        "number": 951,
+        "italian": "blocco",
+        "english": "block"
+    },
+    {
+        "number": 952,
+        "italian": "grafico",
+        "english": "chart"
+    },
+    {
+        "number": 953,
+        "italian": "cappello",
+        "english": "hat"
+    },
+    {
+        "number": 954,
+        "italian": "vendere",
+        "english": "sell"
+    },
+    {
+        "number": 955,
+        "italian": "successo",
+        "english": "success"
+    },
+    {
+        "number": 956,
+        "italian": "azienda",
+        "english": "company"
+    },
+    {
+        "number": 957,
+        "italian": "sottrarre",
+        "english": "subtract"
+    },
+    {
+        "number": 958,
+        "italian": "evento",
+        "english": "event"
+    },
+    {
+        "number": 959,
+        "italian": "particolare",
+        "english": "particular"
+    },
+    {
+        "number": 960,
+        "italian": "affare",
+        "english": "deal"
+    },
+    {
+        "number": 961,
+        "italian": "nuoto",
+        "english": "swim"
+    },
+    {
+        "number": 962,
+        "italian": "termine",
+        "english": "term"
+    },
+    {
+        "number": 963,
+        "italian": "opposto",
+        "english": "opposite"
+    },
+    {
+        "number": 964,
+        "italian": "moglie",
+        "english": "wife"
+    },
+    {
+        "number": 965,
+        "italian": "scarpa",
+        "english": "shoe"
+    },
+    {
+        "number": 966,
+        "italian": "spalla",
+        "english": "shoulder"
+    },
+    {
+        "number": 967,
+        "italian": "spread",
+        "english": "spread"
+    },
+    {
+        "number": 968,
+        "italian": "organizzare",
+        "english": "arrange"
+    },
+    {
+        "number": 969,
+        "italian": "campo",
+        "english": "camp"
+    },
+    {
+        "number": 970,
+        "italian": "inventare",
+        "english": "invent"
+    },
+    {
+        "number": 971,
+        "italian": "cotone",
+        "english": "cotton"
+    },
+    {
+        "number": 972,
+        "italian": "nascita",
+        "english": "born"
+    },
+    {
+        "number": 973,
+        "italian": "determinare",
+        "english": "determine"
+    },
+    {
+        "number": 974,
+        "italian": "quarto di gallone",
+        "english": "quart"
+    },
+    {
+        "number": 975,
+        "italian": "nove",
+        "english": "nine"
+    },
+    {
+        "number": 976,
+        "italian": "camion",
+        "english": "truck"
+    },
+    {
+        "number": 977,
+        "italian": "rumore",
+        "english": "noise"
+    },
+    {
+        "number": 978,
+        "italian": "livello",
+        "english": "level"
+    },
+    {
+        "number": 979,
+        "italian": "possibilità",
+        "english": "chance"
+    },
+    {
+        "number": 980,
+        "italian": "raccogliere",
+        "english": "gather"
+    },
+    {
+        "number": 981,
+        "italian": "negozio",
+        "english": "shop"
+    },
+    {
+        "number": 982,
+        "italian": "tratto",
+        "english": "stretch"
+    },
+    {
+        "number": 983,
+        "italian": "gettare",
+        "english": "throw"
+    },
+    {
+        "number": 984,
+        "italian": "shine",
+        "english": "shine"
+    },
+    {
+        "number": 985,
+        "italian": "proprietà",
+        "english": "property"
+    },
+    {
+        "number": 986,
+        "italian": "colonna",
+        "english": "column"
+    },
+    {
+        "number": 987,
+        "italian": "molecola",
+        "english": "molecule"
+    },
+    {
+        "number": 988,
+        "italian": "selezionare",
+        "english": "select"
+    },
+    {
+        "number": 989,
+        "italian": "sbagliato",
+        "english": "wrong"
+    },
+    {
+        "number": 990,
+        "italian": "grigio",
+        "english": "gray"
+    },
+    {
+        "number": 991,
+        "italian": "ripetizione",
+        "english": "repeat"
+    },
+    {
+        "number": 992,
+        "italian": "richiedere",
+        "english": "require"
+    },
+    {
+        "number": 993,
+        "italian": "ampio",
+        "english": "broad"
+    },
+    {
+        "number": 994,
+        "italian": "preparare",
+        "english": "prepare"
+    },
+    {
+        "number": 995,
+        "italian": "sale",
+        "english": "salt"
+    },
+    {
+        "number": 996,
+        "italian": "naso",
+        "english": "nose"
+    },
+    {
+        "number": 997,
+        "italian": "plurale",
+        "english": "plural"
+    },
+    {
+        "number": 998,
+        "italian": "rabbia",
+        "english": "anger"
+    },
+    {
+        "number": 999,
+        "italian": "richiesta",
+        "english": "claim"
+    },
+    {
+        "number": 1000,
+        "italian": "continente",
+        "english": "continent"
+    }
+]

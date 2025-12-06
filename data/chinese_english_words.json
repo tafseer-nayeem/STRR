@@ -1,0 +1,5002 @@
+[
+    {
+        "number": 1,
+        "chinese": "一",
+        "english": "A"
+    },
+    {
+        "number": 2,
+        "chinese": "人",
+        "english": "People"
+    },
+    {
+        "number": 3,
+        "chinese": "里",
+        "english": "In"
+    },
+    {
+        "number": 4,
+        "chinese": "会",
+        "english": "Can"
+    },
+    {
+        "number": 5,
+        "chinese": "没",
+        "english": "Not"
+    },
+    {
+        "number": 6,
+        "chinese": "她",
+        "english": "She"
+    },
+    {
+        "number": 7,
+        "chinese": "吗",
+        "english": "Do"
+    },
+    {
+        "number": 8,
+        "chinese": "去",
+        "english": "Go"
+    },
+    {
+        "number": 9,
+        "chinese": "也",
+        "english": "Also"
+    },
+    {
+        "number": 10,
+        "chinese": "有",
+        "english": "Have"
+    },
+    {
+        "number": 11,
+        "chinese": "这",
+        "english": "This"
+    },
+    {
+        "number": 12,
+        "chinese": "那",
+        "english": "That"
+    },
+    {
+        "number": 13,
+        "chinese": "不",
+        "english": "Not"
+    },
+    {
+        "number": 14,
+        "chinese": "什",
+        "english": "Even"
+    },
+    {
+        "number": 15,
+        "chinese": "个",
+        "english": "A"
+    },
+    {
+        "number": 16,
+        "chinese": "来",
+        "english": "Come"
+    },
+    {
+        "number": 17,
+        "chinese": "要",
+        "english": "Wish"
+    },
+    {
+        "number": 18,
+        "chinese": "就",
+        "english": "On"
+    },
+    {
+        "number": 19,
+        "chinese": "我",
+        "english": "I"
+    },
+    {
+        "number": 20,
+        "chinese": "你",
+        "english": "You"
+    },
+    {
+        "number": 21,
+        "chinese": "的",
+        "english": "Of"
+    },
+    {
+        "number": 22,
+        "chinese": "是",
+        "english": "Be"
+    },
+    {
+        "number": 23,
+        "chinese": "了",
+        "english": "The"
+    },
+    {
+        "number": 24,
+        "chinese": "他",
+        "english": "He"
+    },
+    {
+        "number": 25,
+        "chinese": "么",
+        "english": "What"
+    },
+    {
+        "number": 26,
+        "chinese": "们",
+        "english": "They"
+    },
+    {
+        "number": 27,
+        "chinese": "在",
+        "english": "In"
+    },
+    {
+        "number": 28,
+        "chinese": "说",
+        "english": "Say"
+    },
+    {
+        "number": 29,
+        "chinese": "为",
+        "english": "For"
+    },
+    {
+        "number": 30,
+        "chinese": "好",
+        "english": "Good"
+    },
+    {
+        "number": 31,
+        "chinese": "吧",
+        "english": "It"
+    },
+    {
+        "number": 32,
+        "chinese": "知道",
+        "english": "Know"
+    },
+    {
+        "number": 33,
+        "chinese": "我的",
+        "english": "My"
+    },
+    {
+        "number": 34,
+        "chinese": "和",
+        "english": "And"
+    },
+    {
+        "number": 35,
+        "chinese": "你的",
+        "english": "Your"
+    },
+    {
+        "number": 36,
+        "chinese": "想",
+        "english": "Want"
+    },
+    {
+        "number": 37,
+        "chinese": "只",
+        "english": "Only"
+    },
+    {
+        "number": 38,
+        "chinese": "很",
+        "english": "Very"
+    },
+    {
+        "number": 39,
+        "chinese": "都",
+        "english": "Both"
+    },
+    {
+        "number": 40,
+        "chinese": "对",
+        "english": "To"
+    },
+    {
+        "number": 41,
+        "chinese": "把",
+        "english": "To"
+    },
+    {
+        "number": 42,
+        "chinese": "啊",
+        "english": "Ah"
+    },
+    {
+        "number": 43,
+        "chinese": "怎",
+        "english": "How"
+    },
+    {
+        "number": 44,
+        "chinese": "得",
+        "english": "Get"
+    },
+    {
+        "number": 45,
+        "chinese": "还",
+        "english": "Also"
+    },
+    {
+        "number": 46,
+        "chinese": "过",
+        "english": "Cross"
+    },
+    {
+        "number": 47,
+        "chinese": "不是",
+        "english": "No"
+    },
+    {
+        "number": 48,
+        "chinese": "到",
+        "english": "To"
+    },
+    {
+        "number": 49,
+        "chinese": "样",
+        "english": "Sample"
+    },
+    {
+        "number": 50,
+        "chinese": "飞",
+        "english": "Fly"
+    },
+    {
+        "number": 51,
+        "chinese": "远",
+        "english": "Far"
+    },
+    {
+        "number": 52,
+        "chinese": "身",
+        "english": "Body"
+    },
+    {
+        "number": 53,
+        "chinese": "任何",
+        "english": "Any"
+    },
+    {
+        "number": 54,
+        "chinese": "生活",
+        "english": "Life"
+    },
+    {
+        "number": 55,
+        "chinese": "够",
+        "english": "Enough"
+    },
+    {
+        "number": 56,
+        "chinese": "号",
+        "english": "Number"
+    },
+    {
+        "number": 57,
+        "chinese": "兰",
+        "english": "Orchid"
+    },
+    {
+        "number": 58,
+        "chinese": "瑞",
+        "english": "Swiss"
+    },
+    {
+        "number": 59,
+        "chinese": "达",
+        "english": "Reach"
+    },
+    {
+        "number": 60,
+        "chinese": "或",
+        "english": "Or"
+    },
+    {
+        "number": 61,
+        "chinese": "愿",
+        "english": "Willing"
+    },
+    {
+        "number": 62,
+        "chinese": "蒂",
+        "english": "Stem"
+    },
+    {
+        "number": 63,
+        "chinese": "別",
+        "english": "Do not"
+    },
+    {
+        "number": 64,
+        "chinese": "军",
+        "english": "Military"
+    },
+    {
+        "number": 65,
+        "chinese": "正",
+        "english": "Positive"
+    },
+    {
+        "number": 66,
+        "chinese": "是不是",
+        "english": "Is not"
+    },
+    {
+        "number": 67,
+        "chinese": "证",
+        "english": "Certificate"
+    },
+    {
+        "number": 68,
+        "chinese": "不用",
+        "english": "Need not"
+    },
+    {
+        "number": 69,
+        "chinese": "三",
+        "english": "Three"
+    },
+    {
+        "number": 70,
+        "chinese": "乐",
+        "english": "Music"
+    },
+    {
+        "number": 71,
+        "chinese": "吉",
+        "english": "Lucky"
+    },
+    {
+        "number": 72,
+        "chinese": "男人",
+        "english": "Man"
+    },
+    {
+        "number": 73,
+        "chinese": "告訴",
+        "english": "Tell"
+    },
+    {
+        "number": 74,
+        "chinese": "路",
+        "english": "Road"
+    },
+    {
+        "number": 75,
+        "chinese": "搞",
+        "english": "Do"
+    },
+    {
+        "number": 76,
+        "chinese": "可是",
+        "english": "But"
+    },
+    {
+        "number": 77,
+        "chinese": "与",
+        "english": "And"
+    },
+    {
+        "number": 78,
+        "chinese": "次",
+        "english": "Secondary"
+    },
+    {
+        "number": 79,
+        "chinese": "狗",
+        "english": "Dog"
+    },
+    {
+        "number": 80,
+        "chinese": "决",
+        "english": "Decide"
+    },
+    {
+        "number": 81,
+        "chinese": "金",
+        "english": "Gold"
+    },
+    {
+        "number": 82,
+        "chinese": "史",
+        "english": "History"
+    },
+    {
+        "number": 83,
+        "chinese": "姆",
+        "english": "Governess"
+    },
+    {
+        "number": 84,
+        "chinese": "部",
+        "english": "Department"
+    },
+    {
+        "number": 85,
+        "chinese": "正在",
+        "english": "Are"
+    },
+    {
+        "number": 86,
+        "chinese": "活",
+        "english": "Live"
+    },
+    {
+        "number": 87,
+        "chinese": "刚",
+        "english": "Just"
+    },
+    {
+        "number": 88,
+        "chinese": "回家",
+        "english": "Return home"
+    },
+    {
+        "number": 89,
+        "chinese": "贝",
+        "english": "Shellfish"
+    },
+    {
+        "number": 90,
+        "chinese": "如何",
+        "english": "How"
+    },
+    {
+        "number": 91,
+        "chinese": "须",
+        "english": "Must"
+    },
+    {
+        "number": 92,
+        "chinese": "战",
+        "english": "War"
+    },
+    {
+        "number": 93,
+        "chinese": "不會",
+        "english": "Will not"
+    },
+    {
+        "number": 94,
+        "chinese": "夫",
+        "english": "Husband"
+    },
+    {
+        "number": 95,
+        "chinese": "喂",
+        "english": "Feed"
+    },
+    {
+        "number": 96,
+        "chinese": "父",
+        "english": "Father"
+    },
+    {
+        "number": 97,
+        "chinese": "亚",
+        "english": "Inferior"
+    },
+    {
+        "number": 98,
+        "chinese": "肯定",
+        "english": "Sure"
+    },
+    {
+        "number": 99,
+        "chinese": "女孩",
+        "english": "Girl"
+    },
+    {
+        "number": 100,
+        "chinese": "世界",
+        "english": "World"
+    },
+    {
+        "number": 101,
+        "chinese": "不要",
+        "english": "Must not"
+    },
+    {
+        "number": 102,
+        "chinese": "些",
+        "english": "Some"
+    },
+    {
+        "number": 103,
+        "chinese": "不知道",
+        "english": "Do not know"
+    },
+    {
+        "number": 104,
+        "chinese": "不能",
+        "english": "Can not"
+    },
+    {
+        "number": 105,
+        "chinese": "因",
+        "english": "Because"
+    },
+    {
+        "number": 106,
+        "chinese": "觉",
+        "english": "Feel"
+    },
+    {
+        "number": 107,
+        "chinese": "发",
+        "english": "Hair"
+    },
+    {
+        "number": 108,
+        "chinese": "像",
+        "english": "Image"
+    },
+    {
+        "number": 109,
+        "chinese": "太",
+        "english": "Too"
+    },
+    {
+        "number": 110,
+        "chinese": "但是",
+        "english": "But"
+    },
+    {
+        "number": 111,
+        "chinese": "多",
+        "english": "Multi-"
+    },
+    {
+        "number": 112,
+        "chinese": "打",
+        "english": "Fight"
+    },
+    {
+        "number": 113,
+        "chinese": "机",
+        "english": "Machine"
+    },
+    {
+        "number": 114,
+        "chinese": "來",
+        "english": "Come"
+    },
+    {
+        "number": 115,
+        "chinese": "好了",
+        "english": "Well"
+    },
+    {
+        "number": 116,
+        "chinese": "用",
+        "english": "Use"
+    },
+    {
+        "number": 117,
+        "chinese": "他的",
+        "english": "His"
+    },
+    {
+        "number": 118,
+        "chinese": "诉",
+        "english": "Appeal"
+    },
+    {
+        "number": 119,
+        "chinese": "德",
+        "english": "Moral"
+    },
+    {
+        "number": 120,
+        "chinese": "叫",
+        "english": "Call"
+    },
+    {
+        "number": 121,
+        "chinese": "什麼",
+        "english": "What"
+    },
+    {
+        "number": 122,
+        "chinese": "真",
+        "english": "SANT"
+    },
+    {
+        "number": 123,
+        "chinese": "干",
+        "english": "Dry"
+    },
+    {
+        "number": 124,
+        "chinese": "心",
+        "english": "Heart"
+    },
+    {
+        "number": 125,
+        "chinese": "走",
+        "english": "Go"
+    },
+    {
+        "number": 126,
+        "chinese": "比",
+        "english": "Ratio"
+    },
+    {
+        "number": 127,
+        "chinese": "死",
+        "english": "Dead"
+    },
+    {
+        "number": 128,
+        "chinese": "嘿",
+        "english": "Hey"
+    },
+    {
+        "number": 129,
+        "chinese": "出",
+        "english": "Out"
+    },
+    {
+        "number": 130,
+        "chinese": "车",
+        "english": "Car"
+    },
+    {
+        "number": 131,
+        "chinese": "一下",
+        "english": "About"
+    },
+    {
+        "number": 132,
+        "chinese": "中",
+        "english": "In"
+    },
+    {
+        "number": 133,
+        "chinese": "好吧",
+        "english": "Well"
+    },
+    {
+        "number": 134,
+        "chinese": "需要",
+        "english": "Need"
+    },
+    {
+        "number": 135,
+        "chinese": "经",
+        "english": "After"
+    },
+    {
+        "number": 136,
+        "chinese": "妈",
+        "english": "Mom"
+    },
+    {
+        "number": 137,
+        "chinese": "候",
+        "english": "Wait"
+    },
+    {
+        "number": 138,
+        "chinese": "长",
+        "english": "Long"
+    },
+    {
+        "number": 139,
+        "chinese": "而",
+        "english": "And"
+    },
+    {
+        "number": 140,
+        "chinese": "错",
+        "english": "Wrong"
+    },
+    {
+        "number": 141,
+        "chinese": "好的",
+        "english": "Good"
+    },
+    {
+        "number": 142,
+        "chinese": "间",
+        "english": "Between"
+    },
+    {
+        "number": 143,
+        "chinese": "又",
+        "english": "And"
+    },
+    {
+        "number": 144,
+        "chinese": "国",
+        "english": "Country"
+    },
+    {
+        "number": 145,
+        "chinese": "起",
+        "english": "Start"
+    },
+    {
+        "number": 146,
+        "chinese": "动",
+        "english": "Move"
+    },
+    {
+        "number": 147,
+        "chinese": "杀",
+        "english": "Kill"
+    },
+    {
+        "number": 148,
+        "chinese": "于",
+        "english": "At"
+    },
+    {
+        "number": 149,
+        "chinese": "种",
+        "english": "Seed"
+    },
+    {
+        "number": 150,
+        "chinese": "去了",
+        "english": "Go"
+    },
+    {
+        "number": 151,
+        "chinese": "担",
+        "english": "Dan"
+    },
+    {
+        "number": 152,
+        "chinese": "名",
+        "english": "Name"
+    },
+    {
+        "number": 153,
+        "chinese": "混蛋",
+        "english": "Asshole"
+    },
+    {
+        "number": 154,
+        "chinese": "礼",
+        "english": "Ceremony"
+    },
+    {
+        "number": 155,
+        "chinese": "幹",
+        "english": "Dry"
+    },
+    {
+        "number": 156,
+        "chinese": "不了",
+        "english": "Not"
+    },
+    {
+        "number": 157,
+        "chinese": "有些",
+        "english": "Some"
+    },
+    {
+        "number": 158,
+        "chinese": "過",
+        "english": "Cross"
+    },
+    {
+        "number": 159,
+        "chinese": "後",
+        "english": "After"
+    },
+    {
+        "number": 160,
+        "chinese": "击",
+        "english": "Strike"
+    },
+    {
+        "number": 161,
+        "chinese": "漂亮",
+        "english": "Beautiful"
+    },
+    {
+        "number": 162,
+        "chinese": "神",
+        "english": "God"
+    },
+    {
+        "number": 163,
+        "chinese": "多少",
+        "english": "How much"
+    },
+    {
+        "number": 164,
+        "chinese": "海",
+        "english": "Sea"
+    },
+    {
+        "number": 165,
+        "chinese": "每",
+        "english": "Each"
+    },
+    {
+        "number": 166,
+        "chinese": "哥",
+        "english": "Brother"
+    },
+    {
+        "number": 167,
+        "chinese": "教",
+        "english": "Teach"
+    },
+    {
+        "number": 168,
+        "chinese": "走吧",
+        "english": "Go"
+    },
+    {
+        "number": 169,
+        "chinese": "好像",
+        "english": "Like"
+    },
+    {
+        "number": 170,
+        "chinese": "单",
+        "english": "Single"
+    },
+    {
+        "number": 171,
+        "chinese": "公",
+        "english": "Public"
+    },
+    {
+        "number": 172,
+        "chinese": "林",
+        "english": "Forest"
+    },
+    {
+        "number": 173,
+        "chinese": "女",
+        "english": "Female"
+    },
+    {
+        "number": 174,
+        "chinese": "忙",
+        "english": "Busy"
+    },
+    {
+        "number": 175,
+        "chinese": "火",
+        "english": "Fire"
+    },
+    {
+        "number": 176,
+        "chinese": "钟",
+        "english": "Bell"
+    },
+    {
+        "number": 177,
+        "chinese": "家伙",
+        "english": "Guy"
+    },
+    {
+        "number": 178,
+        "chinese": "科",
+        "english": "Branch"
+    },
+    {
+        "number": 179,
+        "chinese": "回去",
+        "english": "Go back"
+    },
+    {
+        "number": 180,
+        "chinese": "最后",
+        "english": "Last"
+    },
+    {
+        "number": 181,
+        "chinese": "水",
+        "english": "Water"
+    },
+    {
+        "number": 182,
+        "chinese": "不管",
+        "english": "Regardless of"
+    },
+    {
+        "number": 183,
+        "chinese": "麦",
+        "english": "Wheat"
+    },
+    {
+        "number": 184,
+        "chinese": "泻",
+        "english": "Diarrhea"
+    },
+    {
+        "number": 185,
+        "chinese": "鬼",
+        "english": "Ghost"
+    },
+    {
+        "number": 186,
+        "chinese": "還",
+        "english": "Also"
+    },
+    {
+        "number": 187,
+        "chinese": "船",
+        "english": "Ship"
+    },
+    {
+        "number": 188,
+        "chinese": "永",
+        "english": "Forever"
+    },
+    {
+        "number": 189,
+        "chinese": "安全",
+        "english": "Security"
+    },
+    {
+        "number": 190,
+        "chinese": "那個",
+        "english": "That"
+    },
+    {
+        "number": 191,
+        "chinese": "爾",
+        "english": "Seoul"
+    },
+    {
+        "number": 192,
+        "chinese": "這麼",
+        "english": "So"
+    },
+    {
+        "number": 193,
+        "chinese": "满",
+        "english": "Full"
+    },
+    {
+        "number": 194,
+        "chinese": "风",
+        "english": "Wind"
+    },
+    {
+        "number": 195,
+        "chinese": "皮",
+        "english": "Skin"
+    },
+    {
+        "number": 196,
+        "chinese": "威",
+        "english": "Prestige"
+    },
+    {
+        "number": 197,
+        "chinese": "据",
+        "english": "According to"
+    },
+    {
+        "number": 198,
+        "chinese": "鲁",
+        "english": "Lu"
+    },
+    {
+        "number": 199,
+        "chinese": "转",
+        "english": "Turn"
+    },
+    {
+        "number": 200,
+        "chinese": "相",
+        "english": "Phase"
+    },
+    {
+        "number": 201,
+        "chinese": "地方",
+        "english": "Local"
+    },
+    {
+        "number": 202,
+        "chinese": "沒有",
+        "english": "No"
+    },
+    {
+        "number": 203,
+        "chinese": "有人",
+        "english": "Some"
+    },
+    {
+        "number": 204,
+        "chinese": "嗨",
+        "english": "Hi"
+    },
+    {
+        "number": 205,
+        "chinese": "看看",
+        "english": "Look"
+    },
+    {
+        "number": 206,
+        "chinese": "自己",
+        "english": "Oneself"
+    },
+    {
+        "number": 207,
+        "chinese": "一定",
+        "english": "Certainly"
+    },
+    {
+        "number": 208,
+        "chinese": "事情",
+        "english": "Thing"
+    },
+    {
+        "number": 209,
+        "chinese": "屑",
+        "english": "Scrap"
+    },
+    {
+        "number": 210,
+        "chinese": "希望",
+        "english": "Hope"
+    },
+    {
+        "number": 211,
+        "chinese": "所",
+        "english": "The"
+    },
+    {
+        "number": 212,
+        "chinese": "褉",
+        "english": "Aspx."
+    },
+    {
+        "number": 213,
+        "chinese": "感",
+        "english": "Sense"
+    },
+    {
+        "number": 214,
+        "chinese": "气",
+        "english": "Gas"
+    },
+    {
+        "number": 215,
+        "chinese": "不想",
+        "english": "Do not want to"
+    },
+    {
+        "number": 216,
+        "chinese": "嘛",
+        "english": "Well"
+    },
+    {
+        "number": 217,
+        "chinese": "实",
+        "english": "Real"
+    },
+    {
+        "number": 218,
+        "chinese": "始",
+        "english": "Beginning"
+    },
+    {
+        "number": 219,
+        "chinese": "給",
+        "english": "To"
+    },
+    {
+        "number": 220,
+        "chinese": "然后",
+        "english": "Then"
+    },
+    {
+        "number": 221,
+        "chinese": "個",
+        "english": "A"
+    },
+    {
+        "number": 222,
+        "chinese": "相信",
+        "english": "Believe"
+    },
+    {
+        "number": 223,
+        "chinese": "结",
+        "english": "Bear"
+    },
+    {
+        "number": 224,
+        "chinese": "今天",
+        "english": "Today"
+    },
+    {
+        "number": 225,
+        "chinese": "几",
+        "english": "A few"
+    },
+    {
+        "number": 226,
+        "chinese": "题",
+        "english": "Title"
+    },
+    {
+        "number": 227,
+        "chinese": "放",
+        "english": "Put"
+    },
+    {
+        "number": 228,
+        "chinese": "讓",
+        "english": "Let"
+    },
+    {
+        "number": 229,
+        "chinese": "确",
+        "english": "Indeed"
+    },
+    {
+        "number": 230,
+        "chinese": "意思",
+        "english": "Meaning"
+    },
+    {
+        "number": 231,
+        "chinese": "成",
+        "english": "Become"
+    },
+    {
+        "number": 232,
+        "chinese": "所有",
+        "english": "All"
+    },
+    {
+        "number": 233,
+        "chinese": "喜",
+        "english": "Happy"
+    },
+    {
+        "number": 234,
+        "chinese": "對",
+        "english": "To"
+    },
+    {
+        "number": 235,
+        "chinese": "之",
+        "english": "The"
+    },
+    {
+        "number": 236,
+        "chinese": "一切",
+        "english": "Everything"
+    },
+    {
+        "number": 237,
+        "chinese": "记",
+        "english": "Remember"
+    },
+    {
+        "number": 238,
+        "chinese": "抱歉",
+        "english": "Sorry"
+    },
+    {
+        "number": 239,
+        "chinese": "一直",
+        "english": "Has been"
+    },
+    {
+        "number": 240,
+        "chinese": "天",
+        "english": "Day"
+    },
+    {
+        "number": 241,
+        "chinese": "褌",
+        "english": "Drawers"
+    },
+    {
+        "number": 242,
+        "chinese": "钱",
+        "english": "Money"
+    },
+    {
+        "number": 243,
+        "chinese": "面",
+        "english": "Surface"
+    },
+    {
+        "number": 244,
+        "chinese": "更",
+        "english": "More"
+    },
+    {
+        "number": 245,
+        "chinese": "学",
+        "english": "Learn"
+    },
+    {
+        "number": 246,
+        "chinese": "現在",
+        "english": "Now"
+    },
+    {
+        "number": 247,
+        "chinese": "边",
+        "english": "Side"
+    },
+    {
+        "number": 248,
+        "chinese": "你們",
+        "english": "You"
+    },
+    {
+        "number": 249,
+        "chinese": "不起",
+        "english": "Can not afford to"
+    },
+    {
+        "number": 250,
+        "chinese": "脑",
+        "english": "Brain"
+    },
+    {
+        "number": 251,
+        "chinese": "呃",
+        "english": "Uh"
+    },
+    {
+        "number": 252,
+        "chinese": "论",
+        "english": "Theory"
+    },
+    {
+        "number": 253,
+        "chinese": "曼",
+        "english": "Man"
+    },
+    {
+        "number": 254,
+        "chinese": "點",
+        "english": "Point"
+    },
+    {
+        "number": 255,
+        "chinese": "普",
+        "english": "General"
+    },
+    {
+        "number": 256,
+        "chinese": "第一",
+        "english": "First"
+    },
+    {
+        "number": 257,
+        "chinese": "通",
+        "english": "Through"
+    },
+    {
+        "number": 258,
+        "chinese": "棒",
+        "english": "Stick"
+    },
+    {
+        "number": 259,
+        "chinese": "线",
+        "english": "Line"
+    },
+    {
+        "number": 260,
+        "chinese": "很高",
+        "english": "High"
+    },
+    {
+        "number": 261,
+        "chinese": "买",
+        "english": "Buy"
+    },
+    {
+        "number": 262,
+        "chinese": "求",
+        "english": "Request"
+    },
+    {
+        "number": 263,
+        "chinese": "束",
+        "english": "Bundle"
+    },
+    {
+        "number": 264,
+        "chinese": "哇",
+        "english": "Wow"
+    },
+    {
+        "number": 265,
+        "chinese": "指",
+        "english": "Finger"
+    },
+    {
+        "number": 266,
+        "chinese": "张",
+        "english": "Zhang"
+    },
+    {
+        "number": 267,
+        "chinese": "文",
+        "english": "Culture"
+    },
+    {
+        "number": 268,
+        "chinese": "锌",
+        "english": "Zinc"
+    },
+    {
+        "number": 269,
+        "chinese": "重",
+        "english": "Weight"
+    },
+    {
+        "number": 270,
+        "chinese": "菲",
+        "english": "Philippines"
+    },
+    {
+        "number": 271,
+        "chinese": "目",
+        "english": "Eye"
+    },
+    {
+        "number": 272,
+        "chinese": "根本",
+        "english": "Fundamental"
+    },
+    {
+        "number": 273,
+        "chinese": "联",
+        "english": "Join"
+    },
+    {
+        "number": 274,
+        "chinese": "丹",
+        "english": "Red"
+    },
+    {
+        "number": 275,
+        "chinese": "愛",
+        "english": "Love"
+    },
+    {
+        "number": 276,
+        "chinese": "不到",
+        "english": "Less than"
+    },
+    {
+        "number": 277,
+        "chinese": "這些",
+        "english": "These"
+    },
+    {
+        "number": 278,
+        "chinese": "自己的",
+        "english": "Own"
+    },
+    {
+        "number": 279,
+        "chinese": "笑",
+        "english": "Laugh"
+    },
+    {
+        "number": 280,
+        "chinese": "闭",
+        "english": "Close"
+    },
+    {
+        "number": 281,
+        "chinese": "基",
+        "english": "Base"
+    },
+    {
+        "number": 282,
+        "chinese": "唯一",
+        "english": "Unique"
+    },
+    {
+        "number": 283,
+        "chinese": "要是",
+        "english": "If"
+    },
+    {
+        "number": 284,
+        "chinese": "提",
+        "english": "Mention"
+    },
+    {
+        "number": 285,
+        "chinese": "调",
+        "english": "Tune"
+    },
+    {
+        "number": 286,
+        "chinese": "丽",
+        "english": "Korea"
+    },
+    {
+        "number": 287,
+        "chinese": "女士",
+        "english": "Ms."
+    },
+    {
+        "number": 288,
+        "chinese": "校",
+        "english": "School"
+    },
+    {
+        "number": 289,
+        "chinese": "公司",
+        "english": "Company"
+    },
+    {
+        "number": 290,
+        "chinese": "况",
+        "english": "Condition"
+    },
+    {
+        "number": 291,
+        "chinese": "烦",
+        "english": "Bother"
+    },
+    {
+        "number": 292,
+        "chinese": "停",
+        "english": "Stop"
+    },
+    {
+        "number": 293,
+        "chinese": "英",
+        "english": "Britain"
+    },
+    {
+        "number": 294,
+        "chinese": "警",
+        "english": "Police"
+    },
+    {
+        "number": 295,
+        "chinese": "险",
+        "english": "Risk"
+    },
+    {
+        "number": 296,
+        "chinese": "東西",
+        "english": "Thing"
+    },
+    {
+        "number": 297,
+        "chinese": "不可能",
+        "english": "Impossible"
+    },
+    {
+        "number": 298,
+        "chinese": "坐",
+        "english": "Sit"
+    },
+    {
+        "number": 299,
+        "chinese": "区",
+        "english": "Area"
+    },
+    {
+        "number": 300,
+        "chinese": "果",
+        "english": "Fruit"
+    },
+    {
+        "number": 301,
+        "chinese": "伙",
+        "english": "Partner"
+    },
+    {
+        "number": 302,
+        "chinese": "哈",
+        "english": "Ha"
+    },
+    {
+        "number": 303,
+        "chinese": "罗",
+        "english": "Luo"
+    },
+    {
+        "number": 304,
+        "chinese": "难",
+        "english": "Difficult"
+    },
+    {
+        "number": 305,
+        "chinese": "两",
+        "english": "Both"
+    },
+    {
+        "number": 306,
+        "chinese": "一些",
+        "english": "Some"
+    },
+    {
+        "number": 307,
+        "chinese": "這樣",
+        "english": "So"
+    },
+    {
+        "number": 308,
+        "chinese": "自",
+        "english": "From"
+    },
+    {
+        "number": 309,
+        "chinese": "女人",
+        "english": "Woman"
+    },
+    {
+        "number": 310,
+        "chinese": "向",
+        "english": "To"
+    },
+    {
+        "number": 311,
+        "chinese": "最好",
+        "english": "The best"
+    },
+    {
+        "number": 312,
+        "chinese": "走了",
+        "english": "Go"
+    },
+    {
+        "number": 313,
+        "chinese": "褬",
+        "english": "Sang"
+    },
+    {
+        "number": 314,
+        "chinese": "胁",
+        "english": "Threaten"
+    },
+    {
+        "number": 315,
+        "chinese": "明",
+        "english": "Next"
+    },
+    {
+        "number": 316,
+        "chinese": "理",
+        "english": "Reason"
+    },
+    {
+        "number": 317,
+        "chinese": "加",
+        "english": "Plus"
+    },
+    {
+        "number": 318,
+        "chinese": "枪",
+        "english": "Gun"
+    },
+    {
+        "number": 319,
+        "chinese": "万",
+        "english": "Ten thousand"
+    },
+    {
+        "number": 320,
+        "chinese": "员",
+        "english": "Member"
+    },
+    {
+        "number": 321,
+        "chinese": "妳",
+        "english": "You"
+    },
+    {
+        "number": 322,
+        "chinese": "玩",
+        "english": "Play"
+    },
+    {
+        "number": 323,
+        "chinese": "分",
+        "english": "Minute"
+    },
+    {
+        "number": 324,
+        "chinese": "作",
+        "english": "Make"
+    },
+    {
+        "number": 325,
+        "chinese": "巴",
+        "english": "Pakistan"
+    },
+    {
+        "number": 326,
+        "chinese": "而且",
+        "english": "And"
+    },
+    {
+        "number": 327,
+        "chinese": "物",
+        "english": "Matter"
+    },
+    {
+        "number": 328,
+        "chinese": "伤",
+        "english": "Hurt"
+    },
+    {
+        "number": 329,
+        "chinese": "官",
+        "english": "Official"
+    },
+    {
+        "number": 330,
+        "chinese": "道",
+        "english": "Road"
+    },
+    {
+        "number": 331,
+        "chinese": "出去",
+        "english": "Out"
+    },
+    {
+        "number": 332,
+        "chinese": "力",
+        "english": "Force"
+    },
+    {
+        "number": 333,
+        "chinese": "总",
+        "english": "Total"
+    },
+    {
+        "number": 334,
+        "chinese": "者",
+        "english": "Person"
+    },
+    {
+        "number": 335,
+        "chinese": "先",
+        "english": "First"
+    },
+    {
+        "number": 336,
+        "chinese": "最",
+        "english": "Most"
+    },
+    {
+        "number": 337,
+        "chinese": "很多",
+        "english": "Many"
+    },
+    {
+        "number": 338,
+        "chinese": "医",
+        "english": "Treatment"
+    },
+    {
+        "number": 339,
+        "chinese": "一次",
+        "english": "Once"
+    },
+    {
+        "number": 340,
+        "chinese": "报",
+        "english": "Report"
+    },
+    {
+        "number": 341,
+        "chinese": "名字",
+        "english": "Name"
+    },
+    {
+        "number": 342,
+        "chinese": "将",
+        "english": "Will"
+    },
+    {
+        "number": 343,
+        "chinese": "迪",
+        "english": "Di"
+    },
+    {
+        "number": 344,
+        "chinese": "到了",
+        "english": "To"
+    },
+    {
+        "number": 345,
+        "chinese": "解",
+        "english": "Solution"
+    },
+    {
+        "number": 346,
+        "chinese": "新",
+        "english": "New"
+    },
+    {
+        "number": 347,
+        "chinese": "队",
+        "english": "Team"
+    },
+    {
+        "number": 348,
+        "chinese": "识",
+        "english": "Knowledge"
+    },
+    {
+        "number": 349,
+        "chinese": "死了",
+        "english": "Dead"
+    },
+    {
+        "number": 350,
+        "chinese": "眼",
+        "english": "Eye"
+    },
+    {
+        "number": 351,
+        "chinese": "媽的",
+        "english": "Damn"
+    },
+    {
+        "number": 352,
+        "chinese": "第一次",
+        "english": "First"
+    },
+    {
+        "number": 353,
+        "chinese": "離開",
+        "english": "Leave"
+    },
+    {
+        "number": 354,
+        "chinese": "忘",
+        "english": "Forget"
+    },
+    {
+        "number": 355,
+        "chinese": "我自己",
+        "english": "Myself"
+    },
+    {
+        "number": 356,
+        "chinese": "谐",
+        "english": "Harmonious"
+    },
+    {
+        "number": 357,
+        "chinese": "严",
+        "english": "Strict"
+    },
+    {
+        "number": 358,
+        "chinese": "且",
+        "english": "And"
+    },
+    {
+        "number": 359,
+        "chinese": "帶",
+        "english": "Band"
+    },
+    {
+        "number": 360,
+        "chinese": "赶",
+        "english": "Rush"
+    },
+    {
+        "number": 361,
+        "chinese": "太棒",
+        "english": "Great"
+    },
+    {
+        "number": 362,
+        "chinese": "佛",
+        "english": "Buddha"
+    },
+    {
+        "number": 363,
+        "chinese": "直",
+        "english": "Straight"
+    },
+    {
+        "number": 364,
+        "chinese": "認為",
+        "english": "Think"
+    },
+    {
+        "number": 365,
+        "chinese": "老婆",
+        "english": "Wife"
+    },
+    {
+        "number": 366,
+        "chinese": "索",
+        "english": "Search"
+    },
+    {
+        "number": 367,
+        "chinese": "除了",
+        "english": "In addition to"
+    },
+    {
+        "number": 368,
+        "chinese": "承",
+        "english": "By Order of the"
+    },
+    {
+        "number": 369,
+        "chinese": "泰",
+        "english": "Thai"
+    },
+    {
+        "number": 370,
+        "chinese": "建",
+        "english": "Build"
+    },
+    {
+        "number": 371,
+        "chinese": "欧",
+        "english": "Europe"
+    },
+    {
+        "number": 372,
+        "chinese": "然後",
+        "english": "Then"
+    },
+    {
+        "number": 373,
+        "chinese": "级",
+        "english": "Level"
+    },
+    {
+        "number": 374,
+        "chinese": "昨晚",
+        "english": "Last night"
+    },
+    {
+        "number": 375,
+        "chinese": "石",
+        "english": "Stone"
+    },
+    {
+        "number": 376,
+        "chinese": "有了",
+        "english": "With"
+    },
+    {
+        "number": 377,
+        "chinese": "都有",
+        "english": "Have"
+    },
+    {
+        "number": 378,
+        "chinese": "磲",
+        "english": "Clams"
+    },
+    {
+        "number": 379,
+        "chinese": "差",
+        "english": "Poor"
+    },
+    {
+        "number": 380,
+        "chinese": "思",
+        "english": "Think"
+    },
+    {
+        "number": 381,
+        "chinese": "啥",
+        "english": "What"
+    },
+    {
+        "number": 382,
+        "chinese": "過來",
+        "english": "Come"
+    },
+    {
+        "number": 383,
+        "chinese": "努力",
+        "english": "Strive"
+    },
+    {
+        "number": 384,
+        "chinese": "丈夫",
+        "english": "Husband"
+    },
+    {
+        "number": 385,
+        "chinese": "任何人",
+        "english": "Anyone"
+    },
+    {
+        "number": 386,
+        "chinese": "城市",
+        "english": "City"
+    },
+    {
+        "number": 387,
+        "chinese": "死亡",
+        "english": "Death"
+    },
+    {
+        "number": 388,
+        "chinese": "全部",
+        "english": "Whole"
+    },
+    {
+        "number": 389,
+        "chinese": "组",
+        "english": "Group"
+    },
+    {
+        "number": 390,
+        "chinese": "i",
+        "english": "i"
+    },
+    {
+        "number": 391,
+        "chinese": "也許",
+        "english": "Perhaps"
+    },
+    {
+        "number": 392,
+        "chinese": "最近",
+        "english": "Recently"
+    },
+    {
+        "number": 393,
+        "chinese": "倒",
+        "english": "Inverted"
+    },
+    {
+        "number": 394,
+        "chinese": "领",
+        "english": "Collar"
+    },
+    {
+        "number": 395,
+        "chinese": "顾",
+        "english": "Gu"
+    },
+    {
+        "number": 396,
+        "chinese": "市",
+        "english": "City"
+    },
+    {
+        "number": 397,
+        "chinese": "六",
+        "english": "Six"
+    },
+    {
+        "number": 398,
+        "chinese": "行了",
+        "english": "The line"
+    },
+    {
+        "number": 399,
+        "chinese": "滚",
+        "english": "Roll"
+    },
+    {
+        "number": 400,
+        "chinese": "好嗎",
+        "english": "Okay"
+    },
+    {
+        "number": 401,
+        "chinese": "师",
+        "english": "Division"
+    },
+    {
+        "number": 402,
+        "chinese": "高",
+        "english": "High"
+    },
+    {
+        "number": 403,
+        "chinese": "莉",
+        "english": "Li"
+    },
+    {
+        "number": 404,
+        "chinese": "坏",
+        "english": "Bad"
+    },
+    {
+        "number": 405,
+        "chinese": "电",
+        "english": "Electricity"
+    },
+    {
+        "number": 406,
+        "chinese": "警察",
+        "english": "Police"
+    },
+    {
+        "number": 407,
+        "chinese": "件",
+        "english": "Item"
+    },
+    {
+        "number": 408,
+        "chinese": "誰",
+        "english": "Who"
+    },
+    {
+        "number": 409,
+        "chinese": "兄弟",
+        "english": "Brothers"
+    },
+    {
+        "number": 410,
+        "chinese": "之前",
+        "english": "Before"
+    },
+    {
+        "number": 411,
+        "chinese": "谈",
+        "english": "Talk"
+    },
+    {
+        "number": 412,
+        "chinese": "送",
+        "english": "Send"
+    },
+    {
+        "number": 413,
+        "chinese": "森",
+        "english": "Forest"
+    },
+    {
+        "number": 414,
+        "chinese": "伊",
+        "english": "He"
+    },
+    {
+        "number": 415,
+        "chinese": "以前",
+        "english": "Previous"
+    },
+    {
+        "number": 416,
+        "chinese": "房",
+        "english": "Room"
+    },
+    {
+        "number": 417,
+        "chinese": "婚",
+        "english": "Marriage"
+    },
+    {
+        "number": 418,
+        "chinese": "喝",
+        "english": "Drink"
+    },
+    {
+        "number": 419,
+        "chinese": "怎麼",
+        "english": "How"
+    },
+    {
+        "number": 420,
+        "chinese": "今晚",
+        "english": "Tonight"
+    },
+    {
+        "number": 421,
+        "chinese": "兴",
+        "english": "Interest"
+    },
+    {
+        "number": 422,
+        "chinese": "疯",
+        "english": "Crazy"
+    },
+    {
+        "number": 423,
+        "chinese": "因為",
+        "english": "Because"
+    },
+    {
+        "number": 424,
+        "chinese": "住",
+        "english": "Live"
+    },
+    {
+        "number": 425,
+        "chinese": "内",
+        "english": "Within"
+    },
+    {
+        "number": 426,
+        "chinese": "轻",
+        "english": "Light"
+    },
+    {
+        "number": 427,
+        "chinese": "约",
+        "english": "Approximately"
+    },
+    {
+        "number": 428,
+        "chinese": "声",
+        "english": "Sound"
+    },
+    {
+        "number": 429,
+        "chinese": "或者",
+        "english": "Or"
+    },
+    {
+        "number": 430,
+        "chinese": "不行",
+        "english": "Not work"
+    },
+    {
+        "number": 431,
+        "chinese": "到底",
+        "english": "In the end"
+    },
+    {
+        "number": 432,
+        "chinese": "雷",
+        "english": "Mine"
+    },
+    {
+        "number": 433,
+        "chinese": "维",
+        "english": "Dimension"
+    },
+    {
+        "number": 434,
+        "chinese": "条",
+        "english": "Article"
+    },
+    {
+        "number": 435,
+        "chinese": "明天",
+        "english": "Tomorrow"
+    },
+    {
+        "number": 436,
+        "chinese": "不好",
+        "english": "Bad"
+    },
+    {
+        "number": 437,
+        "chinese": "已經",
+        "english": "Already"
+    },
+    {
+        "number": 438,
+        "chinese": "天啊",
+        "english": "God"
+    },
+    {
+        "number": 439,
+        "chinese": "洛",
+        "english": "Rockwell"
+    },
+    {
+        "number": 440,
+        "chinese": "护",
+        "english": "Protect"
+    },
+    {
+        "number": 441,
+        "chinese": "塔",
+        "english": "Tower"
+    },
+    {
+        "number": 442,
+        "chinese": "运",
+        "english": "Transport"
+    },
+    {
+        "number": 443,
+        "chinese": "接",
+        "english": "Meet"
+    },
+    {
+        "number": 444,
+        "chinese": "球",
+        "english": "Ball"
+    },
+    {
+        "number": 445,
+        "chinese": "得到",
+        "english": "Get"
+    },
+    {
+        "number": 446,
+        "chinese": "穿",
+        "english": "Wear"
+    },
+    {
+        "number": 447,
+        "chinese": "音",
+        "english": "Sound"
+    },
+    {
+        "number": 448,
+        "chinese": "從",
+        "english": "From"
+    },
+    {
+        "number": 449,
+        "chinese": "為",
+        "english": "For"
+    },
+    {
+        "number": 450,
+        "chinese": "生",
+        "english": "Raw"
+    },
+    {
+        "number": 451,
+        "chinese": "回",
+        "english": "Return"
+    },
+    {
+        "number": 452,
+        "chinese": "可",
+        "english": "Can"
+    },
+    {
+        "number": 453,
+        "chinese": "东",
+        "english": "East"
+    },
+    {
+        "number": 454,
+        "chinese": "尔",
+        "english": "Seoul"
+    },
+    {
+        "number": 455,
+        "chinese": "欢",
+        "english": "Happy"
+    },
+    {
+        "number": 456,
+        "chinese": "很好",
+        "english": "Well"
+    },
+    {
+        "number": 457,
+        "chinese": "他們",
+        "english": "They"
+    },
+    {
+        "number": 458,
+        "chinese": "进",
+        "english": "Enter"
+    },
+    {
+        "number": 459,
+        "chinese": "地",
+        "english": "Ground"
+    },
+    {
+        "number": 460,
+        "chinese": "孩子",
+        "english": "Children"
+    },
+    {
+        "number": 461,
+        "chinese": "帮",
+        "english": "Help"
+    },
+    {
+        "number": 462,
+        "chinese": "离",
+        "english": "From"
+    },
+    {
+        "number": 463,
+        "chinese": "找",
+        "english": "Look for"
+    },
+    {
+        "number": 464,
+        "chinese": "尼",
+        "english": "Nigeria"
+    },
+    {
+        "number": 465,
+        "chinese": "从",
+        "english": "From"
+    },
+    {
+        "number": 466,
+        "chinese": "下",
+        "english": "Under"
+    },
+    {
+        "number": 467,
+        "chinese": "马",
+        "english": "Horse"
+    },
+    {
+        "number": 468,
+        "chinese": "以",
+        "english": "With"
+    },
+    {
+        "number": 469,
+        "chinese": "利",
+        "english": "Profit"
+    },
+    {
+        "number": 470,
+        "chinese": "所以",
+        "english": "So"
+    },
+    {
+        "number": 471,
+        "chinese": "关",
+        "english": "Close"
+    },
+    {
+        "number": 472,
+        "chinese": "哪",
+        "english": "Which"
+    },
+    {
+        "number": 473,
+        "chinese": "懈",
+        "english": "Negligent"
+    },
+    {
+        "number": 474,
+        "chinese": "行",
+        "english": "Row"
+    },
+    {
+        "number": 475,
+        "chinese": "家",
+        "english": "Home"
+    },
+    {
+        "number": 476,
+        "chinese": "拉",
+        "english": "Pull"
+    },
+    {
+        "number": 477,
+        "chinese": "才",
+        "english": "Only"
+    },
+    {
+        "number": 478,
+        "chinese": "看到",
+        "english": "See"
+    },
+    {
+        "number": 479,
+        "chinese": "說",
+        "english": "Say"
+    },
+    {
+        "number": 480,
+        "chinese": "手",
+        "english": "Hand"
+    },
+    {
+        "number": 481,
+        "chinese": "法",
+        "english": "Law"
+    },
+    {
+        "number": 482,
+        "chinese": "噢",
+        "english": "Oh"
+    },
+    {
+        "number": 483,
+        "chinese": "谁",
+        "english": "Who"
+    },
+    {
+        "number": 484,
+        "chinese": "头",
+        "english": "Head"
+    },
+    {
+        "number": 485,
+        "chinese": "无",
+        "english": "No"
+    },
+    {
+        "number": 486,
+        "chinese": "嗯",
+        "english": "Ah"
+    },
+    {
+        "number": 487,
+        "chinese": "工作",
+        "english": "Work"
+    },
+    {
+        "number": 488,
+        "chinese": "可能",
+        "english": "May"
+    },
+    {
+        "number": 489,
+        "chinese": "薪",
+        "english": "Salary"
+    },
+    {
+        "number": 490,
+        "chinese": "朋友",
+        "english": "Friend"
+    },
+    {
+        "number": 491,
+        "chinese": "请",
+        "english": "Please"
+    },
+    {
+        "number": 492,
+        "chinese": "许",
+        "english": "Promise"
+    },
+    {
+        "number": 493,
+        "chinese": "年",
+        "english": "Years"
+    },
+    {
+        "number": 494,
+        "chinese": "那些",
+        "english": "Those"
+    },
+    {
+        "number": 495,
+        "chinese": "一個",
+        "english": "A"
+    },
+    {
+        "number": 496,
+        "chinese": "一起",
+        "english": "Together"
+    },
+    {
+        "number": 497,
+        "chinese": "然",
+        "english": "However"
+    },
+    {
+        "number": 498,
+        "chinese": "吃",
+        "english": "Eat"
+    },
+    {
+        "number": 499,
+        "chinese": "写",
+        "english": "Write"
+    },
+    {
+        "number": 500,
+        "chinese": "带",
+        "english": "Band"
+    },
+    {
+        "number": 501,
+        "chinese": "我喜",
+        "english": "I am pleased to"
+    },
+    {
+        "number": 502,
+        "chinese": "弗",
+        "english": "Eph."
+    },
+    {
+        "number": 503,
+        "chinese": "尽",
+        "english": "Exhausted"
+    },
+    {
+        "number": 504,
+        "chinese": "耶",
+        "english": "Yeah"
+    },
+    {
+        "number": 505,
+        "chinese": "喔",
+        "english": "Oh"
+    },
+    {
+        "number": 506,
+        "chinese": "褍",
+        "english": "Tuan"
+    },
+    {
+        "number": 507,
+        "chinese": "掉",
+        "english": "Fall"
+    },
+    {
+        "number": 508,
+        "chinese": "书",
+        "english": "Book"
+    },
+    {
+        "number": 509,
+        "chinese": "其他",
+        "english": "Other"
+    },
+    {
+        "number": 510,
+        "chinese": "派",
+        "english": "Send"
+    },
+    {
+        "number": 511,
+        "chinese": "士",
+        "english": "Scholar"
+    },
+    {
+        "number": 512,
+        "chinese": "器",
+        "english": "Implement"
+    },
+    {
+        "number": 513,
+        "chinese": "松",
+        "english": "Loose"
+    },
+    {
+        "number": 514,
+        "chinese": "数",
+        "english": "Number"
+    },
+    {
+        "number": 515,
+        "chinese": "光",
+        "english": "Light"
+    },
+    {
+        "number": 516,
+        "chinese": "其",
+        "english": "Its"
+    },
+    {
+        "number": 517,
+        "chinese": "想我",
+        "english": "Think I"
+    },
+    {
+        "number": 518,
+        "chinese": "极",
+        "english": "Pole"
+    },
+    {
+        "number": 519,
+        "chinese": "合",
+        "english": "Close"
+    },
+    {
+        "number": 520,
+        "chinese": "完全",
+        "english": "Entirely"
+    },
+    {
+        "number": 521,
+        "chinese": "做了",
+        "english": "Done"
+    },
+    {
+        "number": 522,
+        "chinese": "影",
+        "english": "Shadow"
+    },
+    {
+        "number": 523,
+        "chinese": "室",
+        "english": "Room"
+    },
+    {
+        "number": 524,
+        "chinese": "受",
+        "english": "Be subject"
+    },
+    {
+        "number": 525,
+        "chinese": "奇",
+        "english": "Odd"
+    },
+    {
+        "number": 526,
+        "chinese": "试",
+        "english": "Test"
+    },
+    {
+        "number": 527,
+        "chinese": "装",
+        "english": "Dress"
+    },
+    {
+        "number": 528,
+        "chinese": "晚上",
+        "english": "At night"
+    },
+    {
+        "number": 529,
+        "chinese": "恶",
+        "english": "Evil"
+    },
+    {
+        "number": 530,
+        "chinese": "应",
+        "english": "Should"
+    },
+    {
+        "number": 531,
+        "chinese": "小姐",
+        "english": "Miss"
+    },
+    {
+        "number": 532,
+        "chinese": "整",
+        "english": "Whole"
+    },
+    {
+        "number": 533,
+        "chinese": "强",
+        "english": "Strength"
+    },
+    {
+        "number": 534,
+        "chinese": "业",
+        "english": "Industry"
+    },
+    {
+        "number": 535,
+        "chinese": "类",
+        "english": "Class"
+    },
+    {
+        "number": 536,
+        "chinese": "复",
+        "english": "Complex"
+    },
+    {
+        "number": 537,
+        "chinese": "奥",
+        "english": "Austrian"
+    },
+    {
+        "number": 538,
+        "chinese": "梦",
+        "english": "Dream"
+    },
+    {
+        "number": 539,
+        "chinese": "曾",
+        "english": "Once"
+    },
+    {
+        "number": 540,
+        "chinese": "嘴",
+        "english": "Mouth"
+    },
+    {
+        "number": 541,
+        "chinese": "认",
+        "english": "Recognize"
+    },
+    {
+        "number": 542,
+        "chinese": "如此",
+        "english": "So"
+    },
+    {
+        "number": 543,
+        "chinese": "爸",
+        "english": "Dad"
+    },
+    {
+        "number": 544,
+        "chinese": "照",
+        "english": "Photo"
+    },
+    {
+        "number": 545,
+        "chinese": "杰",
+        "english": "Outstanding"
+    },
+    {
+        "number": 546,
+        "chinese": "為什麼",
+        "english": "Why"
+    },
+    {
+        "number": 547,
+        "chinese": "入",
+        "english": "Enter"
+    },
+    {
+        "number": 548,
+        "chinese": "睡",
+        "english": "Sleep"
+    },
+    {
+        "number": 549,
+        "chinese": "都不",
+        "english": "Not"
+    },
+    {
+        "number": 550,
+        "chinese": "服",
+        "english": "Clothes"
+    },
+    {
+        "number": 551,
+        "chinese": "节",
+        "english": "Festival"
+    },
+    {
+        "number": 552,
+        "chinese": "顿",
+        "english": "Dayton"
+    },
+    {
+        "number": 553,
+        "chinese": "了解",
+        "english": "Understand"
+    },
+    {
+        "number": 554,
+        "chinese": "根",
+        "english": "Root"
+    },
+    {
+        "number": 555,
+        "chinese": "蛋",
+        "english": "Egg"
+    },
+    {
+        "number": 556,
+        "chinese": "紧",
+        "english": "Tight"
+    },
+    {
+        "number": 557,
+        "chinese": "麻",
+        "english": "Hemp"
+    },
+    {
+        "number": 558,
+        "chinese": "很快",
+        "english": "Quickly"
+    },
+    {
+        "number": 559,
+        "chinese": "游",
+        "english": "Tour"
+    },
+    {
+        "number": 560,
+        "chinese": "忘了",
+        "english": "Forget"
+    },
+    {
+        "number": 561,
+        "chinese": "戴",
+        "english": "Wear"
+    },
+    {
+        "number": 562,
+        "chinese": "莎",
+        "english": "Shakespeare"
+    },
+    {
+        "number": 563,
+        "chinese": "故事",
+        "english": "Story"
+    },
+    {
+        "number": 564,
+        "chinese": "视",
+        "english": "Regard"
+    },
+    {
+        "number": 565,
+        "chinese": "真正",
+        "english": "Real"
+    },
+    {
+        "number": 566,
+        "chinese": "蟹",
+        "english": "Crab"
+    },
+    {
+        "number": 567,
+        "chinese": "费",
+        "english": "Fee"
+    },
+    {
+        "number": 568,
+        "chinese": "靠",
+        "english": "By"
+    },
+    {
+        "number": 569,
+        "chinese": "全",
+        "english": "Whole"
+    },
+    {
+        "number": 570,
+        "chinese": "反",
+        "english": "Anti-"
+    },
+    {
+        "number": 571,
+        "chinese": "字",
+        "english": "Word"
+    },
+    {
+        "number": 572,
+        "chinese": "度",
+        "english": "Degree"
+    },
+    {
+        "number": 573,
+        "chinese": "甚至",
+        "english": "Even"
+    },
+    {
+        "number": 574,
+        "chinese": "局",
+        "english": "Bureau"
+    },
+    {
+        "number": 575,
+        "chinese": "莫",
+        "english": "Mo"
+    },
+    {
+        "number": 576,
+        "chinese": "命",
+        "english": "Life"
+    },
+    {
+        "number": 577,
+        "chinese": "语",
+        "english": "Language"
+    },
+    {
+        "number": 578,
+        "chinese": "性",
+        "english": "Sex"
+    },
+    {
+        "number": 579,
+        "chinese": "常",
+        "english": "Often"
+    },
+    {
+        "number": 580,
+        "chinese": "莱",
+        "english": "Levin"
+    },
+    {
+        "number": 581,
+        "chinese": "之后",
+        "english": "After"
+    },
+    {
+        "number": 582,
+        "chinese": "可不",
+        "english": "From time to"
+    },
+    {
+        "number": 583,
+        "chinese": "母",
+        "english": "Mother"
+    },
+    {
+        "number": 584,
+        "chinese": "留下",
+        "english": "Stay"
+    },
+    {
+        "number": 585,
+        "chinese": "外",
+        "english": "Outside"
+    },
+    {
+        "number": 586,
+        "chinese": "當",
+        "english": "When the"
+    },
+    {
+        "number": 587,
+        "chinese": "此",
+        "english": "This"
+    },
+    {
+        "number": 588,
+        "chinese": "惊",
+        "english": "Shock"
+    },
+    {
+        "number": 589,
+        "chinese": "伯",
+        "english": "Bo"
+    },
+    {
+        "number": 590,
+        "chinese": "口",
+        "english": "Mouth"
+    },
+    {
+        "number": 591,
+        "chinese": "喜歡",
+        "english": "Like"
+    },
+    {
+        "number": 592,
+        "chinese": "the",
+        "english": "the"
+    },
+    {
+        "number": 593,
+        "chinese": "在做",
+        "english": "Doing"
+    },
+    {
+        "number": 594,
+        "chinese": "那麼",
+        "english": "Then"
+    },
+    {
+        "number": 595,
+        "chinese": "請",
+        "english": "Please"
+    },
+    {
+        "number": 596,
+        "chinese": "五",
+        "english": "Five"
+    },
+    {
+        "number": 597,
+        "chinese": "标",
+        "english": "Mark"
+    },
+    {
+        "number": 598,
+        "chinese": "画",
+        "english": "Painting"
+    },
+    {
+        "number": 599,
+        "chinese": "身上",
+        "english": "Body"
+    },
+    {
+        "number": 600,
+        "chinese": "以后",
+        "english": "After"
+    },
+    {
+        "number": 601,
+        "chinese": "主",
+        "english": "Main"
+    },
+    {
+        "number": 602,
+        "chinese": "謝謝",
+        "english": "Thank you"
+    },
+    {
+        "number": 603,
+        "chinese": "應該",
+        "english": "Should"
+    },
+    {
+        "number": 604,
+        "chinese": "静",
+        "english": "Quiet"
+    },
+    {
+        "number": 605,
+        "chinese": "弹",
+        "english": "Bomb"
+    },
+    {
+        "number": 606,
+        "chinese": "改",
+        "english": "Change"
+    },
+    {
+        "number": 607,
+        "chinese": "酒",
+        "english": "Wine"
+    },
+    {
+        "number": 608,
+        "chinese": "伦",
+        "english": "Lun"
+    },
+    {
+        "number": 609,
+        "chinese": "裏",
+        "english": "In"
+    },
+    {
+        "number": 610,
+        "chinese": "花",
+        "english": "Flower"
+    },
+    {
+        "number": 611,
+        "chinese": "续",
+        "english": "Continue"
+    },
+    {
+        "number": 612,
+        "chinese": "天哪",
+        "english": "Gosh"
+    },
+    {
+        "number": 613,
+        "chinese": "這裡",
+        "english": "Here"
+    },
+    {
+        "number": 614,
+        "chinese": "房子",
+        "english": "House"
+    },
+    {
+        "number": 615,
+        "chinese": "何",
+        "english": "What"
+    },
+    {
+        "number": 616,
+        "chinese": "由",
+        "english": "By"
+    },
+    {
+        "number": 617,
+        "chinese": "药",
+        "english": "Drug"
+    },
+    {
+        "number": 618,
+        "chinese": "同",
+        "english": "With"
+    },
+    {
+        "number": 619,
+        "chinese": "早上",
+        "english": "Morning"
+    },
+    {
+        "number": 620,
+        "chinese": "波",
+        "english": "Wave"
+    },
+    {
+        "number": 621,
+        "chinese": "弄",
+        "english": "Get"
+    },
+    {
+        "number": 622,
+        "chinese": "务",
+        "english": "Business"
+    },
+    {
+        "number": 623,
+        "chinese": "原",
+        "english": "Original"
+    },
+    {
+        "number": 624,
+        "chinese": "失",
+        "english": "Lose"
+    },
+    {
+        "number": 625,
+        "chinese": "考",
+        "english": "Test"
+    },
+    {
+        "number": 626,
+        "chinese": "岁",
+        "english": "Years"
+    },
+    {
+        "number": 627,
+        "chinese": "统",
+        "english": "Collectively"
+    },
+    {
+        "number": 628,
+        "chinese": "斜",
+        "english": "Oblique"
+    },
+    {
+        "number": 629,
+        "chinese": "拜托",
+        "english": "Please"
+    },
+    {
+        "number": 630,
+        "chinese": "跑",
+        "english": "Run"
+    },
+    {
+        "number": 631,
+        "chinese": "不在",
+        "english": "Absence"
+    },
+    {
+        "number": 632,
+        "chinese": "害",
+        "english": "Harm"
+    },
+    {
+        "number": 633,
+        "chinese": "麽",
+        "english": "What"
+    },
+    {
+        "number": 634,
+        "chinese": "日",
+        "english": "Day"
+    },
+    {
+        "number": 635,
+        "chinese": "妮",
+        "english": "Ni"
+    },
+    {
+        "number": 636,
+        "chinese": "凯",
+        "english": "Triumphant"
+    },
+    {
+        "number": 637,
+        "chinese": "衣服",
+        "english": "Clothes"
+    },
+    {
+        "number": 638,
+        "chinese": "治",
+        "english": "Rule"
+    },
+    {
+        "number": 639,
+        "chinese": "便",
+        "english": "Then"
+    },
+    {
+        "number": 640,
+        "chinese": "客",
+        "english": "Passenger"
+    },
+    {
+        "number": 641,
+        "chinese": "议",
+        "english": "Discuss"
+    },
+    {
+        "number": 642,
+        "chinese": "好好",
+        "english": "Good"
+    },
+    {
+        "number": 643,
+        "chinese": "們",
+        "english": "They"
+    },
+    {
+        "number": 644,
+        "chinese": "覺得",
+        "english": "Feel"
+    },
+    {
+        "number": 645,
+        "chinese": "谢谢",
+        "english": "Thank you"
+    },
+    {
+        "number": 646,
+        "chinese": "托",
+        "english": "Entrust"
+    },
+    {
+        "number": 647,
+        "chinese": "赛",
+        "english": "Game"
+    },
+    {
+        "number": 648,
+        "chinese": "任",
+        "english": "Office"
+    },
+    {
+        "number": 649,
+        "chinese": "色",
+        "english": "Color"
+    },
+    {
+        "number": 650,
+        "chinese": "独",
+        "english": "Independent"
+    },
+    {
+        "number": 651,
+        "chinese": "眼睛",
+        "english": "Eye"
+    },
+    {
+        "number": 652,
+        "chinese": "黑",
+        "english": "Black"
+    },
+    {
+        "number": 653,
+        "chinese": "华",
+        "english": "China"
+    },
+    {
+        "number": 654,
+        "chinese": "放在",
+        "english": "On the"
+    },
+    {
+        "number": 655,
+        "chinese": "城",
+        "english": "City"
+    },
+    {
+        "number": 656,
+        "chinese": "的時候",
+        "english": "When"
+    },
+    {
+        "number": 657,
+        "chinese": "站",
+        "english": "Station"
+    },
+    {
+        "number": 658,
+        "chinese": "小孩",
+        "english": "Child"
+    },
+    {
+        "number": 659,
+        "chinese": "住在",
+        "english": "Lives in"
+    },
+    {
+        "number": 660,
+        "chinese": "咖啡",
+        "english": "Coffee"
+    },
+    {
+        "number": 661,
+        "chinese": "换",
+        "english": "Change"
+    },
+    {
+        "number": 662,
+        "chinese": "才是",
+        "english": "Is"
+    },
+    {
+        "number": 663,
+        "chinese": "褕",
+        "english": "Yu"
+    },
+    {
+        "number": 664,
+        "chinese": "周",
+        "english": "Week"
+    },
+    {
+        "number": 665,
+        "chinese": "控制",
+        "english": "Control"
+    },
+    {
+        "number": 666,
+        "chinese": "言",
+        "english": "Speech"
+    },
+    {
+        "number": 667,
+        "chinese": "敢",
+        "english": "Dare"
+    },
+    {
+        "number": 668,
+        "chinese": "赢",
+        "english": "Win"
+    },
+    {
+        "number": 669,
+        "chinese": "半",
+        "english": "Half"
+    },
+    {
+        "number": 670,
+        "chinese": "白",
+        "english": "White"
+    },
+    {
+        "number": 671,
+        "chinese": "释",
+        "english": "Release"
+    },
+    {
+        "number": 672,
+        "chinese": "能不能",
+        "english": "Can"
+    },
+    {
+        "number": 673,
+        "chinese": "生了",
+        "english": "Health"
+    },
+    {
+        "number": 674,
+        "chinese": "而已",
+        "english": "Nothing more"
+    },
+    {
+        "number": 675,
+        "chinese": "图",
+        "english": "Map"
+    },
+    {
+        "number": 676,
+        "chinese": "該",
+        "english": "That"
+    },
+    {
+        "number": 677,
+        "chinese": "怪",
+        "english": "Strange"
+    },
+    {
+        "number": 678,
+        "chinese": "字幕",
+        "english": "Subtitle"
+    },
+    {
+        "number": 679,
+        "chinese": "對不起",
+        "english": "I am sorry"
+    },
+    {
+        "number": 680,
+        "chinese": "去看",
+        "english": "To see"
+    },
+    {
+        "number": 681,
+        "chinese": "像是",
+        "english": "Like"
+    },
+    {
+        "number": 682,
+        "chinese": "保持",
+        "english": "Keeping"
+    },
+    {
+        "number": 683,
+        "chinese": "替",
+        "english": "For"
+    },
+    {
+        "number": 684,
+        "chinese": "拜",
+        "english": "Worship"
+    },
+    {
+        "number": 685,
+        "chinese": "一件",
+        "english": "A"
+    },
+    {
+        "number": 686,
+        "chinese": "錢",
+        "english": "Money"
+    },
+    {
+        "number": 687,
+        "chinese": "想知道",
+        "english": "Want to know"
+    },
+    {
+        "number": 688,
+        "chinese": "時",
+        "english": "Time"
+    },
+    {
+        "number": 689,
+        "chinese": "讲",
+        "english": "Speak"
+    },
+    {
+        "number": 690,
+        "chinese": "新的",
+        "english": "New"
+    },
+    {
+        "number": 691,
+        "chinese": "希",
+        "english": "Hope"
+    },
+    {
+        "number": 692,
+        "chinese": "炸",
+        "english": "Fry"
+    },
+    {
+        "number": 693,
+        "chinese": "择",
+        "english": "Choose"
+    },
+    {
+        "number": 694,
+        "chinese": "知",
+        "english": "Know"
+    },
+    {
+        "number": 695,
+        "chinese": "說的",
+        "english": "Said"
+    },
+    {
+        "number": 696,
+        "chinese": "码",
+        "english": "Code"
+    },
+    {
+        "number": 697,
+        "chinese": "戏",
+        "english": "Play"
+    },
+    {
+        "number": 698,
+        "chinese": "塞",
+        "english": "Stopper"
+    },
+    {
+        "number": 699,
+        "chinese": "碰",
+        "english": "Touch"
+    },
+    {
+        "number": 700,
+        "chinese": "放下",
+        "english": "Put down"
+    },
+    {
+        "number": 701,
+        "chinese": "一樣",
+        "english": "Equally"
+    },
+    {
+        "number": 702,
+        "chinese": "害怕",
+        "english": "Be afraid"
+    },
+    {
+        "number": 703,
+        "chinese": "杰克",
+        "english": "Jack"
+    },
+    {
+        "number": 704,
+        "chinese": "迎",
+        "english": "Welcome"
+    },
+    {
+        "number": 705,
+        "chinese": "绝",
+        "english": "Absolutely"
+    },
+    {
+        "number": 706,
+        "chinese": "開始",
+        "english": "Start"
+    },
+    {
+        "number": 707,
+        "chinese": "生命",
+        "english": "Life"
+    },
+    {
+        "number": 708,
+        "chinese": "王",
+        "english": "King"
+    },
+    {
+        "number": 709,
+        "chinese": "助",
+        "english": "Help"
+    },
+    {
+        "number": 710,
+        "chinese": "乔",
+        "english": "Joe"
+    },
+    {
+        "number": 711,
+        "chinese": "义",
+        "english": "Justice"
+    },
+    {
+        "number": 712,
+        "chinese": "回到",
+        "english": "Back to"
+    },
+    {
+        "number": 713,
+        "chinese": "救",
+        "english": "Save"
+    },
+    {
+        "number": 714,
+        "chinese": "清楚",
+        "english": "Clear"
+    },
+    {
+        "number": 715,
+        "chinese": "冷",
+        "english": "Cold"
+    },
+    {
+        "number": 716,
+        "chinese": "原因",
+        "english": "Reason"
+    },
+    {
+        "number": 717,
+        "chinese": "却",
+        "english": "But"
+    },
+    {
+        "number": 718,
+        "chinese": "付",
+        "english": "Pay"
+    },
+    {
+        "number": 719,
+        "chinese": "管",
+        "english": "Tube"
+    },
+    {
+        "number": 720,
+        "chinese": "狂",
+        "english": "Mad"
+    },
+    {
+        "number": 721,
+        "chinese": "早",
+        "english": "Early"
+    },
+    {
+        "number": 722,
+        "chinese": "一天",
+        "english": "One day"
+    },
+    {
+        "number": 723,
+        "chinese": "超",
+        "english": "Exceed"
+    },
+    {
+        "number": 724,
+        "chinese": "怀",
+        "english": "Bosom"
+    },
+    {
+        "number": 725,
+        "chinese": "使",
+        "english": "Make"
+    },
+    {
+        "number": 726,
+        "chinese": "断",
+        "english": "Break"
+    },
+    {
+        "number": 727,
+        "chinese": "演",
+        "english": "Play"
+    },
+    {
+        "number": 728,
+        "chinese": "外面",
+        "english": "Outside"
+    },
+    {
+        "number": 729,
+        "chinese": "四",
+        "english": "Four"
+    },
+    {
+        "number": 730,
+        "chinese": "楼",
+        "english": "Floor"
+    },
+    {
+        "number": 731,
+        "chinese": "另一",
+        "english": "Another"
+    },
+    {
+        "number": 732,
+        "chinese": "玩笑",
+        "english": "Joke"
+    },
+    {
+        "number": 733,
+        "chinese": "好啊",
+        "english": "Well"
+    },
+    {
+        "number": 734,
+        "chinese": "裡",
+        "english": "In"
+    },
+    {
+        "number": 735,
+        "chinese": "院",
+        "english": "Hospital"
+    },
+    {
+        "number": 736,
+        "chinese": "空",
+        "english": "Air"
+    },
+    {
+        "number": 737,
+        "chinese": "娜",
+        "english": "Na"
+    },
+    {
+        "number": 738,
+        "chinese": "將",
+        "english": "Will"
+    },
+    {
+        "number": 739,
+        "chinese": "下去",
+        "english": "Go on"
+    },
+    {
+        "number": 740,
+        "chinese": "传",
+        "english": "Pass"
+    },
+    {
+        "number": 741,
+        "chinese": "時間",
+        "english": "Time"
+    },
+    {
+        "number": 742,
+        "chinese": "感到",
+        "english": "Feel"
+    },
+    {
+        "number": 743,
+        "chinese": "懂",
+        "english": "Understand"
+    },
+    {
+        "number": 744,
+        "chinese": "血",
+        "english": "Blood"
+    },
+    {
+        "number": 745,
+        "chinese": "失去",
+        "english": "Lose"
+    },
+    {
+        "number": 746,
+        "chinese": "终",
+        "english": "End"
+    },
+    {
+        "number": 747,
+        "chinese": "還是",
+        "english": "Or"
+    },
+    {
+        "number": 748,
+        "chinese": "价",
+        "english": "Price"
+    },
+    {
+        "number": 749,
+        "chinese": "包",
+        "english": "Package"
+    },
+    {
+        "number": 750,
+        "chinese": "等",
+        "english": "Wait"
+    },
+    {
+        "number": 751,
+        "chinese": "变",
+        "english": "Change"
+    },
+    {
+        "number": 752,
+        "chinese": "准",
+        "english": "Quasi-"
+    },
+    {
+        "number": 753,
+        "chinese": "查",
+        "english": "Check"
+    },
+    {
+        "number": 754,
+        "chinese": "阿",
+        "english": "A"
+    },
+    {
+        "number": 755,
+        "chinese": "卡",
+        "english": "Card"
+    },
+    {
+        "number": 756,
+        "chinese": "這個",
+        "english": "This"
+    },
+    {
+        "number": 757,
+        "chinese": "在哪",
+        "english": "Where"
+    },
+    {
+        "number": 758,
+        "chinese": "定",
+        "english": "Fixed"
+    },
+    {
+        "number": 759,
+        "chinese": "处",
+        "english": "Place"
+    },
+    {
+        "number": 760,
+        "chinese": "真是",
+        "english": "Really"
+    },
+    {
+        "number": 761,
+        "chinese": "保",
+        "english": "Insurance"
+    },
+    {
+        "number": 762,
+        "chinese": "想要",
+        "english": "Want"
+    },
+    {
+        "number": 763,
+        "chinese": "安",
+        "english": "Safe"
+    },
+    {
+        "number": 764,
+        "chinese": "并",
+        "english": "And"
+    },
+    {
+        "number": 765,
+        "chinese": "拿",
+        "english": "Take"
+    },
+    {
+        "number": 766,
+        "chinese": "情",
+        "english": "Love"
+    },
+    {
+        "number": 767,
+        "chinese": "爸爸",
+        "english": "Father"
+    },
+    {
+        "number": 768,
+        "chinese": "褋",
+        "english": "Die"
+    },
+    {
+        "number": 769,
+        "chinese": "您",
+        "english": "You"
+    },
+    {
+        "number": 770,
+        "chinese": "美",
+        "english": "U.S."
+    },
+    {
+        "number": 771,
+        "chinese": "非常",
+        "english": "Very"
+    },
+    {
+        "number": 772,
+        "chinese": "办",
+        "english": "Do"
+    },
+    {
+        "number": 773,
+        "chinese": "前",
+        "english": "Ago"
+    },
+    {
+        "number": 774,
+        "chinese": "格",
+        "english": "Grid"
+    },
+    {
+        "number": 775,
+        "chinese": "场",
+        "english": "Field"
+    },
+    {
+        "number": 776,
+        "chinese": "体",
+        "english": "Body"
+    },
+    {
+        "number": 777,
+        "chinese": "大家",
+        "english": "Everyone"
+    },
+    {
+        "number": 778,
+        "chinese": "呀",
+        "english": "Yeah"
+    },
+    {
+        "number": 779,
+        "chinese": "系",
+        "english": "System"
+    },
+    {
+        "number": 780,
+        "chinese": "后",
+        "english": "After"
+    },
+    {
+        "number": 781,
+        "chinese": "亲",
+        "english": "Parent"
+    },
+    {
+        "number": 782,
+        "chinese": "明白",
+        "english": "Understand"
+    },
+    {
+        "number": 783,
+        "chinese": "备",
+        "english": "Equipment"
+    },
+    {
+        "number": 784,
+        "chinese": "布",
+        "english": "Cloth"
+    },
+    {
+        "number": 785,
+        "chinese": "计",
+        "english": "Meter"
+    },
+    {
+        "number": 786,
+        "chinese": "恩",
+        "english": "Grace"
+    },
+    {
+        "number": 787,
+        "chinese": "找到",
+        "english": "Find"
+    },
+    {
+        "number": 788,
+        "chinese": "她的",
+        "english": "Her"
+    },
+    {
+        "number": 789,
+        "chinese": "老",
+        "english": "Old"
+    },
+    {
+        "number": 790,
+        "chinese": "艾",
+        "english": "Ai"
+    },
+    {
+        "number": 791,
+        "chinese": "意",
+        "english": "Meaning"
+    },
+    {
+        "number": 792,
+        "chinese": "门",
+        "english": "Door"
+    },
+    {
+        "number": 793,
+        "chinese": "啦",
+        "english": "La"
+    },
+    {
+        "number": 794,
+        "chinese": "米",
+        "english": "Meter"
+    },
+    {
+        "number": 795,
+        "chinese": "本",
+        "english": "This"
+    },
+    {
+        "number": 796,
+        "chinese": "问",
+        "english": "Ask"
+    },
+    {
+        "number": 797,
+        "chinese": "上帝",
+        "english": "God"
+    },
+    {
+        "number": 798,
+        "chinese": "必",
+        "english": "Must"
+    },
+    {
+        "number": 799,
+        "chinese": "沒",
+        "english": "Not"
+    },
+    {
+        "number": 800,
+        "chinese": "等等",
+        "english": "Etc."
+    },
+    {
+        "number": 801,
+        "chinese": "不過",
+        "english": "But"
+    },
+    {
+        "number": 802,
+        "chinese": "猜",
+        "english": "Guess"
+    },
+    {
+        "number": 803,
+        "chinese": "福",
+        "english": "Blessing"
+    },
+    {
+        "number": 804,
+        "chinese": "打算",
+        "english": "Plan"
+    },
+    {
+        "number": 805,
+        "chinese": "适",
+        "english": "Suitable"
+    },
+    {
+        "number": 806,
+        "chinese": "危",
+        "english": "Danger"
+    },
+    {
+        "number": 807,
+        "chinese": "连",
+        "english": "Even"
+    },
+    {
+        "number": 808,
+        "chinese": "怕",
+        "english": "Fear"
+    },
+    {
+        "number": 809,
+        "chinese": "化",
+        "english": "Of"
+    },
+    {
+        "number": 810,
+        "chinese": "不需要",
+        "english": "Do not need to"
+    },
+    {
+        "number": 811,
+        "chinese": "争",
+        "english": "Fight"
+    },
+    {
+        "number": 812,
+        "chinese": "则",
+        "english": "Then"
+    },
+    {
+        "number": 813,
+        "chinese": "狱",
+        "english": "Prison"
+    },
+    {
+        "number": 814,
+        "chinese": "越",
+        "english": "More"
+    },
+    {
+        "number": 815,
+        "chinese": "小子",
+        "english": "Brat"
+    },
+    {
+        "number": 816,
+        "chinese": "有趣",
+        "english": "Interesting"
+    },
+    {
+        "number": 817,
+        "chinese": "喜歡",
+        "english": "Like"
+    },
+    {
+        "number": 818,
+        "chinese": "the",
+        "english": "the"
+    },
+    {
+        "number": 819,
+        "chinese": "在做",
+        "english": "Doing"
+    },
+    {
+        "number": 820,
+        "chinese": "那麼",
+        "english": "Then"
+    },
+    {
+        "number": 821,
+        "chinese": "請",
+        "english": "Please"
+    },
+    {
+        "number": 822,
+        "chinese": "五",
+        "english": "Five"
+    },
+    {
+        "number": 823,
+        "chinese": "标",
+        "english": "Mark"
+    },
+    {
+        "number": 824,
+        "chinese": "画",
+        "english": "Painting"
+    },
+    {
+        "number": 825,
+        "chinese": "身上",
+        "english": "Body"
+    },
+    {
+        "number": 826,
+        "chinese": "以后",
+        "english": "After"
+    },
+    {
+        "number": 827,
+        "chinese": "至少",
+        "english": "At least"
+    },
+    {
+        "number": 828,
+        "chinese": "亞",
+        "english": "Inferior"
+    },
+    {
+        "number": 829,
+        "chinese": "脱",
+        "english": "Take off"
+    },
+    {
+        "number": 830,
+        "chinese": "消息",
+        "english": "News"
+    },
+    {
+        "number": 831,
+        "chinese": "不喜",
+        "english": "Do not like"
+    },
+    {
+        "number": 832,
+        "chinese": "块",
+        "english": "Block"
+    },
+    {
+        "number": 833,
+        "chinese": "快走",
+        "english": "Brisk walking"
+    },
+    {
+        "number": 834,
+        "chinese": "著",
+        "english": "With"
+    },
+    {
+        "number": 835,
+        "chinese": "各位",
+        "english": "Everybody"
+    },
+    {
+        "number": 836,
+        "chinese": "算",
+        "english": "Count"
+    },
+    {
+        "number": 837,
+        "chinese": "問題",
+        "english": "Problem"
+    },
+    {
+        "number": 838,
+        "chinese": "沒事",
+        "english": "All right"
+    },
+    {
+        "number": 839,
+        "chinese": "导",
+        "english": "Guide"
+    },
+    {
+        "number": 840,
+        "chinese": "州",
+        "english": "State"
+    },
+    {
+        "number": 841,
+        "chinese": "老兄",
+        "english": "Brother"
+    },
+    {
+        "number": 842,
+        "chinese": "抓",
+        "english": "Catch"
+    },
+    {
+        "number": 843,
+        "chinese": "代",
+        "english": "On behalf of"
+    },
+    {
+        "number": 844,
+        "chinese": "蒙",
+        "english": "Mongolian"
+    },
+    {
+        "number": 845,
+        "chinese": "抓住",
+        "english": "Catch"
+    },
+    {
+        "number": 846,
+        "chinese": "山",
+        "english": "Mountain"
+    },
+    {
+        "number": 847,
+        "chinese": "拍",
+        "english": "Beat"
+    },
+    {
+        "number": 848,
+        "chinese": "沙",
+        "english": "Sand"
+    },
+    {
+        "number": 849,
+        "chinese": "妻子",
+        "english": "Wife"
+    },
+    {
+        "number": 850,
+        "chinese": "脸",
+        "english": "Face"
+    },
+    {
+        "number": 851,
+        "chinese": "责",
+        "english": "Responsibility"
+    },
+    {
+        "number": 852,
+        "chinese": "你自己",
+        "english": "Yourself"
+    },
+    {
+        "number": 853,
+        "chinese": "回來",
+        "english": "Come back"
+    },
+    {
+        "number": 854,
+        "chinese": "歌",
+        "english": "Song"
+    },
+    {
+        "number": 855,
+        "chinese": "星",
+        "english": "Star"
+    },
+    {
+        "number": 856,
+        "chinese": "权",
+        "english": "Right"
+    },
+    {
+        "number": 857,
+        "chinese": "术",
+        "english": "Technique"
+    },
+    {
+        "number": 858,
+        "chinese": "显",
+        "english": "Show"
+    },
+    {
+        "number": 859,
+        "chinese": "幸",
+        "english": "Fortunately"
+    },
+    {
+        "number": 860,
+        "chinese": "交",
+        "english": "Cross"
+    },
+    {
+        "number": 861,
+        "chinese": "不同",
+        "english": "Different"
+    },
+    {
+        "number": 862,
+        "chinese": "聪",
+        "english": "Clever"
+    },
+    {
+        "number": 863,
+        "chinese": "随",
+        "english": "Follow"
+    },
+    {
+        "number": 864,
+        "chinese": "登",
+        "english": "Ascend"
+    },
+    {
+        "number": 865,
+        "chinese": "班",
+        "english": "Class"
+    },
+    {
+        "number": 866,
+        "chinese": "二",
+        "english": "Two"
+    },
+    {
+        "number": 867,
+        "chinese": "录",
+        "english": "Record"
+    },
+    {
+        "number": 868,
+        "chinese": "武器",
+        "english": "Weapon"
+    },
+    {
+        "number": 869,
+        "chinese": "热",
+        "english": "Hot"
+    },
+    {
+        "number": 870,
+        "chinese": "才能",
+        "english": "Ability"
+    },
+    {
+        "number": 871,
+        "chinese": "當然",
+        "english": "Of course"
+    },
+    {
+        "number": 872,
+        "chinese": "晚",
+        "english": "Night"
+    },
+    {
+        "number": 873,
+        "chinese": "晚安",
+        "english": "Good night"
+    },
+    {
+        "number": 874,
+        "chinese": "成功",
+        "english": "Success"
+    },
+    {
+        "number": 875,
+        "chinese": "未",
+        "english": "Not"
+    },
+    {
+        "number": 876,
+        "chinese": "参",
+        "english": "Participate"
+    },
+    {
+        "number": 877,
+        "chinese": "瓦",
+        "english": "Tile"
+    },
+    {
+        "number": 878,
+        "chinese": "饭",
+        "english": "Rice"
+    },
+    {
+        "number": 879,
+        "chinese": "殺",
+        "english": "Kill"
+    },
+    {
+        "number": 880,
+        "chinese": "帕",
+        "english": "Handkerchief"
+    },
+    {
+        "number": 881,
+        "chinese": "待",
+        "english": "To be"
+    },
+    {
+        "number": 882,
+        "chinese": "是否",
+        "english": "Whether"
+    },
+    {
+        "number": 883,
+        "chinese": "勒",
+        "english": "Le"
+    },
+    {
+        "number": 884,
+        "chinese": "射",
+        "english": "Shoot"
+    },
+    {
+        "number": 885,
+        "chinese": "表",
+        "english": "Table"
+    },
+    {
+        "number": 886,
+        "chinese": "卫",
+        "english": "Guard"
+    },
+    {
+        "number": 887,
+        "chinese": "太太",
+        "english": "Wife"
+    },
+    {
+        "number": 888,
+        "chinese": "接受",
+        "english": "Accepted"
+    },
+    {
+        "number": 889,
+        "chinese": "跳",
+        "english": "Jump"
+    },
+    {
+        "number": 890,
+        "chinese": "象",
+        "english": "Elephant"
+    },
+    {
+        "number": 891,
+        "chinese": "灵",
+        "english": "Spirit"
+    },
+    {
+        "number": 892,
+        "chinese": "真不",
+        "english": "I really do not"
+    },
+    {
+        "number": 893,
+        "chinese": "破",
+        "english": "Break"
+    },
+    {
+        "number": 894,
+        "chinese": "夫人",
+        "english": "Mrs."
+    },
+    {
+        "number": 895,
+        "chinese": "操",
+        "english": "Exercise"
+    },
+    {
+        "number": 896,
+        "chinese": "诺",
+        "english": "Promise"
+    },
+    {
+        "number": 897,
+        "chinese": "萨",
+        "english": "Bodhisattva"
+    },
+    {
+        "number": 898,
+        "chinese": "卖",
+        "english": "Sell"
+    },
+    {
+        "number": 899,
+        "chinese": "选",
+        "english": "Selected"
+    },
+    {
+        "number": 900,
+        "chinese": "注意",
+        "english": "Note"
+    },
+    {
+        "number": 901,
+        "chinese": "历",
+        "english": "Calendar"
+    },
+    {
+        "number": 902,
+        "chinese": "脚",
+        "english": "Foot"
+    },
+    {
+        "number": 903,
+        "chinese": "丝",
+        "english": "Wire"
+    },
+    {
+        "number": 904,
+        "chinese": "少",
+        "english": "Less"
+    },
+    {
+        "number": 905,
+        "chinese": "工",
+        "english": "Work"
+    },
+    {
+        "number": 906,
+        "chinese": "密",
+        "english": "Close"
+    },
+    {
+        "number": 907,
+        "chinese": "鱼",
+        "english": "Fish"
+    },
+    {
+        "number": 908,
+        "chinese": "验",
+        "english": "Test"
+    },
+    {
+        "number": 909,
+        "chinese": "不再",
+        "english": "No longer"
+    },
+    {
+        "number": 910,
+        "chinese": "检",
+        "english": "Check"
+    },
+    {
+        "number": 911,
+        "chinese": "骗",
+        "english": "Cheat"
+    },
+    {
+        "number": 912,
+        "chinese": "必須",
+        "english": "Must"
+    },
+    {
+        "number": 913,
+        "chinese": "a",
+        "english": "a"
+    },
+    {
+        "number": 914,
+        "chinese": "自由",
+        "english": "Free"
+    },
+    {
+        "number": 915,
+        "chinese": "杯",
+        "english": "Cup"
+    },
+    {
+        "number": 916,
+        "chinese": "馆",
+        "english": "Shop"
+    },
+    {
+        "number": 917,
+        "chinese": "完",
+        "english": "Complete"
+    },
+    {
+        "number": 918,
+        "chinese": "追",
+        "english": "Chase"
+    },
+    {
+        "number": 919,
+        "chinese": "际",
+        "english": "Occasion"
+    },
+    {
+        "number": 920,
+        "chinese": "产",
+        "english": "Yield"
+    },
+    {
+        "number": 921,
+        "chinese": "想到",
+        "english": "Think"
+    },
+    {
+        "number": 922,
+        "chinese": "收",
+        "english": "Income"
+    },
+    {
+        "number": 923,
+        "chinese": "探",
+        "english": "Explore"
+    },
+    {
+        "number": 924,
+        "chinese": "直到",
+        "english": "Until"
+    },
+    {
+        "number": 925,
+        "chinese": "酷",
+        "english": "Cool"
+    },
+    {
+        "number": 926,
+        "chinese": "乱",
+        "english": "Random"
+    },
+    {
+        "number": 927,
+        "chinese": "资",
+        "english": "Capital"
+    },
+    {
+        "number": 928,
+        "chinese": "毁",
+        "english": "Ruin"
+    },
+    {
+        "number": 929,
+        "chinese": "要求",
+        "english": "Claim"
+    },
+    {
+        "number": 930,
+        "chinese": "急",
+        "english": "Urgent"
+    },
+    {
+        "number": 931,
+        "chinese": "玛",
+        "english": "Mary"
+    },
+    {
+        "number": 932,
+        "chinese": "方",
+        "english": "Square"
+    },
+    {
+        "number": 933,
+        "chinese": "完成",
+        "english": "Complete"
+    },
+    {
+        "number": 934,
+        "chinese": "照片",
+        "english": "Photo"
+    },
+    {
+        "number": 935,
+        "chinese": "收到",
+        "english": "Receive"
+    },
+    {
+        "number": 936,
+        "chinese": "所有人",
+        "english": "Everyone"
+    },
+    {
+        "number": 937,
+        "chinese": "博士",
+        "english": "Doctor"
+    },
+    {
+        "number": 938,
+        "chinese": "媽媽",
+        "english": "Mom"
+    },
+    {
+        "number": 939,
+        "chinese": "you",
+        "english": "you"
+    },
+    {
+        "number": 940,
+        "chinese": "父母",
+        "english": "Parents"
+    },
+    {
+        "number": 941,
+        "chinese": "奇怪",
+        "english": "Strange"
+    },
+    {
+        "number": 942,
+        "chinese": "男孩",
+        "english": "Boy"
+    },
+    {
+        "number": 943,
+        "chinese": "攻",
+        "english": "Attack"
+    },
+    {
+        "number": 944,
+        "chinese": "店",
+        "english": "Shop"
+    },
+    {
+        "number": 945,
+        "chinese": "埃",
+        "english": "Angstrom"
+    },
+    {
+        "number": 946,
+        "chinese": "多久",
+        "english": "How long"
+    },
+    {
+        "number": 947,
+        "chinese": "红",
+        "english": "Red"
+    },
+    {
+        "number": 948,
+        "chinese": "太多",
+        "english": "Too"
+    },
+    {
+        "number": 949,
+        "chinese": "咱",
+        "english": "We"
+    },
+    {
+        "number": 950,
+        "chinese": "能",
+        "english": "Can"
+    },
+    {
+        "number": 951,
+        "chinese": "事",
+        "english": "Thing"
+    },
+    {
+        "number": 952,
+        "chinese": "看",
+        "english": "See"
+    },
+    {
+        "number": 953,
+        "chinese": "我們",
+        "english": "We"
+    },
+    {
+        "number": 954,
+        "chinese": "上",
+        "english": "On"
+    },
+    {
+        "number": 955,
+        "chinese": "给",
+        "english": "To"
+    },
+    {
+        "number": 956,
+        "chinese": "可以",
+        "english": "Can"
+    },
+    {
+        "number": 957,
+        "chinese": "现",
+        "english": "Present"
+    },
+    {
+        "number": 958,
+        "chinese": "斯",
+        "english": "Sri Lanka"
+    },
+    {
+        "number": 959,
+        "chinese": "做",
+        "english": "Do"
+    },
+    {
+        "number": 960,
+        "chinese": "儿",
+        "english": "Child"
+    },
+    {
+        "number": 961,
+        "chinese": "时",
+        "english": "Time"
+    },
+    {
+        "number": 962,
+        "chinese": "点",
+        "english": "Point"
+    },
+    {
+        "number": 963,
+        "chinese": "开",
+        "english": "Open"
+    },
+    {
+        "number": 964,
+        "chinese": "让",
+        "english": "Let"
+    },
+    {
+        "number": 965,
+        "chinese": "就是",
+        "english": "Is"
+    },
+    {
+        "number": 966,
+        "chinese": "但",
+        "english": "But"
+    },
+    {
+        "number": 967,
+        "chinese": "呢",
+        "english": "It"
+    },
+    {
+        "number": 968,
+        "chinese": "着",
+        "english": "With"
+    },
+    {
+        "number": 969,
+        "chinese": "它",
+        "english": "It"
+    },
+    {
+        "number": 970,
+        "chinese": "這",
+        "english": "This"
+    },
+    {
+        "number": 971,
+        "chinese": "如果",
+        "english": "If"
+    },
+    {
+        "number": 972,
+        "chinese": "跟",
+        "english": "With"
+    },
+    {
+        "number": 973,
+        "chinese": "邪",
+        "english": "Evil"
+    },
+    {
+        "number": 974,
+        "chinese": "听",
+        "english": "Listen"
+    },
+    {
+        "number": 975,
+        "chinese": "克",
+        "english": "Gram"
+    },
+    {
+        "number": 976,
+        "chinese": "再",
+        "english": "Again"
+    },
+    {
+        "number": 977,
+        "chinese": "快",
+        "english": "Fast"
+    },
+    {
+        "number": 978,
+        "chinese": "嗎",
+        "english": "Do"
+    },
+    {
+        "number": 979,
+        "chinese": "被",
+        "english": "Be"
+    },
+    {
+        "number": 980,
+        "chinese": "是的",
+        "english": "Yes"
+    },
+    {
+        "number": 981,
+        "chinese": "大",
+        "english": "Large"
+    },
+    {
+        "number": 982,
+        "chinese": "先生",
+        "english": "Mr."
+    },
+    {
+        "number": 983,
+        "chinese": "别",
+        "english": "Do not"
+    },
+    {
+        "number": 984,
+        "chinese": "告",
+        "english": "Tell"
+    },
+    {
+        "number": 985,
+        "chinese": "真的",
+        "english": "Really"
+    },
+    {
+        "number": 986,
+        "chinese": "谢",
+        "english": "Thank"
+    },
+    {
+        "number": 987,
+        "chinese": "哦",
+        "english": "Oh"
+    },
+    {
+        "number": 988,
+        "chinese": "话",
+        "english": "Words"
+    },
+    {
+        "number": 989,
+        "chinese": "械",
+        "english": "Instrument"
+    },
+    {
+        "number": 990,
+        "chinese": "见",
+        "english": "See"
+    },
+    {
+        "number": 991,
+        "chinese": "当",
+        "english": "When the"
+    },
+    {
+        "number": 992,
+        "chinese": "芯",
+        "english": "Core"
+    },
+    {
+        "number": 993,
+        "chinese": "该",
+        "english": "That"
+    },
+    {
+        "number": 994,
+        "chinese": "西",
+        "english": "Western"
+    },
+    {
+        "number": 995,
+        "chinese": "子",
+        "english": "Child"
+    },
+    {
+        "number": 996,
+        "chinese": "已",
+        "english": "Already"
+    },
+    {
+        "number": 997,
+        "chinese": "會",
+        "english": "Can"
+    },
+    {
+        "number": 998,
+        "chinese": "小",
+        "english": "Small"
+    },
+    {
+        "number": 999,
+        "chinese": "爱",
+        "english": "Love"
+    },
+    {
+        "number": 1000,
+        "chinese": "特",
+        "english": "Special"
+    }
+]
