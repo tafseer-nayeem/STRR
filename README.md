@@ -7,7 +7,7 @@ The Single Token Retention Rate (**STRR**) is a novel, interpretable metric prop
 Our analysis using STRR reveals the systematic prioritization of **English**, strong support for **Chinese**, and pronounced fragmentation in languages like **Hindi** across six widely used LLM tokenizers. STRR complements fertility and provides actionable guidance for designing more equitable multilingual tokenizers.
 
 <p align="center">
-  <img src="./plots/STRR-analysis.png" alt="STRR Analysis" width="600" title="Single Token Retention Rate (STRR) across six LLM tokenizers for different language pairs">
+  <img src="./plots/STRR-analysis.png" alt="STRR Analysis" width="700" title="Single Token Retention Rate (STRR) across six LLM tokenizers for different language pairs">
 </p>
 
 ---
