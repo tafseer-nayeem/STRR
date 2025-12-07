@@ -15,7 +15,7 @@ This is the official repository for our paper, titled ["Beyond Fertility: Analyz
 If you use any of the resources or it's relevant to your work, please cite our [NeurIPS 2025 Workshop paper](https://arxiv.org/abs/2510.09947). 
 
 ```
-@misc{nayeem2025fertilityanalyzingstrrmetric,
+@misc{nayeem2025strrmetric,
       title={Beyond Fertility: Analyzing STRR as a Metric for Multilingual Tokenization Evaluation}, 
       author={Mir Tafseer Nayeem and Sawsan Alqahtani and Md Tahmid Rahman Laskar and Tasnim Mohiuddin and M Saiful Bari},
       year={2025},
